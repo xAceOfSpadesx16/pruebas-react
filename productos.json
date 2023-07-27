@@ -1,0 +1,2657 @@
+{
+    "productos": [
+      {
+        "Nombre": "Aceite de girasol - Óptimo",
+        "CodigoInterno": "01",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730132001165'}",
+        "Contenido": "900.0",
+        "UnidadMedida": "Mililitros",
+        "Marca": "Óptimo"
+      },
+      {
+        "Nombre": "Aceite de girasol - Río de la Plata",
+        "CodigoInterno": "02",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730205067661'}",
+        "Contenido": "900.0",
+        "UnidadMedida": "Mililitros",
+        "Marca": "Río de la Plata"
+      },
+      {
+        "Nombre": "Aceite de girasol - Uruguay",
+        "CodigoInterno": "03",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730132000441'}",
+        "Contenido": "900.0",
+        "UnidadMedida": "Mililitros",
+        "Marca": "Uruguay"
+      },
+      {
+        "Nombre": "Aceite de maíz - Delicia",
+        "CodigoInterno": "04",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730132001196'}",
+        "Contenido": "900.0",
+        "UnidadMedida": "Mililitros",
+        "Marca": "Delicia"
+      },
+      {
+        "Nombre": "Aceite de maíz - Rio de la Plata",
+        "CodigoInterno": "05",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730205040053'}",
+        "Contenido": "900.0",
+        "UnidadMedida": "Mililitros",
+        "Marca": "Río de la Plata"
+      },
+      {
+        "Nombre": "Aceite de maíz - Salad",
+        "CodigoInterno": "06",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7891080805738'}",
+        "Contenido": "900.0",
+        "UnidadMedida": "Mililitros",
+        "Marca": "Salad"
+      },
+      {
+        "Nombre": "Aceite de soja - Condesa",
+        "CodigoInterno": "07",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730132000434'}",
+        "Contenido": "900.0",
+        "UnidadMedida": "Mililitros",
+        "Marca": "Condesa"
+      },
+      {
+        "Nombre": "Aceite de soja - Río de la Plata",
+        "CodigoInterno": "8",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730205067593'}",
+        "Contenido": "900.0",
+        "UnidadMedida": "Mililitros",
+        "Marca": "Río de la Plata"
+      },
+      {
+        "Nombre": "Aceite de soja - Salad",
+        "CodigoInterno": "9",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7891080801693'}",
+        "Contenido": "900.0",
+        "UnidadMedida": "Mililitros",
+        "Marca": "Salad"
+      },
+      {
+        "Nombre": "Agua de mesa Con Gas - Matutina (2.25 Lts)",
+        "CodigoInterno": "10",
+        "Categoria": "Bebidas",
+        "CodigoProducto": "{'7730922250070'}",
+        "Contenido": "2.25",
+        "UnidadMedida": "Litros",
+        "Marca": "Matutina"
+      },
+      {
+        "Nombre": "Agua de mesa Con Gas - Nativa (2.25 Lts)",
+        "CodigoInterno": "11",
+        "Categoria": "Bebidas",
+        "CodigoProducto": "{'7730130000603'}",
+        "Contenido": "2.0",
+        "UnidadMedida": "Litros",
+        "Marca": "Nativa"
+      },
+      {
+        "Nombre": "Agua de mesa - Con Gas Salus (2.25 Lts.)",
+        "CodigoInterno": "12",
+        "Categoria": "Bebidas",
+        "CodigoProducto": "{'7730400000388'}",
+        "Contenido": "2.0",
+        "UnidadMedida": "Litros",
+        "Marca": "Salus"
+      },
+      {
+        "Nombre": "Aguja vacuna Con hueso  (1 Kg.)",
+        "CodigoInterno": "13",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'930'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Aguja Vacuna Sin  hueso   (1 Kg.)",
+        "CodigoInterno": "14",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'932'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Arroz Blanco - Blue Patna",
+        "CodigoInterno": "15",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730114000117'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Arroz blanco - Green Chef",
+        "CodigoInterno": "16",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730114400016'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Arroz blanco - Saman Blanco",
+        "CodigoInterno": "17",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730115040105'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Arroz Blanco - Aruba ",
+        "CodigoInterno": "18",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730115170109'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Arroz blanco - Pony",
+        "CodigoInterno": "19",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730115020107'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Arroz blanco - Vidarroz",
+        "CodigoInterno": "20",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730114000728'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Arvejas en conserva Campero",
+        "CodigoInterno": "21",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730905130047'}",
+        "Contenido": "300.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Campero"
+      },
+      {
+        "Nombre": "Arvejas en conserva Cololó",
+        "CodigoInterno": "22",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730213000018'}",
+        "Contenido": "300.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Cololó"
+      },
+      {
+        "Nombre": "Arvejas en conserva Nidemar",
+        "CodigoInterno": "23",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730332000975'}",
+        "Contenido": "380.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Nidemar"
+      },
+      {
+        "Nombre": "Azúcar blanco Azucarlito",
+        "CodigoInterno": "24",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730251000018'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Azúcarlito"
+      },
+      {
+        "Nombre": "Azúcar blanco Bella Unión",
+        "CodigoInterno": "25",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730106005113'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Bella Unión"
+      },
+      {
+        "Nombre": "Café envasado  Águila",
+        "CodigoInterno": "26",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730109012521'}",
+        "Contenido": "250.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Águila"
+      },
+      {
+        "Nombre": "Café envasado  Chaná",
+        "CodigoInterno": "27",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730109012323'}",
+        "Contenido": "250.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "El Chaná"
+      },
+      {
+        "Nombre": "Café envasado  Saint",
+        "CodigoInterno": "28",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730908360106'}",
+        "Contenido": "250.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Saint"
+      },
+      {
+        "Nombre": "Carne picada vacuna Hasta  5 % de grasa   (1 Kg.)",
+        "CodigoInterno": "29",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'940'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Carne picada vacuna Hasta 20 % de grasa  (1 Kg.)",
+        "CodigoInterno": "30",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'941'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Cerveza Patricia",
+        "CodigoInterno": "31",
+        "Categoria": "Bebidas",
+        "CodigoProducto": "{'7730452000435'}",
+        "Contenido": "0.96",
+        "UnidadMedida": "Litros",
+        "Marca": "Patricia"
+      },
+      {
+        "Nombre": "Cerveza Pilsen",
+        "CodigoInterno": "32",
+        "Categoria": "Bebidas",
+        "CodigoProducto": "{'77302502'}",
+        "Contenido": "0.96",
+        "UnidadMedida": "Litros",
+        "Marca": "Pilsen"
+      },
+      {
+        "Nombre": "Cerveza Zillertal",
+        "CodigoInterno": "33",
+        "Categoria": "Bebidas",
+        "CodigoProducto": "{'7730452001319'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Litros",
+        "Marca": "Zillertal"
+      },
+      {
+        "Nombre": "Champú Fructis",
+        "CodigoInterno": "34",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7509552906479'}",
+        "Contenido": "0.35",
+        "UnidadMedida": "Litros",
+        "Marca": "Fructis"
+      },
+      {
+        "Nombre": "Champú Sedal",
+        "CodigoInterno": "35",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'779129301434'}",
+        "Contenido": "0.35",
+        "UnidadMedida": "Litros",
+        "Marca": "Sedal"
+      },
+      {
+        "Nombre": "Champú Suave",
+        "CodigoInterno": "36",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'779129300836634'}",
+        "Contenido": "0.93",
+        "UnidadMedida": "Litros",
+        "Marca": "Suave"
+      },
+      {
+        "Nombre": "Chorizos Cattivelli   (1 Kg.)",
+        "CodigoInterno": "37",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'934'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Cattivelli-Extra"
+      },
+      {
+        "Nombre": "Chorizos Centenario  (1 Kg.)",
+        "CodigoInterno": "38",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'936'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Centenario-Extra"
+      },
+      {
+        "Nombre": "Chorizos La Familia   (1 Kg.)",
+        "CodigoInterno": "39",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'935'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "La Familia - Hilo Amarillo"
+      },
+      {
+        "Nombre": "Cocoa Copacabana",
+        "CodigoInterno": "40",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730109032154'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Copacabana"
+      },
+      {
+        "Nombre": "Cocoa Vascolet",
+        "CodigoInterno": "41",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730109001686'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Vascolet"
+      },
+      {
+        "Nombre": "Desodorante en aerosol Axe Musk",
+        "CodigoInterno": "42",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7791293022130'}",
+        "Contenido": "105.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Axe Musk"
+      },
+      {
+        "Nombre": "Desodorante en aerosol Dove Original",
+        "CodigoInterno": "43",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7791293008141'}",
+        "Contenido": "113.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Dove Original"
+      },
+      {
+        "Nombre": "Desodorante en aerosol Rexona Active Emotion",
+        "CodigoInterno": "44",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7791293004310'}",
+        "Contenido": "100.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Rexona Active Emotion"
+      },
+      {
+        "Nombre": "Detergente para vajilla Deterjane limón",
+        "CodigoInterno": "45",
+        "Categoria": "Hogar",
+        "CodigoProducto": "{'7731024008118'}",
+        "Contenido": "1.25",
+        "UnidadMedida": "Litros",
+        "Marca": "Deterjane Limón"
+      },
+      {
+        "Nombre": "Detergente para vajilla Hurra Nevex limón",
+        "CodigoInterno": "46",
+        "Categoria": "Hogar",
+        "CodigoProducto": "{'7730165317424'}",
+        "Contenido": "1.25",
+        "UnidadMedida": "Litros",
+        "Marca": "Hurra Nevex Limón"
+      },
+      {
+        "Nombre": "Detergente para vajilla Protergente limón",
+        "CodigoInterno": "47",
+        "Categoria": "Hogar",
+        "CodigoProducto": "{'7730329024014'}",
+        "Contenido": "1.25",
+        "UnidadMedida": "Litros",
+        "Marca": "Protergente"
+      },
+      {
+        "Nombre": "Dulce de leche envasado Conaprole",
+        "CodigoInterno": "48",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730105005091'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Conaprole"
+      },
+      {
+        "Nombre": "Dulce de leche envasado Los Nietitos",
+        "CodigoInterno": "49",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730124384009'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Los Nietitos"
+      },
+      {
+        "Nombre": "Dulce de leche envasado Manjar",
+        "CodigoInterno": "50",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730105005435'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Manjar"
+      },
+      {
+        "Nombre": "Dulce de membrillo  envasado Los Nietitos",
+        "CodigoInterno": "51",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730124020501'}",
+        "Contenido": "400.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Los Nietitos"
+      },
+      {
+        "Nombre": "Fideos secos al huevo Adria",
+        "CodigoInterno": "52",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730103300352'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Adria"
+      },
+      {
+        "Nombre": "Fideos secos al huevo Cololó (Moñas)",
+        "CodigoInterno": "53",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730213000148'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Cololó"
+      },
+      {
+        "Nombre": "Fideos secos al huevo Las Acacias",
+        "CodigoInterno": "54",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730430000136'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Las Acacias"
+      },
+      {
+        "Nombre": "Fideos secos semolados Adria",
+        "CodigoInterno": "55",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'773010301072'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Adria"
+      },
+      {
+        "Nombre": "Fideos secos semolados Las Acacias",
+        "CodigoInterno": "56",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730430001171'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Las Acacias"
+      },
+      {
+        "Nombre": "Fideos secos semolados Puritas",
+        "CodigoInterno": "57",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730354001158'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Puritas"
+      },
+      {
+        "Nombre": "Frankfurters Cortos Envasados al Vacío -  Centenario",
+        "CodigoInterno": "58",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730687000033'}",
+        "Contenido": "8.0",
+        "UnidadMedida": "Unidades",
+        "Marca": "Centenario"
+      },
+      {
+        "Nombre": "Frankfurters Cortos Envasados al Vacío - Ottonello ",
+        "CodigoInterno": "59",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730901130577'}",
+        "Contenido": "8.0",
+        "UnidadMedida": "Unidades",
+        "Marca": "Ottonello"
+      },
+      {
+        "Nombre": "Frankfurters Cortos Envasados al Vacío  - Schneck ",
+        "CodigoInterno": "60",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730138003026'}",
+        "Contenido": "8.0",
+        "UnidadMedida": "Unidades",
+        "Marca": "Schneck"
+      },
+      {
+        "Nombre": "Galletitas al agua Famosa",
+        "CodigoInterno": "61",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7622300226480'}",
+        "Contenido": "140.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Famosa"
+      },
+      {
+        "Nombre": "Galletitas al agua Maestro Cubano",
+        "CodigoInterno": "62",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730154000986'}",
+        "Contenido": "120.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "El Maestro Cubano"
+      },
+      {
+        "Nombre": "Gaseosa Coca Cola (1.5 Lts)",
+        "CodigoInterno": "63",
+        "Categoria": "Bebidas",
+        "CodigoProducto": "{'7730197232962'}",
+        "Contenido": "1.5",
+        "UnidadMedida": "Litros",
+        "Marca": "Coca-Cola"
+      },
+      {
+        "Nombre": "Gaseosa Coca Cola (2.25 Lts.)",
+        "CodigoInterno": "64",
+        "Categoria": "Bebidas",
+        "CodigoProducto": "{'7730197112967'}",
+        "Contenido": "2.25",
+        "UnidadMedida": "Litros",
+        "Marca": "Coca-Cola"
+      },
+      {
+        "Nombre": "Gaseosa Nix (1.5 Lts)",
+        "CodigoInterno": "65",
+        "Categoria": "Bebidas",
+        "CodigoProducto": "{'7730289000530'}",
+        "Contenido": "1.5",
+        "UnidadMedida": "Litros",
+        "Marca": "Nix"
+      },
+      {
+        "Nombre": "Gaseosa Pepsi (2.5 Lts)",
+        "CodigoInterno": "66",
+        "Categoria": "Bebidas",
+        "CodigoProducto": "{'7734284600016'}",
+        "Contenido": "2.5",
+        "UnidadMedida": "Litros",
+        "Marca": "Pepsi-Cola"
+      },
+      {
+        "Nombre": "Gaseosa Pepsi (1.5 Lts)",
+        "CodigoInterno": "67",
+        "Categoria": "Bebidas",
+        "CodigoProducto": "{'7734284114087'}",
+        "Contenido": "1.5",
+        "UnidadMedida": "Litros",
+        "Marca": "Pepsi-Cola"
+      },
+      {
+        "Nombre": "Hamburguesas carne vacuna Burgy",
+        "CodigoInterno": "68",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730138000575'}",
+        "Contenido": "2.0",
+        "UnidadMedida": "Unidades",
+        "Marca": "Burgy"
+      },
+      {
+        "Nombre": "Hamburguesas carne vacuna Paty",
+        "CodigoInterno": "69",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730901381146'}",
+        "Contenido": "2.0",
+        "UnidadMedida": "Unidades",
+        "Marca": "Paty"
+      },
+      {
+        "Nombre": "Hamburguesas carne vacuna Schneck",
+        "CodigoInterno": "70",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730138000599'}",
+        "Contenido": "3.0",
+        "UnidadMedida": "Unidades",
+        "Marca": "Schneck"
+      },
+      {
+        "Nombre": "Harina de maíz Gourmet",
+        "CodigoInterno": "71",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730306002103'}",
+        "Contenido": "400.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Polenta Gourmet"
+      },
+      {
+        "Nombre": "Harina de maíz Presto Pronta Arcor",
+        "CodigoInterno": "72",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7790580660000'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Presto Pronta Arcor"
+      },
+      {
+        "Nombre": "Harina de maíz Puritas",
+        "CodigoInterno": "73",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730354002322'}",
+        "Contenido": "450.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Puritas"
+      },
+      {
+        "Nombre": "Harina trigo 000 Cañuelas",
+        "CodigoInterno": "74",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730376000085'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Cañuelas"
+      },
+      {
+        "Nombre": "Harina trigo 000 Cololó",
+        "CodigoInterno": "75",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730213000506'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Cololó"
+      },
+      {
+        "Nombre": "Harina trigo 0000 Cañuelas",
+        "CodigoInterno": "76",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730376000061'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Cañuelas"
+      },
+      {
+        "Nombre": "Harina trigo común 0000 Cololó",
+        "CodigoInterno": "77",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730213000117'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Cololó"
+      },
+      {
+        "Nombre": "Harina trigo común 0000 Primor",
+        "CodigoInterno": "78",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730133000105'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Primor"
+      },
+      {
+        "Nombre": "Helado familiar Conaprole",
+        "CodigoInterno": "79",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Litros",
+        "Marca": "Conaprole"
+      },
+      {
+        "Nombre": "Helado familiar Crufi",
+        "CodigoInterno": "80",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'77309165800282'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Litros",
+        "Marca": "Crufi"
+      },
+      {
+        "Nombre": "Helado familiar Gebetto",
+        "CodigoInterno": "81",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'77301059802726'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Litros",
+        "Marca": "Gebetto"
+      },
+      {
+        "Nombre": "Hipoclorito de sodio Agua Jane",
+        "CodigoInterno": "82",
+        "Categoria": "Hogar",
+        "CodigoProducto": "{'7730494011017'}",
+        "Contenido": "1.02",
+        "UnidadMedida": "Litros",
+        "Marca": "Agua Jane"
+      },
+      {
+        "Nombre": "Hipoclorito de sodio Sello Rojo",
+        "CodigoInterno": "83",
+        "Categoria": "Hogar",
+        "CodigoProducto": "{'7730494001001'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Litros",
+        "Marca": "Sello Rojo"
+      },
+      {
+        "Nombre": "Hipoclorito de sodio Solución Cristal",
+        "CodigoInterno": "84",
+        "Categoria": "Hogar",
+        "CodigoProducto": "{'7730377066028'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Litros",
+        "Marca": "Solución Cristal"
+      },
+      {
+        "Nombre": "Huevos colorados El Jefe",
+        "CodigoInterno": "85",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730637000045'}",
+        "Contenido": "6.0",
+        "UnidadMedida": "Unidades",
+        "Marca": "El Jefe"
+      },
+      {
+        "Nombre": "Huevos colorados Prodhin",
+        "CodigoInterno": "86",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730239001211'}",
+        "Contenido": "6.0",
+        "UnidadMedida": "Unidades",
+        "Marca": "Prodhin"
+      },
+      {
+        "Nombre": "Huevos colorados Super Huevo",
+        "CodigoInterno": "87",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730653000012'}",
+        "Contenido": "6.0",
+        "UnidadMedida": "Unidades",
+        "Marca": "Super huevo"
+      },
+      {
+        "Nombre": "Jabón de tocador Astral plata ",
+        "CodigoInterno": "88",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7891024176771'}",
+        "Contenido": "125.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Astral Plata"
+      },
+      {
+        "Nombre": "Jabón de tocador Palmolive",
+        "CodigoInterno": "89",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'78910241777433'}",
+        "Contenido": "125.0",
+        "UnidadMedida": "Gramos"
+      },
+      {
+        "Nombre": "Jabón de tocador Rexona",
+        "CodigoInterno": "90",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7791293527594'}",
+        "Contenido": "125.0",
+        "UnidadMedida": "Gramos"
+      },
+      {
+        "Nombre": "Jabón en polvo máquina Drive",
+        "CodigoInterno": "91",
+        "Categoria": "Hogar",
+        "CodigoProducto": "{'7791290010918'}",
+        "Contenido": "800.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Drive"
+      },
+      {
+        "Nombre": "Jabón en polvo máquina Nevex",
+        "CodigoInterno": "92",
+        "Categoria": "Hogar",
+        "CodigoProducto": "{'779129020XXXX'}",
+        "Contenido": "800.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Nevex"
+      },
+      {
+        "Nombre": "Jabón en Polvo Máquina Skip",
+        "CodigoInterno": "93",
+        "Categoria": "Hogar",
+        "CodigoProducto": "{'7791290012615'}",
+        "Contenido": "800.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Skip Paquete Azul"
+      },
+      {
+        "Nombre": "Jabón para  ropa en barra Bull Dog",
+        "CodigoInterno": "94",
+        "Categoria": "Hogar",
+        "CodigoProducto": "{'7791290004764'}",
+        "Contenido": "300.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Bull Dog"
+      },
+      {
+        "Nombre": "Jabón para  ropa en barra Nevex",
+        "CodigoInterno": "95",
+        "Categoria": "Hogar",
+        "CodigoProducto": "{}",
+        "Contenido": "200.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Nevex"
+      },
+      {
+        "Nombre": "Jabón para  ropa en barra Primor",
+        "CodigoInterno": "96",
+        "Categoria": "Hogar",
+        "CodigoProducto": "{'77302050666848'}",
+        "Contenido": "200.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Primor"
+      },
+      {
+        "Nombre": "Jamón cocido no artesanal Cativelli",
+        "CodigoInterno": "97",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'904'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Cattivelli"
+      },
+      {
+        "Nombre": "Jamón cocido no artesanal Ottonello",
+        "CodigoInterno": "98",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'903'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Ottonello"
+      },
+      {
+        "Nombre": "Leonesa La Constancia  (1 Kg.)",
+        "CodigoInterno": "99",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'907'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "La Constancia"
+      },
+      {
+        "Nombre": "Leonesa Ottonello  (1 Kg.)",
+        "CodigoInterno": "100",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'909'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Ottonello"
+      },
+      {
+        "Nombre": "Leonesa Schneck  (1 Kg.)",
+        "CodigoInterno": "101",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'906'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Schneck"
+      },
+      {
+        "Nombre": "Manteca Calcar",
+        "CodigoInterno": "102",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730901250176'}",
+        "Contenido": "200.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Calcar"
+      },
+      {
+        "Nombre": "Manteca Conaprole sin sal",
+        "CodigoInterno": "103",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'77306197'}",
+        "Contenido": "200.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Conaprole"
+      },
+      {
+        "Nombre": "Manteca Kasdorf",
+        "CodigoInterno": "104",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730105006357'}",
+        "Contenido": "200.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Kasdorf"
+      },
+      {
+        "Nombre": "Margarina Doriana nueva",
+        "CodigoInterno": "105",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7805000300746'}",
+        "Contenido": "250.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Doriana Nueva"
+      },
+      {
+        "Nombre": "Margarina Flor",
+        "CodigoInterno": "106",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730132000571'}",
+        "Contenido": "250.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Flor"
+      },
+      {
+        "Nombre": "Margarina Primor",
+        "CodigoInterno": "107",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730132000533'}",
+        "Contenido": "250.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Primor"
+      },
+      {
+        "Nombre": "Mayonesa común Fanacoa",
+        "CodigoInterno": "108",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7790450086107'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Fanacoa"
+      },
+      {
+        "Nombre": "Mayonesa común Hellmans",
+        "CodigoInterno": "109",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7794000401389'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Hellmans"
+      },
+      {
+        "Nombre": "Mayonesa común Uruguay",
+        "CodigoInterno": "110",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730132000779'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Uruguay"
+      },
+      {
+        "Nombre": "Mermelada de durazno Dulciora",
+        "CodigoInterno": "111",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7790580508104'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Dulciora"
+      },
+      {
+        "Nombre": "Mermelada de durazno El Hogar",
+        "CodigoInterno": "112",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730180086831'}",
+        "Contenido": "400.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "El Hogar"
+      },
+      {
+        "Nombre": "Mermelada de durazno Los Nietitos",
+        "CodigoInterno": "113",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730124010304'}",
+        "Contenido": "400.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Los Nietitos"
+      },
+      {
+        "Nombre": "Nalga vacuna con  hueso  (1 Kg.)",
+        "CodigoInterno": "114",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'950'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Nalga vacuna sin  hueso   (1 Kg.)",
+        "CodigoInterno": "115",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'952'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Paleta  vacuna con  hueso   (1 Kg.)",
+        "CodigoInterno": "116",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'960'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Paleta  vacuna sin  hueso  (1 Kg.)",
+        "CodigoInterno": "117",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'962'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Pan de molde americano lacteado Los Sorchantes",
+        "CodigoInterno": "118",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730117000015'}",
+        "Contenido": "330.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Los Sorchantes"
+      },
+      {
+        "Nombre": "Pan de molde blanco lacteado Bimbo",
+        "CodigoInterno": "119",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730117002095'}",
+        "Contenido": "330.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Bimbo"
+      },
+      {
+        "Nombre": "Pan de molde blanco lacteado Pan Catalán",
+        "CodigoInterno": "120",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730230000336'}",
+        "Contenido": "330.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Pan Catalán"
+      },
+      {
+        "Nombre": "Pan flauta Sin Marca",
+        "Marca": "Sin Marca",
+        "CodigoInterno": "121",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'910'}",
+        "Contenido": "215.0",
+        "UnidadMedida": "Gramos"
+      },
+      {
+        "Nombre": "Papel higiénico hoja simple Elite",
+        "CodigoInterno": "122",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7790250021438'}",
+        "Contenido": "4.0",
+        "UnidadMedida": "Unidades",
+        "Marca": "Elite"
+      },
+      {
+        "Nombre": "Papel higiénico hoja simple Higienol Export",
+        "CodigoInterno": "123",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7730219001101'}",
+        "Contenido": "4.0",
+        "UnidadMedida": "Unidades",
+        "Marca": "Higienol Export"
+      },
+      {
+        "Nombre": "Papel higiénico hoja simple Sin Fin",
+        "CodigoInterno": "124",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7730219010707'}",
+        "Contenido": "4.0",
+        "UnidadMedida": "Unidades",
+        "Marca": "Sin Fin"
+      },
+      {
+        "Nombre": "Pasta dental Colgate Herbal Blanqueador",
+        "CodigoInterno": "125",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7891024133668'}",
+        "Contenido": "90.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Colgate Herbal Blanqueador"
+      },
+      {
+        "Nombre": "Pasta dental Kolynos Triple acción",
+        "CodigoInterno": "126",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7793100120121'}",
+        "Contenido": "90.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Kolynos Triple Acción"
+      },
+      {
+        "Nombre": "Pasta dental Pico Jenner Plus",
+        "CodigoInterno": "127",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7730366000170'}",
+        "Contenido": "90.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Pico Jenner Plus"
+      },
+      {
+        "Nombre": "Peceto vacuno   (1 Kg.)",
+        "CodigoInterno": "128",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'980'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Pescado fresco - Bifes de merluza   (1 Kg.)",
+        "CodigoInterno": "129",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'948'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Pollo entero fresco con menudos Avicola del Oeste",
+        "CodigoInterno": "130",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'955'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Avícolas del Oeste"
+      },
+      {
+        "Nombre": "Pollo entero fresco Tenent",
+        "CodigoInterno": "131",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'956'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Tenent"
+      },
+      {
+        "Nombre": "Pollo entero fresco con menudos Tres Arroyos",
+        "CodigoInterno": "132",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'957'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Tres Arroyos"
+      },
+      {
+        "Nombre": "Pulpa de tomate Conaprole",
+        "CodigoInterno": "133",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730105015403'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Conaprole"
+      },
+      {
+        "Nombre": "Pulpa de tomate concentrada De Ley",
+        "CodigoInterno": "134",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730306000604'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Pulpa de tomate Gourmet",
+        "CodigoInterno": "135",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730306000017'}",
+        "Contenido": "1.02",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Queso rallado Artesano",
+        "CodigoInterno": "136",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730379000051'}",
+        "Contenido": "80.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Artesano"
+      },
+      {
+        "Nombre": "Queso rallado Conaprole",
+        "CodigoInterno": "137",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730105008832'}",
+        "Contenido": "80.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Conaprole"
+      },
+      {
+        "Nombre": "Queso rallado Milky",
+        "CodigoInterno": "138",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730153000185'}",
+        "Contenido": "80.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Milky"
+      },
+      {
+        "Nombre": "Rueda vacuna con hueso sin Marca",
+        "Marca": "Sin Marca",
+        "CodigoInterno": "139",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'970'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Sal fina yodada fluorada Sek",
+        "CodigoInterno": "140",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'77300607'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Sek"
+      },
+      {
+        "Nombre": "Sal fina yodada fluorada Torrevieja",
+        "CodigoInterno": "141",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730901390063'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Torrevieja"
+      },
+      {
+        "Nombre": "Sal fina yodada fluorada Urusal",
+        "CodigoInterno": "142",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730214000062'}",
+        "Contenido": "500.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Urusal"
+      },
+      {
+        "Nombre": "Té negro en saquitos Hornimans",
+        "CodigoInterno": "143",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730261000046'}",
+        "Contenido": "10.0",
+        "UnidadMedida": "Unidades",
+        "Marca": "Hornimans"
+      },
+      {
+        "Nombre": "Té negro en saquitos La Virginia",
+        "CodigoInterno": "144",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7790150572290'}",
+        "Contenido": "10.0",
+        "UnidadMedida": "Unidades",
+        "Marca": "La Virginia"
+      },
+      {
+        "Nombre": "Té negro en saquitos President",
+        "CodigoInterno": "145",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730220030527'}",
+        "Contenido": "10.0",
+        "UnidadMedida": "Unidades",
+        "Marca": "President"
+      },
+      {
+        "Nombre": "Vino tinto común tetrabrick Faisán",
+        "CodigoInterno": "146",
+        "Categoria": "Bebidas",
+        "CodigoProducto": "{'7730540000187'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Litros",
+        "Marca": "Faisán"
+      },
+      {
+        "Nombre": "Vino tinto común tetrabrick Santa Teresa Clásico",
+        "CodigoInterno": "147",
+        "Categoria": "Bebidas",
+        "CodigoProducto": "{'7730135000035'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Litros",
+        "Marca": "Santa Teresa Clásico"
+      },
+      {
+        "Nombre": "Vino tinto común tetrabrick Tango",
+        "CodigoInterno": "148",
+        "Categoria": "Bebidas",
+        "CodigoProducto": "{'7730135000318'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Litros",
+        "Marca": "Tango"
+      },
+      {
+        "Nombre": "Yerba mate común Baldo",
+        "CodigoInterno": "149",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730241003920'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Baldo"
+      },
+      {
+        "Nombre": "Yerba mate común Canarias",
+        "CodigoInterno": "150",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730241003654'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Canarias"
+      },
+      {
+        "Nombre": "Yerba mate común Del Cebador",
+        "CodigoInterno": "151",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730354000519'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos",
+        "Marca": "Del Cebador"
+      },
+      {
+        "Nombre": "Yogur semi-descremado frutado durazno Calcar",
+        "CodigoInterno": "152",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730901250565'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Litros",
+        "Marca": "Calcar"
+      },
+      {
+        "Nombre": "Yogur Conaprole BIO TOP",
+        "CodigoInterno": "153",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730105032820'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Litros",
+        "Marca": "Conaprole"
+      },
+      {
+        "Nombre": "Yogur semi-descremado frutado durazno Parmalat BIO YOGUR",
+        "CodigoInterno": "154",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{'7730112088520'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Litros",
+        "Marca": "Parmalat - Bio yogur"
+      },
+      {
+        "Nombre": "Lápiz Negro Bic",
+        "CodigoInterno": "155",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'070330415447','070330410792'}",
+        "Contenido": "4.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Crayolas Acrilex",
+        "CodigoInterno": "156",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7891153090122'}",
+        "Contenido": "12.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lápiz Negro Faber",
+        "CodigoInterno": "157",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7891360434498'}",
+        "Contenido": "6.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lápiz Negro Maped",
+        "CodigoInterno": "158",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'3154148517115','315414850011'}",
+        "Contenido": "3.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lápiz Negro Stábilo",
+        "CodigoInterno": "159",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'4006381157520','9556091135981','9556091101387','400638114830'}",
+        "Contenido": "3.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lápiz Negro Memories Precious",
+        "CodigoInterno": "160",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'230210616007'}",
+        "Contenido": "4.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lápices de colores Largos Bic",
+        "CodigoInterno": "161",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'070330411425','070330243264','070333024326'}",
+        "Contenido": "12.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lápices de colores Largos Faber",
+        "CodigoInterno": "162",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7891360545637','7891360547746','7891360577546','789136044447'}",
+        "Contenido": "12.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lápices de colores Largos Maped",
+        "CodigoInterno": "163",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'3154141832123','3154141832130'}",
+        "Contenido": "12.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lápices de colores Largos Teoría",
+        "CodigoInterno": "164",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'6946182900124','471183520210'}",
+        "Contenido": "12.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lápices de colores Largos Memories Precious",
+        "CodigoInterno": "165",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'23021089000007'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lápices de colores Largos School",
+        "CodigoInterno": "166",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'0000001391190'}",
+        "Contenido": "12.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Bolígrafo 1mm (azul - negro -  rojo - verde) Bic",
+        "CodigoInterno": "167",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'07033014776','07033014414','070330123663'}",
+        "Contenido": "4.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Bolígrafo 1mm (azul - negro -  rojo - verde) Pilot",
+        "CodigoInterno": "168",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'4902505084584'}",
+        "Contenido": "2.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Bolígrafo 1mm (azul - negro -  rojo - verde) Stabilo",
+        "CodigoInterno": "169",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'955609137923','955609143771'}",
+        "Contenido": "6.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Bolígrafo 1mm (azul - negro -  rojo - verde) Teoría",
+        "CodigoInterno": "170",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'6924300622226'}",
+        "Contenido": "6.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Crayolas o pasteles Bic",
+        "CodigoInterno": "171",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{}",
+        "Contenido": "12.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Crayolas Bic",
+        "CodigoInterno": "172",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7033042374'}",
+        "Contenido": "12.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Crayolas Faber",
+        "CodigoInterno": "173",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7891360507017','70330423749'}",
+        "Contenido": "12.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Pincel School",
+        "CodigoInterno": "174",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'0000001390667'}",
+        "Contenido": "6.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Pincel Sin Marca",
+        "Marca": "Sin Marca",
+        "CodigoInterno": "175",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'9312492012517','9312492012518'}",
+        "Contenido": "3.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Barra Adhesiva UHU",
+        "CodigoInterno": "176",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'4026700501889'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Gramos"
+      },
+      {
+        "Nombre": "Cascola Acrilex",
+        "CodigoInterno": "177",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7891153031262'}",
+        "Contenido": "100.0",
+        "UnidadMedida": "Gramos"
+      },
+      {
+        "Nombre": "Cascola Bic",
+        "CodigoInterno": "178",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'70330509085'}",
+        "Contenido": "90.0",
+        "UnidadMedida": "Gramos"
+      },
+      {
+        "Nombre": "Cascola School",
+        "CodigoInterno": "179",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'0000001390247'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Gramos"
+      },
+      {
+        "Nombre": "Goma lápiz Stadler",
+        "CodigoInterno": "180",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'4007817523070'}",
+        "Contenido": "2.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Goma lápiz Bic",
+        "CodigoInterno": "181",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'070330802117'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Goma lápiz Maped",
+        "CodigoInterno": "182",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'3154140113056'}",
+        "Contenido": "3.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Tijera Punta Roma Maped",
+        "CodigoInterno": "183",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'3154144645102','3154144700108'}",
+        "Contenido": "13.0",
+        "UnidadMedida": "Centímetros"
+      },
+      {
+        "Nombre": "Compás Maped",
+        "CodigoInterno": "184",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'3154140191108'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Sacapuntas plástico Maped",
+        "CodigoInterno": "185",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'3154145347548','3154146347547'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Sacapuntas plástico School",
+        "CodigoInterno": "186",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'0000001390261'}",
+        "Contenido": "4.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Marcadores delgados Bic",
+        "CodigoInterno": "187",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'070330345638'}",
+        "Contenido": "10.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Marcadores delgados Faber",
+        "CodigoInterno": "188",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'77541116856'}",
+        "Contenido": "6.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Marcadores delgados School",
+        "CodigoInterno": "190",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'0000001390810'}",
+        "Contenido": "12.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Marcadores delgados Longlory",
+        "CodigoInterno": "192",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'6927523312547'}",
+        "Contenido": "24.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Marcadores delgados Sylvapen",
+        "CodigoInterno": "193",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'6930746622867'}",
+        "Contenido": "12.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Marcadores delgados Stabilo",
+        "CodigoInterno": "194",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'4006381355629','4006381355636'}",
+        "Contenido": "12.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Marcadores gruesos Sylvapen",
+        "CodigoInterno": "195",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7730640300309'}",
+        "Contenido": "6.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "CodigoInterno": "196",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'6927523353861'}",
+        "Contenido": "6.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Marcadores flúor Bic",
+        "CodigoInterno": "197",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'070330342637','070330342676'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Marcadores flúor Stabilo",
+        "CodigoInterno": "198",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'4006381101325','4006381101387','4006381101295','4006381101417'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lápiz Corrector Teoría",
+        "CodigoInterno": "199",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'6924492441438','6936198404808'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lápiz Corrector Bic",
+        "CodigoInterno": "200",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'70330506947'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lápiz Corrector Liquid Paper",
+        "CodigoInterno": "201",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'8854556000548'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Hojas de Garbanzo Papiro",
+        "CodigoInterno": "202",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7730900225724'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Hojas de Garbanzo Tabaré",
+        "CodigoInterno": "203",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'773052904021'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Hojas de Garbanzo Caballito",
+        "CodigoInterno": "204",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7730529202021'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Hojas de Garbanzo Tilibra",
+        "CodigoInterno": "205",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7730529004021'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Juego de Geometría completo (sólo reglas, escuadra, sin compás) Maped",
+        "CodigoInterno": "206",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'3154142428158','3154142427670'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Hojas Tabaré",
+        "CodigoInterno": "207",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7730529036015'}",
+        "Contenido": "48.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Carpeta tamaño hojas A4 Papiro",
+        "CodigoInterno": "208",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7730900225717'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Cuaderno Rayado Papiros",
+        "CodigoInterno": "209",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7730900220866','773090022064','7730900221313','7730900220040'}",
+        "Contenido": "48.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Cuaderno rayado Extreme",
+        "CodigoInterno": "210",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7730900221023','7730900221054'}",
+        "Contenido": "48.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Cuaderno rayado Multiahorro",
+        "CodigoInterno": "211",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'77309222433'}",
+        "Contenido": "96.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Hojas cuadriculadas Tabaré",
+        "CodigoInterno": "212",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'8889000014628'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Cuadernola Papiros Tapa Dura 100 Hojas",
+        "CodigoInterno": "213",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7730900221580','7730900220835'}",
+        "Contenido": "100.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Cuadernola Multiahorro",
+        "CodigoInterno": "214",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'707730900222440','707730900000457'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Cuadernola Extreme",
+        "CodigoInterno": "215",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7730900221115','7730900221108'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Cuadernola Tilibra",
+        "CodigoInterno": "216",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7891027382650'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Libreta para anotaciones (deberes) Papiros 48 Hojas",
+        "CodigoInterno": "217",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7730900221575','7730913413910','7730900221573'}",
+        "Contenido": "48.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Túnica Sin Marca",
+        "Marca": "Sin Marca",
+        "CodigoInterno": "218",
+        "Categoria": "Vestimenta",
+        "CodigoProducto": "{'7730913414122'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Túnica Extreme",
+        "CodigoInterno": "219",
+        "Categoria": "Vestimenta",
+        "CodigoProducto": "{'7730913413910'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Moña",
+        "CodigoInterno": "220",
+        "Categoria": "Vestimenta",
+        "CodigoProducto": "{}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Marcadores Flúor Bic 4 uds",
+        "CodigoInterno": "221",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'070330344112','070330346765'}",
+        "Contenido": "4.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Marcadores Flúor Stabilo 4 uds",
+        "CodigoInterno": "222",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'40063814173'}",
+        "Contenido": "4.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Cuaderno Rayado Papiros Espiral",
+        "CodigoInterno": "223",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7730900221313'}",
+        "Contenido": "48.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Cuaderno Rayado Papiros Tapa Blanda",
+        "CodigoInterno": "224",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'773090022064','773090022312'}",
+        "Contenido": "96.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Acelga",
+        "CodigoInterno": "225",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Arvejas",
+        "CodigoInterno": "226",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Berenjena Violeta",
+        "CodigoInterno": "227",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Berro",
+        "CodigoInterno": "228",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Boniato Arapery",
+        "CodigoInterno": "229",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Boniato Morado",
+        "CodigoInterno": "230",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Brócoli",
+        "CodigoInterno": "231",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Cebolla Seca",
+        "CodigoInterno": "232",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Cebolla de Verdeo",
+        "CodigoInterno": "233",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Chaucha",
+        "CodigoInterno": "234",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Choclo",
+        "CodigoInterno": "235",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Coliflor",
+        "CodigoInterno": "236",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Espinaca",
+        "CodigoInterno": "237",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lechuga Crespa",
+        "CodigoInterno": "238",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lechuga Mantecosa",
+        "CodigoInterno": "239",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Morrón Amarillo",
+        "CodigoInterno": "240",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Morrón Rojo",
+        "CodigoInterno": "241",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Morrón Verde",
+        "CodigoInterno": "242",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Nabo",
+        "CodigoInterno": "243",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Papa Blanca",
+        "CodigoInterno": "244",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Papa Rosada",
+        "CodigoInterno": "245",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Pepino",
+        "CodigoInterno": "246",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Puerro",
+        "CodigoInterno": "247",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Rabanito",
+        "CodigoInterno": "248",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Remolacha",
+        "CodigoInterno": "249",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Repollo Blanco",
+        "CodigoInterno": "250",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Repollo Colorado",
+        "CodigoInterno": "251",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Repollo Crespo",
+        "CodigoInterno": "252",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Tomate Americano",
+        "CodigoInterno": "253",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Tomate Perita",
+        "CodigoInterno": "254",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Banana Ecuador",
+        "CodigoInterno": "255",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Zanahoria",
+        "CodigoInterno": "256",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Banana Brasil",
+        "CodigoInterno": "257",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Ciruela Blanca",
+        "CodigoInterno": "258",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Zapallito Redondo",
+        "CodigoInterno": "259",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Ciruela Roja",
+        "CodigoInterno": "260",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Zapallito Zuchini",
+        "CodigoInterno": "261",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Zapallo Calabacín",
+        "CodigoInterno": "262",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Durazno Rey del Monte",
+        "CodigoInterno": "263",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Zapallo Criollo",
+        "CodigoInterno": "264",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Durazno Pavía",
+        "CodigoInterno": "265",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Zapallo Kabutiá",
+        "CodigoInterno": "266",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Frutilla",
+        "CodigoInterno": "267",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Kiwi Chile",
+        "CodigoInterno": "268",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Kiwi Nueva Zelanda",
+        "CodigoInterno": "269",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Limón",
+        "CodigoInterno": "270",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Mandarina Avana Mont.",
+        "CodigoInterno": "271",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Mandarina Común",
+        "CodigoInterno": "272",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Mandarina Ellendale",
+        "CodigoInterno": "273",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Mandarina Zazuma",
+        "CodigoInterno": "274",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Manzana Fuji",
+        "CodigoInterno": "275",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Manzana Granny Smith",
+        "CodigoInterno": "276",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Manzana Red Deliciosa",
+        "CodigoInterno": "277",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Manzana Red Chieff",
+        "CodigoInterno": "278",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Manzana Roja At. Cont.",
+        "CodigoInterno": "279",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Manzana Royal Gala",
+        "CodigoInterno": "280",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Melón Amarillo",
+        "CodigoInterno": "281",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Melón Escrito",
+        "CodigoInterno": "282",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Melón Orange",
+        "CodigoInterno": "283",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Melón Piel de Sapo",
+        "CodigoInterno": "284",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Melón Reticulado",
+        "CodigoInterno": "285",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Naranja Navel",
+        "CodigoInterno": "286",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Naranja Valencia",
+        "CodigoInterno": "287",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Pera Francesa",
+        "CodigoInterno": "288",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Pera Packams",
+        "CodigoInterno": "289",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Pera Williams",
+        "CodigoInterno": "290",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Pomelo Blanco",
+        "CodigoInterno": "291",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Pomelo Rojo",
+        "CodigoInterno": "292",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Sandía Pulpa Roja",
+        "CodigoInterno": "293",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Uva Blanca",
+        "CodigoInterno": "294",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Uva Moscatel",
+        "CodigoInterno": "295",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Uva Negra",
+        "CodigoInterno": "296",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Uva Rosada",
+        "CodigoInterno": "297",
+        "Categoria": "Alimentos",
+        "CodigoProducto": "{}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Kilogramos"
+      },
+      {
+        "Nombre": "Cuadernola Papiros Tapa Blanda 100 Hojas",
+        "CodigoInterno": "298",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7730900220170'}",
+        "Contenido": "100.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Cuadernola Papiros Tapa Blanda 70 Hojas",
+        "CodigoInterno": "299",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'773090022016','7730900220163'}",
+        "Contenido": "70.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Cuadernola Extreme Tapa Blanda 96 Hojas",
+        "CodigoInterno": "300",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7891027382650'}",
+        "Contenido": "96.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Cuadernola Extreme Tapa Blanda 70 Hojas",
+        "CodigoInterno": "301",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7730900221108'}",
+        "Contenido": "70.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Cuadernola Tilibra Tapa Blanda 96 Hojas",
+        "CodigoInterno": "302",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7891027382650'}",
+        "Contenido": "96.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Libreta para anotaciones 100 Hojas",
+        "CodigoInterno": "303",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7730900225526'}",
+        "Contenido": "100.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lápices de colores Largos Pelican",
+        "CodigoInterno": "304",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'7792700002691'}",
+        "Contenido": "12.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Lápiz Negro Staedler",
+        "CodigoInterno": "305",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'4902505123801'}",
+        "Contenido": "0.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Marcadores Flúor Faber",
+        "CodigoInterno": "306",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'4005401548072','4005401548515','4005401548287'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Marcadores Flúor Pelikan",
+        "CodigoInterno": "307",
+        "Categoria": "Enseñanza",
+        "CodigoProducto": "{'77914996','77915085','77912466'}",
+        "Contenido": "1.0",
+        "UnidadMedida": "Unidades"
+      },
+      {
+        "Nombre": "Off! Family Crema 200 grs",
+        "CodigoInterno": "308",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7790520012173'}",
+        "Contenido": "200.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Off!"
+      },
+      {
+        "Nombre": "Off! Family Spray 165 cm3",
+        "CodigoInterno": "309",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'77905201610055'}",
+        "Contenido": "200.0",
+        "UnidadMedida": "Centímetros",
+        "Marca": "Off!"
+      },
+      {
+        "Nombre": "Off! Family Aerosol 144cm3",
+        "CodigoInterno": "310",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7790520018410'}",
+        "Contenido": "144.0",
+        "UnidadMedida": "Centímetros"
+      },
+      {
+        "Nombre": "Explorador Gel",
+        "CodigoInterno": "311",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'8002575540'}",
+        "Contenido": "175.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Explorador"
+      },
+      {
+        "Nombre": "Off Kids Crema 90 grs",
+        "CodigoInterno": "312",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'77900098','7592005004931'}",
+        "Contenido": "90.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Off!"
+      },
+      {
+        "Nombre": "Jupiter Crema",
+        "CodigoInterno": "313",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7840001006013'}",
+        "Contenido": "80.0",
+        "UnidadMedida": "Gramos",
+        "Marca": "Jupiter"
+      },
+      {
+        "Nombre": "Jupiter Aerosol",
+        "CodigoInterno": "314",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'7840001004019'}",
+        "Contenido": "165.0",
+        "UnidadMedida": "Centímetros"
+      },
+      {
+        "Nombre": "Off Larga Duración",
+        "CodigoInterno": "315",
+        "Categoria": "Personal",
+        "CodigoProducto": "{'610267790520001337'}",
+        "Contenido": "165.0",
+        "UnidadMedida": "Mililitros",
+        "Marca": "Off!"
+      },
+      {
+        "Nombre": "Explorador Spray 145ml",
+        "CodigoInterno": "316",
+        "Categoria": "Personal",
+        "CodigoProducto": "{}",
+        "Contenido": "145.0",
+        "UnidadMedida": "Mililitros"
+      }
+    ]
+  }
