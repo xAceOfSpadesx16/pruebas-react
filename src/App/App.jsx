@@ -1,77 +1,36 @@
-import {
-	Grid,
-	Typography,
-	CssBaseline,
-	Card,
-	CardContent,
-} from '@mui/material';
+import Typography from '@mui/material/Typography';
+import Grid from '@mui/material/Grid';
+import CssBaseline from '@mui/material/CssBaseline';
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
 import productos from '../../fake_data.json';
 
 const productosvar = productos;
+
 const MiTabla = () => {
 	return (
 		<>
 			<CssBaseline />
-			<Typography>Caca</Typography>
-			<Grid container spacing={2}></Grid>
-			{productosvar.map(producto => {
-				<Grid item>
-					<div key={producto.id}>
-						<p>Hola</p>
-						<Typography>{producto.name}</Typography>
-						<Typography>{producto.category}</Typography>
-						<Typography>{producto.price}</Typography>
-						<Typography>{producto.trade_mark}</Typography>
-						<Typography>{producto.barcode}</Typography>
-					</div>
-				</Grid>;
-			})}
-			{/* <Typography variant='h3'>Caca</Typography>
-		<Grid
-		container
-		spacing={{ xs: 2, md: 3 }}
-		columns={{ xs: 4, sm: 8, md: 12 }}>
-		{productosvar.map(producto => {
-			console.log(producto),
-			(
-				<Grid item xs={4} key={producto.id}>
-				<item>
-				<Typography
-				variant='h3'
-				sx={{ fontSize: 14 }}
-				color='text.secondary'
-				gutterBottom>
-				{producto.name}
-				</Typography>
-				<Typography
-				sx={{ fontSize: 14 }}
-				color='text.secondary'
-				gutterBottom>
-				{producto.category}
+			<Grid
+				container
+				spacing={{ xs: 2, sm: 4, md: 4 }}
+				columns={{ xs: 12, sm: 6, md: 4 }}>
+				{productosvar.map(producto => (
+					<Grid item xs={'auto'} sm={'auto'} md={'auto'} key={producto.id}>
+						<Card>
+							<CardContent>
+								<Typography variant='h6' paragraph>
+									{producto.name || 'Sin nombre'}{' '}
 								</Typography>
-								<Typography
-								sx={{ fontSize: 14 }}
-								color='text.secondary'
-								gutterBottom>
-								{producto.trade_mark}
-								</Typography>
-								<Typography
-								sx={{ fontSize: 14 }}
-								color='text.secondary'
-								gutterBottom>
-								{producto.price}
-								</Typography>
-								<Typography
-								sx={{ fontSize: 14 }}
-								color='text.secondary'
-								gutterBottom>
-								{producto.barcode}
-								</Typography>
-								</item>
-								</Grid>
-								);
-							})}
-						</Grid> */}
+								<Typography>{producto.category || 'Sin Categoria'}</Typography>
+								<Typography>{producto.price || 'Sin precio'}</Typography>
+								<Typography>{producto.trade_mark || 'Sin marca'}</Typography>
+								<Typography>{producto.barcode || 'Sin barcode'}</Typography>
+							</CardContent>
+						</Card>
+					</Grid>
+				))}
+			</Grid>
 		</>
 	);
 };
