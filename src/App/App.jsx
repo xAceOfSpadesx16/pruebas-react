@@ -5,9 +5,9 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import productos from '../../fake_data.json';
 import Box from '@mui/material/Box';
-import { DataGrid } from '@mui/x-data-grid';
+import { DataGrid, GridToolbar } from '@mui/x-data-grid';
 
-const data = [
+const columns = [
 	{ field: 'id', headerName: 'ID', width: 90 },
 	{
 		field: 'name',
@@ -41,16 +41,33 @@ const data = [
 	},
 ];
 
-const FIELDS = ['Nombre', 'Categoria', 'Marca'];
+// const FIELDS = ['Nombre', 'Categoria', 'Marca'];
 
-const columns = () => (
-	data.columns.filter(column => FIELDS.includes(column.field)), [data.columns]
-);
+// const columns = () => (
+// 	data.columns.filter(column => FIELDS.includes(column.field)), [data.columns]
+// );
 
 const MiTabla = () => {
 	return (
 		<>
 			<CssBaseline />
+			{/* <Box sx={{ height: 400, width: 1 }}>
+				<DataGrid
+					{...data}
+					disableColumnFilter
+					disableColumnSelector
+					disableDensitySelector
+					columns={columns}
+					slots={{ toolbar: GridToolbar }}
+					slotProps={{
+						toolbar: {
+							showQuickFilter: true,
+							quickFilterProps: { debounceMs: 500 },
+						},
+					}}
+				/>
+			</Box> */}
+
 			<Box sx={{ height: 'auto', width: '100%' }}>
 				<DataGrid
 					rows={productos}
