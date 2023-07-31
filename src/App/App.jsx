@@ -7,7 +7,7 @@ import productos from '../../fake_data.json';
 import Box from '@mui/material/Box';
 import { DataGrid } from '@mui/x-data-grid';
 
-const columns = [
+const data = [
 	{ field: 'id', headerName: 'ID', width: 90 },
 	{
 		field: 'name',
@@ -41,6 +41,12 @@ const columns = [
 	},
 ];
 
+const FIELDS = ['Nombre', 'Categoria', 'Marca'];
+
+const columns = () => (
+	data.columns.filter(column => FIELDS.includes(column.field)), [data.columns]
+);
+
 const MiTabla = () => {
 	return (
 		<>
@@ -53,6 +59,12 @@ const MiTabla = () => {
 						pagination: {
 							paginationModel: {
 								pageSize: 20,
+							},
+						},
+						filter: {
+							filterModel: {
+								items: [],
+								quickFilterValues: [],
 							},
 						},
 					}}
