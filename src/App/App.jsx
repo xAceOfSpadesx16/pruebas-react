@@ -1,8 +1,4 @@
-import Typography from '@mui/material/Typography';
-import Grid from '@mui/material/Grid';
 import CssBaseline from '@mui/material/CssBaseline';
-import Card from '@mui/material/Card';
-import CardContent from '@mui/material/CardContent';
 import productos from '../../fake_data.json';
 import Box from '@mui/material/Box';
 import { DataGrid, GridToolbar } from '@mui/x-data-grid';
@@ -13,7 +9,7 @@ const columns = [
 		field: 'name',
 		headerName: 'Nombre',
 		width: 150,
-		editable: false,
+		editable: true,
 	},
 	{
 		field: 'category',
@@ -41,41 +37,31 @@ const columns = [
 	},
 ];
 
-// const FIELDS = ['Nombre', 'Categoria', 'Marca'];
-
-// const columns = () => (
-// 	data.columns.filter(column => FIELDS.includes(column.field)), [data.columns]
-// );
-
 const MiTabla = () => {
 	return (
 		<>
 			<CssBaseline />
-			{/* <Box sx={{ height: 400, width: 1 }}>
-				<DataGrid
-					{...data}
-					disableColumnFilter
-					disableColumnSelector
-					disableDensitySelector
-					columns={columns}
-					slots={{ toolbar: GridToolbar }}
-					slotProps={{
-						toolbar: {
-							showQuickFilter: true,
-							quickFilterProps: { debounceMs: 500 },
-						},
-					}}
-				/>
-			</Box> */}
 
 			<Box sx={{ height: 'auto', width: '100%' }}>
 				<DataGrid
 					rows={productos}
 					columns={columns}
+					slots={{ toolbar: GridToolbar }}
+					// onCellDoubleClick={}
+					// onCellClick={props => console.log(props)}
+					onCellEditStop={props => console.log(props)}
+					onCellEditStart={props => console.log(props)}
+					checkboxSelection
+					slotProps={{
+						toolbar: {
+							showQuickFilter: true,
+							quickFilterProps: { debounceMs: 200 },
+						},
+					}}
 					initialState={{
 						pagination: {
 							paginationModel: {
-								pageSize: 20,
+								pageSize: 10,
 							},
 						},
 						filter: {
@@ -85,8 +71,12 @@ const MiTabla = () => {
 							},
 						},
 					}}
-					pageSizeOptions={[20]}
+					pageSizeOptions={[5, 10, 25]}
+					// pageSizeOptions={[20]}
 					disableRowSelectionOnClick
+					disableColumnFilter
+					// disableColumnSelector
+					// disableDensitySelector
 				/>
 			</Box>
 		</>
@@ -94,24 +84,3 @@ const MiTabla = () => {
 };
 
 export default MiTabla;
-
-// <Grid
-// container
-// spacing={{ xs: 2, sm: 4, md: 4 }}
-// columns={{ xs: 12, sm: 6, md: 4 }}>
-// {productosvar.map(producto => (
-// 	<Grid item xs={'auto'} sm={'auto'} md={'auto'} key={producto.id}>
-// 		<Card>
-// 			<CardContent>
-// 				<Typography variant='h6' paragraph>
-// 					{producto.name || 'Sin nombre'}{' '}
-// 				</Typography>
-// 				<Typography>{producto.category || 'Sin Categoria'}</Typography>
-// 				<Typography>{producto.price || 'Sin precio'}</Typography>
-// 				<Typography>{producto.trade_mark || 'Sin marca'}</Typography>
-// 				<Typography>{producto.barcode || 'Sin barcode'}</Typography>
-// 			</CardContent>
-// 		</Card>
-// 	</Grid>
-// ))}
-// </Grid>

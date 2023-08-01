@@ -1,0 +1,2001 @@
+ID,Nombre,Categoria,Marca,Precio,CodeBar
+1,Compound - Rum,Finance,Wintrust Financial Corporation,$66.72,321-53-7264
+2,Longos - Greek Salad,Technology,"Integrated Device Technology, Inc.",$96.40,109-93-5113
+3,Icecream - Dibs,Health Care,"Theravance Biopharma, Inc.",$0.33,506-33-9635
+4,Goat - Whole Cut,n/a,Western Asset/Claymore U.S Treasury Inflation Prot Secs Fd 2,$2.74,271-08-4144
+5,Milk - Chocolate 500ml,n/a,Eaton vance Floating-Rate Income Plus Fund,$36.99,368-87-4383
+6,Sage Derby,Energy,North European Oil Royality Trust,$12.25,450-97-8659
+7,"Jam - Raspberry,jar",n/a,Kayne Anderson MLP Investment Company,$25.11,634-45-6374
+8,Milk - Skim,Basic Industries,Vulcan Materials Company,$66.81,879-80-1774
+9,Beef Tenderloin Aaa,Technology,"Evertec, Inc.",$83.68,894-40-0064
+10,"Cheese - Brie, Triple Creme",n/a,Solar Capital Ltd.,$42.24,735-33-2324
+11,Glucose,n/a,Medley Capital Corporation,$1.56,199-28-3927
+12,Wine La Vielle Ferme Cote Du,n/a,"Delaware Investments Dividend & Income Fund, Inc.",$85.58,225-59-6131
+13,"Zucchini - Mini, Green",Finance,"AMERISAFE, Inc.",$35.26,746-05-5855
+14,Halibut - Fletches,n/a,First Trust Japan AlphaDEX Fund,$91.87,767-44-4563
+15,"Tarragon - Primerba, Paste",Technology,WPP plc,$18.41,155-78-8750
+16,Pasta - Ravioli,Finance,Cathay General Bancorp,$90.35,156-91-5848
+17,Ham - Virginia,Consumer Non-Durables,"Hasbro, Inc.",$68.96,386-45-2081
+18,Food Colouring - Orange,Miscellaneous,"Energizer Holdings, Inc.",$46.28,522-90-3528
+19,"Yogurt - Blueberry, 175 Gr",Technology,"Digiliti Money Group, Inc.",$8.36,276-37-8052
+20,"Wine - Magnotta, Merlot Sr Vqa",n/a,FIRST REPUBLIC BANK,$6.82,588-51-9287
+21,Monkfish - Fresh,n/a,Tuttle Tactical Management Multi-Strategy Income ETF,$16.33,693-71-8831
+22,Halibut - Steaks,Finance,"Fidelity National Financial, Inc.",$62.01,265-51-1518
+23,Breadfruit,Consumer Services,"Willdan Group, Inc.",$55.87,142-13-8387
+24,Dome Lid Clear P92008h,Energy,Phillips 66 Partners LP,$89.02,256-58-5725
+25,Carbonated Water - Peach,Capital Goods,"Agilent Technologies, Inc.",$10.39,159-31-2501
+26,Mortadella,Finance,"Texas Capital Bancshares, Inc.",$34.40,495-31-5283
+27,Ostrich - Fan Fillet,Finance,Associated Banc-Corp,$53.48,405-89-0988
+28,Island Oasis - Mango Daiquiri,Miscellaneous,CAE Inc,$16.46,139-83-9406
+29,"Wine - White, Concha Y Toro",n/a,PIMCO Income Strategy Fund II,$34.48,685-16-7211
+30,Longos - Cheese Tortellini,Miscellaneous,Highpower International Inc,$3.00,526-51-2772
+31,Cake - Mini Cheesecake,n/a,First Trust Small Cap Growth AlphaDEX Fund,$63.42,765-55-3328
+32,"Veal - Inside Round / Top, Lean",Health Care,Envision Healthcare Corporation,$52.14,816-02-4095
+33,Pepper - Roasted Red,Technology,Hewlett Packard Enterprise Company,$56.49,322-96-4803
+34,Raisin - Dark,Health Care,"Gilead Sciences, Inc.",$92.04,818-11-6003
+35,Soup Knorr Chili With Beans,Technology,"Monster Digital, Inc.",$8.21,468-09-9572
+36,The Pop Shoppe Pinapple,Finance,National General Holdings Corp,$29.99,461-17-4445
+37,"Coke - Diet, 355 Ml",Miscellaneous,"Marchex, Inc.",$79.99,678-28-1948
+38,Cheese - Provolone,Finance,"First Mid-Illinois Bancshares, Inc.",$99.52,113-68-4653
+39,Pork - Belly Fresh,Finance,"Veritex Holdings, Inc.",$47.69,816-38-0930
+40,Eggs - Extra Large,n/a,Tsakos Energy Navigation Ltd,$47.07,867-51-4159
+41,Longos - Lasagna Veg,Consumer Services,Senior Housing Properties Trust,$70.96,895-92-9761
+42,Muffin Puck Ww Carrot,Technology,"Fiserv, Inc.",$14.14,421-47-8111
+43,"Veal - Insides, Grains",Finance,China Finance Online Co. Limited,$24.10,121-46-2874
+44,Wine - Rubyport,Technology,McGrath RentCorp,$10.41,693-63-4975
+45,"Pork - Tenderloin, Fresh",Health Care,Neptune Technologies & Bioresources Inc,$92.46,383-34-6490
+46,Wine - Cotes Du Rhone Parallele,n/a,Calamos Strategic Total Return Fund,$59.39,676-28-9685
+47,"Mushroom - Trumpet, Dry",n/a,"European Equity Fund, Inc. (The)",$33.08,648-11-6896
+48,Flour - Strong Pizza,Public Utilities,American Water Works,$66.66,565-45-4446
+49,Syrup - Chocolate,Energy,"Alliance Holdings GP, L.P.",$32.88,227-64-3617
+50,Wine - Montecillo Rioja Crianza,Basic Industries,Glatfelter,$88.36,495-17-3903
+51,Anchovy Fillets,Consumer Durables,ESCO Technologies Inc.,$41.05,628-82-6445
+52,Crab Brie In Phyllo,Finance,Conyers Park Acquisition Corp.,$95.42,798-24-4113
+53,Chicken - Livers,n/a,John Hancock Preferred Income Fund III,$90.68,106-13-8222
+54,Beer - Rickards Red,Technology,Cars.com Inc.,$58.47,542-87-6817
+55,"Fish - Scallops, Cold Smoked",Consumer Durables,"Bemis Company, Inc.",$7.21,292-34-1599
+56,Sea Urchin,Energy,"EOG Resources, Inc.",$11.31,882-13-1432
+57,"Juice - Clam, 46 Oz",Finance,OM Asset Management plc,$31.85,259-62-1147
+58,Pastry - Cheese Baked Scones,n/a,Wells Fargo Global Dividend Opportunity Fund,$42.50,415-75-8716
+59,Noodles - Steamed Chow Mein,n/a,Vanguard Russell 2000 ETF,$54.74,736-15-6424
+60,Sugar Thermometer,Health Care,"Utah Medical Products, Inc.",$76.72,431-67-0153
+61,Bread - Italian Sesame Poly,Technology,Resonant Inc.,$66.12,877-74-8671
+62,Squash - Guords,Consumer Durables,iRobot Corporation,$47.11,430-40-6458
+63,Monkfish Fresh - Skin Off,Finance,Carolina Financial Corporation,$20.09,143-32-9978
+64,Sage - Fresh,Finance,"Southern First Bancshares, Inc.",$86.04,659-53-4946
+65,Wheat - Soft Kernal Of Wheat,n/a,"PIMCO Strategic Income Fund, Inc.",$8.34,245-65-3993
+66,Pea - Snow,Capital Goods,Cemtrex Inc.,$61.87,280-24-8005
+67,"Artichoke - Hearts, Canned",Health Care,Aetna Inc.,$84.78,410-36-9062
+68,Corn Meal,n/a,"NextEra Energy, Inc.",$77.34,429-69-0182
+69,Cream Of Tartar,Finance,"Sound Financial Bancorp, Inc.",$73.54,209-38-1356
+70,Flour - Fast / Rapid,Basic Industries,CTI Industries Corporation,$20.84,629-21-7193
+71,Crackers - Melba Toast,Capital Goods,Park-Ohio Holdings Corp.,$44.68,387-25-4150
+72,Chicken - Tenderloin,Capital Goods,Columbus McKinnon Corporation,$24.67,453-43-9470
+73,"Wine - Harrow Estates, Vidal",Miscellaneous,RPX Corporation,$47.80,144-68-3344
+74,Wine - Gewurztraminer Pierre,Consumer Services,"New York Mortgage Trust, Inc.",$5.06,706-06-2293
+75,Wine - Chateau Timberlay,Technology,Intuit Inc.,$58.96,672-50-0540
+76,Lychee - Canned,Finance,Bank of America Corporation,$63.70,799-37-8261
+77,Salt - Kosher,Consumer Services,RLJ Lodging Trust,$58.68,252-48-6006
+78,Lettuce - Romaine,Energy,Marine Petroleum Trust,$0.32,179-15-8016
+79,"Peas - Pigeon, Dry",Consumer Services,Royal Caribbean Cruises Ltd.,$67.11,795-59-7354
+80,Corn - On The Cob,Finance,"Popular, Inc.",$61.15,767-52-1311
+81,Pork Loin Cutlets,n/a,M&T Bank Corporation,$8.21,728-64-7275
+82,Wine - Ej Gallo Sierra Valley,n/a,Costamare Inc.,$14.46,596-59-2672
+83,Lettuce - Green Leaf,Consumer Services,"Diversified Restaurant Holdings, Inc.",$52.46,339-31-8601
+84,"Yogurt - Strawberry, 175 Gr",n/a,Global X Millennials Thematic ETF,$62.81,769-40-9804
+85,Chicken - Livers,Consumer Services,"Lands' End, Inc.",$65.49,820-03-2114
+86,Beans - Wax,Finance,"QCR Holdings, Inc.",$20.66,226-81-1039
+87,Table Cloth 90x90 Colour,Public Utilities,AT&T Inc.,$9.50,456-20-7137
+88,Veal - Heart,n/a,Vanguard Short-Term Government ETF,$53.43,174-83-8519
+89,Cheese - Gouda Smoked,Health Care,Intrexon Corporation,$20.06,626-28-9290
+90,Soy Protein,Finance,"Stock Yards Bancorp, Inc.",$24.26,889-80-7662
+91,Wine - Casablanca Valley,Consumer Services,"Whole Foods Market, Inc.",$54.99,733-48-5011
+92,Lobster - Cooked,Consumer Services,Emmis Communications Corporation,$3.77,496-99-2393
+93,"Pork - Loin, Bone - In",Technology,Nano Dimension Ltd.,$93.47,578-98-8174
+94,Soup - Campbells - Tomato,Consumer Durables,Central Garden & Pet Company,$61.66,501-82-7127
+95,Sprouts - Bean,Technology,"Yext, Inc.",$31.94,136-62-4659
+96,Sauce - Alfredo,Miscellaneous,"ALJ Regional Holdings, Inc.",$85.78,481-99-9011
+97,"Pasta - Rotini, Colour, Dry",Technology,"Aware, Inc.",$14.25,654-20-8811
+98,Chicken Breast Halal,Transportation,Azul S.A.,$39.76,710-85-3161
+99,Glucose,n/a,"Equus Total Return, Inc.",$97.39,111-21-0461
+100,Plastic Arrow Stir Stick,Miscellaneous,"ALJ Regional Holdings, Inc.",$71.30,219-95-5352
+101,Wine - Magnotta - Cab Franc,n/a,PowerShares Multi-Strategy Alternative Portfolio,$26.18,340-76-4413
+102,Squid U5 - Thailand,Consumer Services,"Tanger Factory Outlet Centers, Inc.",$30.12,842-73-2308
+103,"Pasta - Rotini, Colour, Dry",Finance,Plumas Bancorp,$85.27,107-81-7189
+104,Island Oasis - Banana Daiquiri,Basic Industries,Quaker Chemical Corporation,$32.52,386-84-6616
+105,"Chicken - Breast, 5 - 7 Oz",Miscellaneous,"Verifone Systems, Inc.",$6.75,223-71-9132
+106,Paper Towel Touchless,Consumer Non-Durables,Vina Concha Y Toro,$53.67,772-36-0886
+107,Scotch - Queen Anne,Finance,"Bank of the James Financial Group, Inc.",$57.16,642-24-2418
+108,Glaze - Clear,Basic Industries,"Pacific Ethanol, Inc.",$96.49,471-13-3909
+109,"Wine - Red, Wolf Blass, Yellow",n/a,PIMCO Income Strategy Fund II,$99.85,278-42-0006
+110,"Juice - Tomato, 48 Oz",n/a,Eaton Vance Corporation,$73.56,228-01-2311
+111,Wood Chips - Regular,Finance,"National Bankshares, Inc.",$83.98,104-30-1804
+112,Gatorade - Cool Blue Raspberry,Capital Goods,Easterly Acquisition Corp.,$42.53,161-90-8799
+113,Bandage - Finger Cots,Technology,"Jack Henry & Associates, Inc.",$13.96,307-01-0217
+114,"Syrup - Monin, Amaretta",Finance,Silver Run Acquisition Corporation II,$72.70,889-67-7674
+115,"Cheese - Brie, Triple Creme",Energy,ConocoPhillips,$57.12,675-46-0525
+116,Muffin Hinge - 211n,Basic Industries,Hexcel Corporation,$86.07,730-19-7303
+117,Rice - Brown,Capital Goods,Taylor Morrison Home Corporation,$72.29,663-92-5524
+118,Beans - Soya Bean,n/a,Nuveen All Cap Energy MLP Opportunities Fund,$31.57,550-92-2544
+119,Sea Bass - Fillets,Basic Industries,Barrick Gold Corporation,$4.00,117-30-5041
+120,Soup Campbells Beef With Veg,Public Utilities,"NiSource, Inc",$7.86,145-50-7981
+121,Bread - Triangle White,n/a,Fiduciary/Claymore MLP Opportunity Fund,$20.33,874-10-8329
+122,Beer - Paulaner Hefeweisse,Consumer Services,"Care.com, Inc.",$80.03,104-98-4696
+123,Longos - Cheese Tortellini,Health Care,Sanofi,$8.77,850-83-3544
+124,Mayonnaise,Consumer Non-Durables,Vina Concha Y Toro,$34.20,733-82-8148
+125,"Fish - Soup Base, Bouillon",Technology,"Kelly Services, Inc.",$27.34,427-79-5581
+126,Appetizer - Seafood Assortment,n/a,Pimco New York Municipal Income Fund II,$61.24,735-51-8974
+127,Wine - Winzer Krems Gruner,n/a,First Trust NASDAQ Technology Dividend Index Fund,$81.47,687-28-2563
+128,Cranberry Foccacia,Consumer Services,Essendant Inc.,$50.87,523-17-1171
+129,Puree - Raspberry,Public Utilities,Alabama Power Company,$9.44,793-88-3933
+130,Cherries - Fresh,Consumer Services,Great Ajax Corp.,$34.51,536-60-5786
+131,Creme De Cacao White,Consumer Services,"Weis Markets, Inc.",$51.28,670-69-2399
+132,"Pepper - Paprika, Spanish",Technology,Sparton Corporation,$28.58,237-27-1085
+133,"Bread - Crumbs, Bulk",Technology,"NTT DOCOMO, Inc",$64.21,347-95-2244
+134,Venison - Ground,Technology,Datawatch Corporation,$93.16,139-70-5429
+135,Beer - True North Strong Ale,Consumer Non-Durables,V.F. Corporation,$25.64,488-62-9621
+136,Soup Campbells - Italian Wedding,Finance,Citigroup Inc.,$20.37,370-79-4644
+137,Remy Red,Health Care,ContraVir Pharmaceuticals Inc,$86.35,775-62-9643
+138,Flour - Chickpea,Capital Goods,Ford Motor Company,$25.38,720-72-2085
+139,Sugar - Invert,n/a,Blackrock California Municipal 2018 Term Trust,$3.57,322-77-2518
+140,Syrup - Monin - Granny Smith,Consumer Durables,Cyanotech Corporation,$30.07,465-89-5565
+141,Wine - Magnotta - Pinot Gris Sr,Health Care,"Viking Therapeutics, Inc.",$45.72,101-35-3744
+142,Curry Paste - Madras,Health Care,"AtriCure, Inc.",$57.98,384-55-3841
+143,"Wine - Red, Cabernet Merlot",Consumer Non-Durables,China New Borun Corporation,$39.93,677-09-3612
+144,Crab - Meat,Finance,"Atlas Financial Holdings, Inc.",$62.58,290-21-4546
+145,Shallots,Public Utilities,"BCE, Inc.",$47.74,756-50-6181
+146,Wine - Piper Heidsieck Brut,Technology,"Activision Blizzard, Inc",$82.83,726-15-8711
+147,"Cheese - Romano, Grated",Energy,CNX Coal Resources LP,$86.16,225-77-6632
+148,Wanton Wrap,Miscellaneous,"USA Technologies, Inc.",$58.01,668-10-6994
+149,Lettuce - Lambs Mash,Consumer Services,Liberty Global plc,$94.34,317-38-2819
+150,Syrup - Kahlua Chocolate,Public Utilities,Black Hills Corporation,$63.11,411-20-8351
+151,"Cherries - Maraschino,jar",Consumer Services,Altisource Portfolio Solutions S.A.,$58.98,722-50-1509
+152,Spice - Pepper Portions,Health Care,"Idera Pharmaceuticals, Inc.",$96.03,380-98-1129
+153,Halibut - Steaks,Health Care,"Merrimack Pharmaceuticals, Inc.",$29.47,758-55-9624
+154,Wine - Dubouef Macon - Villages,n/a,iShares MSCI Global Impact ETF,$26.27,325-94-9610
+155,Sage - Fresh,Energy,Tesoro Corporation,$58.47,273-33-4372
+156,Pie Filling - Apple,Technology,Yandex N.V.,$82.88,136-44-7270
+157,Tomato Puree,n/a,Cohen & Steers Reit and Preferred Income Fund Inc,$44.18,134-52-8078
+158,"Pasta - Orzo, Dry",Miscellaneous,"GRAVITY Co., Ltd.",$3.84,367-99-6125
+159,Foil Cont Round,Health Care,"Caladrius Biosciences, Inc.",$25.18,815-06-6685
+160,Kolrabi,Consumer Services,Fastenal Company,$15.82,148-83-4421
+161,Salmon - Sockeye Raw,Health Care,PAREXEL International Corporation,$85.79,283-74-1251
+162,Ocean Spray - Kiwi Strawberry,n/a,TCF Financial Corporation,$48.01,392-62-7138
+163,Walkers Special Old Whiskey,Consumer Services,Diamondrock Hospitality Company,$66.91,190-49-6615
+164,Cranberries - Dry,Consumer Durables,"Pioneer Power Solutions, Inc.",$33.88,185-34-0394
+165,Bread Fig And Almond,Consumer Services,"Yatra Online, Inc.",$60.18,860-25-0682
+166,Tarragon - Fresh,Transportation,Scorpio Tankers Inc.,$46.79,178-92-5494
+167,Bread - White Mini Epi,n/a,"Synthetic Fixed-Income Securities, Inc.",$52.39,367-28-6796
+168,Dill Weed - Fresh,n/a,Ares Capital Corporation,$72.22,397-11-7176
+169,Cinnamon Buns Sticky,Finance,"U.S. Global Investors, Inc.",$91.79,820-28-9265
+170,Iced Tea Concentrate,Consumer Services,"Insignia Systems, Inc.",$12.64,188-95-5003
+171,"Pork - Loin, Boneless",Technology,"AstroNova, Inc.",$35.16,231-04-8764
+172,Bread - Focaccia Quarter,Health Care,"Onconova Therapeutics, Inc.",$66.45,875-59-3898
+173,"Veal - Brisket, Provimi, Bone - In",n/a,First Trust Japan AlphaDEX Fund,$26.87,728-70-9786
+174,Strawberries - California,Health Care,"Pacira Pharmaceuticals, Inc.",$64.51,799-04-7372
+175,Dr. Pepper - 355ml,n/a,iShares MSCI EAFE Small-Cap ETF,$49.90,522-66-4636
+176,Galliano,Finance,C&F Financial Corporation,$80.21,710-89-2147
+177,Napkin Colour,Consumer Services,"Wheeler Real Estate Investment Trust, Inc.",$26.67,456-20-9976
+178,"Lamb - Leg, Bone In",Consumer Services,"Xenia Hotels & Resorts, Inc.",$24.88,615-64-6551
+179,Appetizer - Seafood Assortment,Energy,Permian Basin Royalty Trust,$72.78,318-77-6119
+180,Grapes - Black,Health Care,Benitec Biopharma Limited,$82.08,398-98-2531
+181,Phyllo Dough,Energy,"Blueknight Energy Partners L.P., L.L.C.",$54.93,853-18-0316
+182,Onions - Cippolini,n/a,BLDRS Emerging Markets 50 ADR Index Fund,$65.71,158-37-2383
+183,Container - Clear 32 Oz,Consumer Services,"Barnes & Noble, Inc.",$71.77,571-61-4128
+184,Duck - Fat,Basic Industries,"Orion Group Holdings, Inc.",$48.39,645-22-6959
+185,Cookie - Oatmeal,n/a,Crawford & Company,$72.21,465-59-5492
+186,Muffin - Blueberry Individual,Health Care,BioMarin Pharmaceutical Inc.,$74.94,522-83-3434
+187,Pepperoni Slices,Consumer Non-Durables,"Lamb Weston Holdings, Inc.",$22.76,402-21-6178
+188,Grapefruit - White,n/a,"Kayne Anderson Midstream Energy Fund, Inc",$83.22,539-22-0810
+189,Chicken - Ground,Finance,Capitol Acquisition Corp. III,$90.05,245-29-2753
+190,"Wine - Red, Cooking",Basic Industries,"MYR Group, Inc.",$3.73,896-93-7880
+191,Wine - Peller Estates Late,Basic Industries,Hecla Mining Company,$18.41,749-83-2992
+192,"Garlic - Primerba, Paste",n/a,Bank of America Corporation,$65.89,705-27-0746
+193,Smirnoff Green Apple Twist,Consumer Services,"Hemisphere Media Group, Inc.",$19.44,326-47-4121
+194,Propel Sport Drink,Basic Industries,Silver Standard Resources Inc.,$61.40,198-41-5080
+195,"Wine - White, Pelee Island",n/a,OFS Capital Corporation,$53.95,109-53-6154
+196,"Cheese - Mozzarella, Buffalo",Technology,"Innovative Solutions and Support, Inc.",$86.12,751-70-9497
+197,Duck - Breast,n/a,"CBL & Associates Properties, Inc.",$70.45,784-26-2510
+198,"Radish - Black, Winter, Organic",Transportation,Southwest Airlines Company,$26.27,813-82-4376
+199,Parsnip,Finance,CorVel Corp.,$54.95,261-13-1634
+200,Bread Base - Gold Formel,Finance,"Live Oak Bancshares, Inc.",$47.93,145-74-9207
+201,Bouillion - Fish,Finance,"Flagstar Bancorp, Inc.",$77.62,439-65-7538
+202,"Jam - Raspberry,jar",Technology,"Oclaro, Inc.",$9.33,508-98-7239
+203,Chips Potato Salt Vinegar 43g,n/a,Kayne Anderson Energy Development Company,$13.31,299-64-8871
+204,Pepper - Yellow Bell,Miscellaneous,"Moneygram International, Inc.",$82.80,880-72-0644
+205,"Juice - Apple, 500 Ml",Finance,"Prudential Financial, Inc.",$94.01,512-81-6188
+206,Shiro Miso,Transportation,"CryoPort, Inc.",$13.17,878-79-9691
+207,Sambuca - Opal Nera,n/a,Madison Covered Call & Equity Strategy Fund,$44.14,723-20-1686
+208,Lid - 16 Oz And 32 Oz,n/a,"Lazard World Dividend & Income Fund, Inc.",$6.54,522-08-8744
+209,Molasses - Fancy,n/a,"AG Mortgage Investment Trust, Inc.",$43.83,417-72-7608
+210,Truffle Cups Green,n/a,Alpine Global Premier Properties Fund,$55.52,207-79-0169
+211,Grapes - Black,Energy,Southwestern Energy Company,$64.44,250-21-7042
+212,Tofu - Firm,Finance,"Civista Bancshares, Inc. ",$14.38,172-04-3456
+213,Wine - Savigny - Les - Beaune,Health Care,Anavex Life Sciences Corp.,$29.22,463-35-3827
+214,Artichokes - Jerusalem,Health Care,The Medicines Company,$56.35,486-28-5551
+215,Chips Potato Swt Chilli Sour,Technology,"Intermolecular, Inc.",$31.88,325-31-2297
+216,Apron,Finance,Lazard Ltd.,$7.86,532-73-9746
+217,Bread - Hot Dog Buns,Consumer Services,"Evolent Health, Inc",$25.64,559-62-8575
+218,Bread Ww Cluster,Finance,IBERIABANK Corporation,$68.89,316-26-9268
+219,Fudge - Chocolate Fudge,Health Care,"Sage Therapeutics, Inc.",$7.13,429-10-2324
+220,"Wine - White, Concha Y Toro",n/a,Brookfield Real Assets Income Fund Inc.,$50.04,611-59-0786
+221,Wine - Chateau Aqueria Tavel,Finance,"Voya Financial, Inc.",$90.15,860-29-1373
+222,Muffin Hinge - 211n,Capital Goods,Garmin Ltd.,$89.18,224-78-2274
+223,Sour Puss Raspberry,Technology,LINE Corporation,$80.58,630-89-5324
+224,Juice - Happy Planet,Consumer Non-Durables,"CUI Global, Inc.",$21.52,756-65-5231
+225,Energy Drink Red Bull,Technology,AU Optronics Corp,$89.89,893-20-8550
+226,Lemonade - Pineapple Passion,n/a,Davis Select Financial ETF,$44.47,371-01-6740
+227,Beef - Striploin Aa,Consumer Non-Durables,"Energizer Holdings, Inc.",$12.19,768-55-1933
+228,Wine - Taylors Reserve,n/a,BlackRock Income Investment Quality Trust,$57.71,769-16-0358
+229,"Juice - Tomato, 48 Oz",Public Utilities,United States Cellular Corporation,$27.29,608-90-6325
+230,Tea - English Breakfast,Energy,Whiting Petroleum Corporation,$51.65,315-97-4609
+231,Mustard Prepared,Capital Goods,Elbit Systems Ltd.,$39.60,487-52-7761
+232,Nescafe - Frothy French Vanilla,n/a,"ARMOUR Residential REIT, Inc.",$3.96,159-56-4360
+233,Spring Roll Veg Mini,Health Care,"Momenta Pharmaceuticals, Inc.",$64.53,678-66-2128
+234,Crab Meat Claw Pasteurise,Basic Industries,"SunCoke Energy, Inc.",$77.99,692-81-9400
+235,"Beans - Turtle, Black, Dry",Public Utilities,"Waste Management, Inc.",$98.73,575-17-6206
+236,Drambuie,Capital Goods,Altra Industrial Motion Corp.,$23.17,221-69-7455
+237,"Juice - Orange, Concentrate",Finance,"ConnectOne Bancorp, Inc.",$0.61,826-85-8900
+238,"Basil - Primerba, Paste",Finance,National General Holdings Corp,$93.14,849-41-2315
+239,Pie Shell - 9,Consumer Services,"RCI Hospitality Holdings, Inc.",$21.77,256-97-9584
+240,Butter Ripple - Phillips,Consumer Services,Arbor Realty Trust,$86.99,881-40-6974
+241,Gatorade - Cool Blue Raspberry,Energy,Ideal Power Inc.,$85.33,170-26-2902
+242,Ice Cream Bar - Oreo Sandwich,Energy,HollyFrontier Corporation,$70.99,848-86-2413
+243,Cookies - Fortune,Public Utilities,"Telephone and Data Systems, Inc.",$60.56,501-75-8823
+244,Wine - Fontanafredda Barolo,Health Care,Omeros Corporation,$30.20,809-38-8701
+245,Wine - Blue Nun Qualitatswein,Technology,"Computer Programs and Systems, Inc.",$15.72,549-92-3688
+246,Foam Espresso Cup Plain White,Consumer Services,"Bridgepoint Education, Inc.",$67.78,804-82-3291
+247,Beef - Tenderloin,Health Care,Shire plc,$15.62,888-48-4577
+248,Bread - Frozen Basket Variety,Consumer Durables,GP Investments Acquisition Corp.,$38.05,752-37-4555
+249,Tea - Jasmin Green,Finance,Univest Corporation of Pennsylvania,$52.50,353-02-2047
+250,Cheese - Bakers Cream Cheese,n/a,Vornado Realty Trust,$54.30,211-25-5153
+251,"Juice - Grape, White",n/a,Gladstone Investment Corporation,$91.91,249-38-3301
+252,Flavouring - Rum,Basic Industries,"Clean Harbors, Inc.",$63.14,784-60-5571
+253,Dasheen,Consumer Non-Durables,Coty Inc.,$34.37,793-47-8391
+254,Cookies - Amaretto,Consumer Non-Durables,"Calavo Growers, Inc.",$59.41,750-97-4355
+255,Tomatillo,Finance,Credicorp Ltd.,$13.12,169-71-8403
+256,"Wine - Red, Pelee Island Merlot",n/a,J P Morgan Chase & Co,$47.60,101-80-4683
+257,Silicone Parch. 16.3x24.3,Technology,"Heidrick & Struggles International, Inc.",$74.03,185-58-0792
+258,"Salmon - Atlantic, Skin On",Finance,"S&T Bancorp, Inc.",$26.49,613-08-3126
+259,Wine - George Duboeuf Rose,Finance,UBS AG,$33.83,482-29-3554
+260,Corn Kernels - Frozen,Finance,"The Navigators Group, Inc.",$25.25,412-01-0979
+261,"Wine - Red, Pelee Island Merlot",n/a,Voya Asia Pacific High Dividend Equity Income Fund,$40.98,600-83-4063
+262,Island Oasis - Strawberry,n/a,Urstadt Biddle Properties Inc.,$86.42,885-73-8405
+263,Spaghetti Squash,Health Care,"Collegium Pharmaceutical, Inc.",$71.69,575-26-7275
+264,Chocolate - Dark,Technology,"The Rubicon Project, Inc.",$28.00,735-38-2612
+265,Grouper - Fresh,Energy,Semgroup Corporation,$29.58,568-37-7170
+266,Puree - Passion Fruit,n/a,First Trust RiverFront Dynamic Emerging Markets ETF,$54.49,344-85-8760
+267,Apple - Fuji,Capital Goods,Meritage Corporation,$58.82,355-79-3608
+268,Apple - Custard,Consumer Durables,"Pioneer Power Solutions, Inc.",$60.43,488-77-8625
+269,Potatoes - Yukon Gold 5 Oz,Finance,Evercore Partners Inc,$12.26,440-37-5149
+270,Longos - Chicken Caeser Salad,Consumer Non-Durables,"Calavo Growers, Inc.",$37.31,796-55-7801
+271,"Crush - Grape, 355 Ml",Finance,Avista Healthcare Public Acquisition Corp.,$48.77,682-12-4853
+272,Wine - Gewurztraminer Pierre,Technology,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION,$39.61,537-20-0131
+273,Bread - Triangle White,Health Care,"ArQule, Inc.",$38.80,509-05-3263
+274,Bread - Crusty Italian Poly,Technology,"Varonis Systems, Inc.",$79.37,466-64-4115
+275,"Rice Pilaf, Dry,package",Consumer Services,"Conn's, Inc.",$26.29,715-59-7833
+276,Bread - White Mini Epi,Consumer Durables,"Jason Industries, Inc.",$97.85,212-65-4806
+277,Sauce - Balsamic Viniagrette,Health Care,"Protagonist Therapeutics, Inc.",$11.54,771-34-6032
+278,"Juice - Pineapple, 48 Oz",Public Utilities,"Dominion Energy, Inc.",$80.26,607-65-8819
+279,"Tart Shells - Sweet, 4",Finance,"Select Bancorp, Inc.",$32.48,613-52-6397
+280,Tahini Paste,n/a,"Korea Fund, Inc. (The)",$80.30,163-85-3199
+281,Mushroom - Portebello,Technology,"SPS Commerce, Inc.",$40.55,627-66-6728
+282,Salmon Atl.whole 8 - 10 Lb,Health Care,Sanofi,$23.41,155-48-3876
+283,"Bread - Sticks, Thin, Plain",Transportation,"Patriot Transportation Holding, Inc.",$37.25,470-98-3653
+284,Chickensplit Half,n/a,Capital One Financial Corporation,$62.25,291-66-7867
+285,"Yogurt - Banana, 175 Gr",n/a,"American Capital Senior Floating, Ltd.",$69.92,897-33-2063
+286,Cotton Wet Mop 16 Oz,Basic Industries,Sociedad Quimica y Minera S.A.,$69.72,467-27-5045
+287,Honey - Liquid,Consumer Services,"Hawaiian Telcom Holdco, Inc.",$38.75,537-80-4361
+288,Shrimp - 150 - 250,Finance,Stifel Financial Corporation,$61.18,574-65-9574
+289,Scallop - St. Jaques,Finance,"eHealth, Inc.",$65.56,791-59-2483
+290,Alize Sunset,Energy,Ocean Rig UDW Inc.,$98.39,427-80-0041
+291,Onions - Pearl,Consumer Services,Caesars Acquisition Company,$65.11,538-43-4657
+292,Plaintain,Health Care,Verona Pharma plc,$20.32,882-71-5537
+293,Beer - True North Strong Ale,Health Care,Motif Bio plc,$12.41,113-92-8649
+294,Rye Special Old,Consumer Services,Central European Media Enterprises Ltd.,$36.99,308-23-5129
+295,Ice Cream Bar - Hagen Daz,n/a,"Aberdeen Japan Equity Fund, Inc. ",$86.50,892-70-3592
+296,Spinach - Frozen,Public Utilities,Fortis Inc.,$90.02,482-38-4503
+297,Spice - Onion Powder Granulated,n/a,Alliance National Municipal Income Fund Inc,$31.47,103-09-7963
+298,Huck Towels White,Capital Goods,Gorman-Rupp Company (The),$83.54,253-55-1584
+299,Basil - Fresh,Basic Industries,"A-Mark Precious Metals, Inc.",$92.83,494-73-1279
+300,Tuna - Fresh,Finance,Jensyn Acquistion Corp.,$90.16,263-78-7664
+301,Garlic - Elephant,n/a,First Trust Capital Strength ETF,$2.51,532-45-7901
+302,Cabbage - Green,Technology,"Bottomline Technologies, Inc.",$66.62,494-97-2686
+303,"Pork - Bacon, Double Smoked",Health Care,"Lexicon Pharmaceuticals, Inc.",$66.23,151-91-4013
+304,Juice - Cranberry 284ml,n/a,John Hancock Hedged Equity & Income Fund,$8.63,236-27-4481
+305,Muffin - Zero Transfat,Finance,"First Capital, Inc.",$52.48,421-42-6427
+306,Table Cloth 81x81 White,n/a,Annaly Capital Management Inc,$72.74,580-95-8258
+307,Salmon - Canned,Finance,Marlin Business Services Corp.,$85.10,653-71-0755
+308,Wine - Jackson Triggs Okonagan,n/a,Solar Capital Ltd.,$39.04,389-31-8631
+309,Bag - Regular Kraft 20 Lb,Finance,State Auto Financial Corporation,$8.75,762-93-8783
+310,Bread - Raisin Walnut Pull,Technology,"Liberty TripAdvisor Holdings, Inc.",$10.75,676-11-4957
+311,Container - Hngd Cll Blk 7x7x3,Basic Industries,"Royal Gold, Inc.",$97.48,521-21-5991
+312,Chicken Breast Halal,Public Utilities,Artesian Resources Corporation,$87.79,367-59-0926
+313,"Wine - White, Ej Gallo",n/a,Voya Asia Pacific High Dividend Equity Income Fund,$97.62,151-61-2400
+314,Wine - Pinot Noir Mondavi Coastal,n/a,Eaton Vance Tax Advantaged Dividend Income Fund,$47.23,105-36-8316
+315,Oven Mitts 17 Inch,n/a,J P Morgan Chase & Co,$62.31,847-06-3641
+316,Mayonnaise,Consumer Services,"Care Capital Properties, Inc.",$72.26,131-07-7563
+317,Melon - Honey Dew,Capital Goods,Nova Measuring Instruments Ltd.,$26.76,788-56-3815
+318,Asparagus - Mexican,Consumer Non-Durables,US Foods Holding Corp.,$81.41,141-32-2636
+319,Parsley - Fresh,n/a,iShares MSCI All Country Asia ex Japan Index Fund,$3.81,621-02-8650
+320,Sauce - Rosee,Health Care,"OncoMed Pharmaceuticals, Inc.",$27.76,698-70-1240
+321,"Chilli Paste, Ginger Garlic",Technology,Omnicom Group Inc.,$33.65,133-94-1513
+322,"Veal - Brisket, Provimi, Bone - In",Health Care,Vertex Pharmaceuticals Incorporated,$40.79,460-13-3759
+323,Pork Loin Cutlets,Consumer Non-Durables,Diageo plc,$88.40,410-23-4075
+324,Apple - Granny Smith,Health Care,Blueprint Medicines Corporation,$8.75,752-76-7225
+325,Ginger - Crystalized,Health Care,"Natera, Inc.",$92.63,830-88-0057
+326,Bread - Olive,Consumer Services,Bed Bath & Beyond Inc.,$99.54,285-38-5322
+327,Bar Mix - Lime,n/a,"Hawaiian Electric Industries, Inc.",$90.87,331-36-0341
+328,"Artichoke - Bottom, Canned",Health Care,PAREXEL International Corporation,$7.21,138-48-6869
+329,Cranberries - Frozen,n/a,"Blackrock MuniHoldings New York Quality Fund, Inc.",$92.70,391-31-2873
+330,Ostrich - Prime Cut,Finance,"Maui Land & Pineapple Company, Inc.",$95.21,585-53-3772
+331,Gatorade - Xfactor Berry,Technology,"Ringcentral, Inc.",$12.13,322-54-1292
+332,"Bread - Roll, Whole Wheat",Consumer Services,"Williams-Sonoma, Inc.",$79.16,752-94-6299
+333,Longos - Greek Salad,n/a,Nuveen California Municipal Value Fund 2,$39.10,758-35-5002
+334,Creme De Banane - Marie,Capital Goods,Integra LifeSciences Holdings Corporation,$90.12,513-05-3326
+335,Soup Campbells Beef With Veg,Finance,Origo Acquisition Corporation,$22.08,224-90-3523
+336,Tomato Puree,Health Care,"Community Health Systems, Inc.",$98.02,750-86-7103
+337,Mince Meat - Filling,Consumer Durables,Turtle Beach Corporation,$18.88,653-78-5793
+338,Wine - Cava Aria Estate Brut,Transportation,Euronav NV,$45.22,267-30-0930
+339,Cakes Assorted,Capital Goods,"Ekso Bionics Holdings, Inc.",$45.28,653-50-7779
+340,"Beef - Tenderlion, Center Cut",Public Utilities,TransAlta Corporation,$91.57,255-14-3121
+341,Pasta - Cheese / Spinach Bauletti,Consumer Services,"Wecast Network, Inc.",$46.76,765-85-0621
+342,"Shrimp - 16/20, Peeled Deviened",Finance,"Bank of the James Financial Group, Inc.",$34.66,820-40-0619
+343,Cream - 35%,Transportation,"Gener8 Maritime, Inc.",$20.81,235-86-9527
+344,"Wine - Red, Cooking",Energy,YPF Sociedad Anonima,$30.59,544-24-8008
+345,Lettuce - Arugula,Finance,Simmons First National Corporation,$80.03,778-24-4178
+346,Pork - Bacon Cooked Slcd,Health Care,"Intercept Pharmaceuticals, Inc.",$81.12,353-87-2531
+347,Soup - Boston Clam Chowder,n/a,"Sophiris Bio, Inc.",$50.60,410-01-8772
+348,"Chocolate - Pistoles, White",n/a,Vanguard Russell 1000 Growth ETF,$60.07,571-31-6494
+349,Cinnamon - Stick,Finance,MidSouth Bancorp,$70.10,311-50-7686
+350,Creme De Menthe Green,Energy,Chesapeake Granite Wash Trust,$52.10,329-92-5648
+351,Stock - Fish,Finance,Zions Bancorporation,$49.98,846-75-5290
+352,"Pasta - Fett Alfredo, Single Serve",Consumer Services,"Del Frisco's Restaurant Group, Inc.",$61.76,331-05-7765
+353,Cheese - Taleggio D.o.p.,Health Care,"PhotoMedex, Inc.",$38.26,587-61-9436
+354,Hipnotiq Liquor,Finance,Bank of America Corporation,$31.53,553-46-0333
+355,Salt - Table,Technology,"SMART Global Holdings, Inc.",$12.31,751-72-9091
+356,Beer - Mcauslan Apricot,n/a,Wells Fargo & Company,$63.57,595-08-6440
+357,"Vodka - Lemon, Absolut",Consumer Services,"Urban One, Inc. ",$64.92,336-37-0965
+358,Pastry - Banana Muffin - Mini,Finance,Assured Guaranty Ltd.,$96.32,441-96-2907
+359,Table Cloth 54x54 White,Public Utilities,Harmony Merger Corp.,$7.23,146-67-9298
+360,Tea - Orange Pekoe,Consumer Services,Noodles & Company,$90.28,371-05-7433
+361,Spice - Montreal Steak Spice,Consumer Services,Sotherly Hotels Inc.,$66.69,417-36-3496
+362,Chicken - Bones,Basic Industries,Trinseo S.A.,$55.95,639-26-7696
+363,Eggplant Italian,n/a,"NextEra Energy, Inc.",$99.39,135-94-7735
+364,Lotus Leaves,Technology,"ServiceNow, Inc.",$55.40,117-68-1395
+365,"Chilli Paste, Sambal Oelek",n/a,iShares S&P/Citigroup 1-3 Year International Treasury Bond Fun,$14.70,481-06-0730
+366,Ice Cream Bar - Oreo Sandwich,Finance,X-Links Gold Shares Covered Call ETN,$88.96,174-90-3357
+367,Salt And Pepper Mix - Black,n/a,Nuveen Preferred and Income 2022 Term Fund,$55.54,881-10-2509
+368,"Water - Mineral, Natural",Energy,"Eco-Stim Energy Solutions, Inc.",$70.72,266-42-8945
+369,"Juice - Tomato, 10 Oz",Finance,"CB Financial Services, Inc.",$96.15,582-88-0517
+370,Danishes - Mini Raspberry,Finance,XL Group Ltd.,$74.17,816-40-5107
+371,Salt - Celery,Health Care,OncoGenex Pharmaceuticals Inc.,$62.59,123-54-8399
+372,Buffalo - Striploin,Miscellaneous,"Cass Information Systems, Inc",$67.40,893-10-5792
+373,Onions - Cippolini,Health Care,ENDRA Life Sciences Inc.,$82.56,586-97-6080
+374,"Vermacelli - Sprinkles, Assorted",Health Care,"Becton, Dickinson and Company",$95.48,787-81-2447
+375,Propel Sport Drink,Finance,PICO Holdings Inc.,$7.45,613-71-0674
+376,Sprouts - Bean,Technology,Materialise NV,$32.40,501-39-5737
+377,"Salsify, Organic",Consumer Services,"Ruth's Hospitality Group, Inc.",$24.06,831-30-8176
+378,"Soup - Campbells, Creamy",Health Care,Prothena Corporation plc,$39.83,505-87-8176
+379,Mace Ground,Consumer Durables,TravelCenters of America LLC,$70.70,143-47-8261
+380,Onions - White,Miscellaneous,Multi-Color Corporation,$69.89,731-85-5779
+381,Tahini Paste,Technology,Shopify Inc.,$21.18,292-98-2160
+382,Sour Cream,Technology,IPG Photonics Corporation,$68.63,533-81-7053
+383,Calypso - Strawberry Lemonade,Technology,"Sonic Foundry, Inc.",$25.53,746-12-0498
+384,Leeks - Large,Consumer Services,"Hertz Global Holdings, Inc",$63.16,127-09-2971
+385,Ketchup - Tomato,Technology,"ChinaNet Online Holdings, Inc.",$26.76,433-65-1496
+386,"Stock - Chicken, White",Health Care,"WellCare Health Plans, Inc.",$66.37,223-58-7539
+387,"Marsala - Sperone, Fine, D.o.c.",Consumer Services,"Genius Brands International, Inc.",$83.41,788-10-6469
+388,"Tart Shells - Barquettes, Savory",Consumer Services,"Dunkin' Brands Group, Inc.",$75.68,165-44-1885
+389,"Lemonade - Island Tea, 591 Ml",Public Utilities,Qwest Corporation,$44.51,708-50-5186
+390,Oil - Pumpkinseed,Technology,"Super Micro Computer, Inc.",$29.82,120-42-6303
+391,Mikes Hard Lemonade,Consumer Services,Elbit Imaging Ltd.,$76.15,619-11-8459
+392,"Wine - White, Schroder And Schyl",n/a,Avenue Income Credit Strategies Fund,$39.31,157-15-2345
+393,Tomato - Green,n/a,Flaherty & Crumrine Preferred Securities Income Fund Inc,$64.19,786-95-4049
+394,Pike - Frozen Fillet,n/a,National Retail Properties,$14.59,849-50-6715
+395,"Sprite, Diet - 355ml",Public Utilities,Atento S.A.,$95.24,867-57-9117
+396,Milk - Condensed,Energy,"Torchlight Energy Resources, Inc.",$43.50,624-84-6628
+397,Lamb - Bones,Consumer Services,NorthStar Realty Europe Corp.,$60.64,670-42-0045
+398,"Yogurt - Peach, 175 Gr",Health Care,OncoSec Medical Incorporated,$47.43,775-70-7057
+399,Vinegar - Balsamic,Finance,"Provident Financial Holdings, Inc.",$7.07,687-10-9779
+400,Water - Spring 1.5lit,Finance,iPath US Treasury 2-year Bear ETN,$77.71,533-85-1532
+401,Pasta - Cheese / Spinach Bauletti,Technology,"CSG Systems International, Inc.",$64.13,469-69-5756
+402,Stainless Steel Cleaner Vision,Health Care,ReWalk Robotics Ltd,$66.52,311-28-8788
+403,"Lamb - Racks, Frenched",Technology,Sanmina Corporation,$84.42,639-31-0971
+404,Coffee - 10oz Cup 92961,Consumer Services,"Piedmont Office Realty Trust, Inc.",$0.91,158-25-0939
+405,Syrup - Monin - Blue Curacao,Technology,Cerner Corporation,$7.75,208-71-7644
+406,Table Cloth 54x54 White,n/a,Regency Centers Corporation,$27.23,118-26-2824
+407,"Lettuce - Mini Greens, Whole",Capital Goods,"Spirit Aerosystems Holdings, Inc.",$55.81,616-41-8473
+408,Gatorade - Cool Blue Raspberry,Capital Goods,"Commercial Vehicle Group, Inc.",$32.11,365-45-2369
+409,"Doilies - 12, Paper",Energy,BP Prudhoe Bay Royalty Trust,$61.19,585-54-5751
+410,Pork - Ground,Capital Goods,"Manitowoc Company, Inc. (The)",$63.91,578-31-4825
+411,Beer - Steamwhistle,Health Care,"Becton, Dickinson and Company",$63.23,771-68-2400
+412,Ham - Cooked Bayonne Tinned,Consumer Services,"Diversified Restaurant Holdings, Inc.",$15.86,586-89-1070
+413,Sour Puss Raspberry,n/a,Global X S&P 500 Catholic Values ETF,$67.19,770-43-8437
+414,Flounder - Fresh,n/a,The Cushing MLP Total Return Fund,$9.00,888-35-0688
+415,Pepper - Chili Powder,Energy,Baytex Energy Corp,$7.54,219-82-2914
+416,Onions - Cooking,Finance,Torchmark Corporation,$6.04,685-54-4251
+417,Amarula Cream,Finance,"Innovative Industrial Properties, Inc.",$61.20,599-35-0260
+418,Peppercorns - Pink,Health Care,"Savara, Inc.",$98.82,313-73-1413
+419,Water - Perrier,n/a,"Pacific American Income Shares, Inc.",$58.80,193-45-7084
+420,Bread - Corn Muffaletta,Finance,Yintech Investment Holdings Limited,$81.64,279-46-9347
+421,Towel Dispenser,Basic Industries,Delta Technology Holdings Limited,$43.24,133-77-8104
+422,Wine - Riesling Alsace Ac 2001,Finance,"Marcus & Millichap, Inc.",$21.65,500-36-2763
+423,Sandwich Wrap,Finance,Citizens First Corporation,$74.14,559-87-1349
+424,"Pepsi - Diet, 355 Ml",n/a,"Avenue Therapeutics, Inc.",$70.96,777-39-8204
+425,Ham Black Forest,Miscellaneous,"Ctrip.com International, Ltd.",$39.67,570-42-5321
+426,Muffin Puck Ww Carrot,Energy,Legacy Reserves LP,$68.38,748-56-9859
+427,Pepper - Green Thai,Consumer Services,Dick's Sporting Goods Inc,$65.15,411-24-2204
+428,Chickhen - Chicken Phyllo,Capital Goods,"Century Communities, Inc.",$26.65,430-60-5557
+429,"Lobster - Baby, Boiled",Health Care,"MacroGenics, Inc.",$56.67,566-97-8342
+430,Bread - Sour Batard,Basic Industries,General Cable Corporation,$89.45,483-37-1673
+431,"Bread - Crumbs, Bulk",Health Care,Kitov Pharmaceuticals Holdings Ltd.,$39.26,216-54-4350
+432,"Wine - Red, Mouton Cadet",Health Care,"LeMaitre Vascular, Inc.",$10.40,839-97-3015
+433,Wine - Montecillo Rioja Crianza,Energy,NOW Inc.,$24.34,171-93-6888
+434,Milk - 2% 250 Ml,Consumer Services,"Manhattan Bridge Capital, Inc",$49.88,797-62-1306
+435,Rice - Jasmine Sented,Health Care,"Invuity, Inc.",$2.74,271-44-9611
+436,Crawfish,n/a,"Boston Properties, Inc.",$27.84,504-76-5788
+437,Chef Hat 25cm,Finance,"Conifer Holdings, Inc.",$50.83,802-95-7574
+438,Sour Puss Sour Apple,Consumer Durables,Pool Corporation,$41.90,183-56-8719
+439,Wine - Rosso Toscano Igt,Consumer Services,"SunOpta, Inc.",$10.61,632-54-1242
+440,Beer - Fruli,n/a,PowerShares S&P SmallCap Energy Portfolio,$82.97,185-55-6406
+441,Syrup - Chocolate,Health Care,"Rigel Pharmaceuticals, Inc.",$29.80,692-92-8166
+442,Containter - 3oz Microwave Rect.,Finance,"Greenlight Reinsurance, Ltd.",$87.77,285-50-0056
+443,Wine - Acient Coast Caberne,Technology,Autohome Inc.,$73.29,439-50-7605
+444,"Stock - Beef, White",Health Care,"Merit Medical Systems, Inc.",$50.11,405-10-2737
+445,Muffin Chocolate Individual Wrap,Finance,Aegon NV,$56.42,847-66-7193
+446,Mangoes,Public Utilities,Atmos Energy Corporation,$27.55,679-34-0872
+447,Table Cloth 62x114 White,Finance,"Federated Investors, Inc.",$61.38,367-52-3244
+448,Soupfoamcont12oz 112con,Energy,"Plains All American Pipeline, L.P.",$54.11,262-24-1251
+449,Ecolab - Medallion,n/a,iShares S&P/Citigroup International Treasury Bond Fund,$99.68,151-38-8075
+450,Yeast Dry - Fleischman,Finance,Infinity Property and Casualty Corporation,$87.73,678-55-3579
+451,Wine - Cave Springs Dry Riesling,Energy,Canadian Natural Resources Limited,$83.10,287-03-3852
+452,"Seedlings - Buckwheat, Organic",Finance,Capital One Financial Corporation,$63.06,632-35-8701
+453,Bread - Calabrese Baguette,Energy,Mesa Royalty Trust,$91.36,716-12-9061
+454,Broom - Corn,Technology,"Enphase Energy, Inc.",$53.69,174-74-0436
+455,Rappini - Andy Boy,Health Care,XBiotech Inc.,$79.68,736-93-5719
+456,"Wine - Magnotta, White",Capital Goods,"RF Industries, Ltd.",$81.50,709-10-5129
+457,Napkin White - Starched,Health Care,DURECT Corporation,$70.25,260-50-4346
+458,Wine - Beringer Founders Estate,Consumer Services,American Homes 4 Rent,$90.11,560-18-9085
+459,Muffins - Assorted,Energy,Concho Resources Inc.,$13.43,149-71-4855
+460,Mcguinness - Blue Curacao,Finance,Kemper Corporation,$52.37,100-15-5356
+461,Compound - Passion Fruit,n/a,"LogMein, Inc.",$13.14,319-77-8783
+462,Parasol Pick Stir Stick,Finance,"AMERIPRISE FINANCIAL SERVICES, INC.",$94.24,199-04-4368
+463,Fork - Plastic,Finance,"Magyar Bancorp, Inc.",$82.62,502-06-4566
+464,Beef Ground Medium,Miscellaneous,"FleetCor Technologies, Inc.",$8.59,276-37-1385
+465,Wine - Barbera Alba Doc 2001,Finance,OceanFirst Financial Corp.,$67.72,226-05-8048
+466,Appetizer - Cheese Bites,Health Care,"BeyondSpring, Inc.",$59.26,474-78-1967
+467,"Arctic Char - Fresh, Whole",Consumer Non-Durables,RiceBran Technologies,$44.78,867-64-9984
+468,Durian Fruit,n/a,ENDRA Life Sciences Inc.,$48.66,157-49-9472
+469,Syrup - Monin - Granny Smith,Public Utilities,Internet Gold Golden Lines Ltd.,$84.75,626-10-1045
+470,"Lemonade - Black Cherry, 591 Ml",Finance,BancFirst Corporation,$71.92,148-32-6636
+471,"Syrup - Monin, Irish Cream",Technology,"Commvault Systems, Inc.",$72.90,576-41-3637
+472,Pork - Back Ribs,Technology,"Wayside Technology Group, Inc.",$28.82,481-85-7300
+473,Garlic - Peeled,n/a,Ashford Hospitality Trust Inc,$88.59,209-61-4687
+474,Bag Clear 10 Lb,n/a,"Adams Natural Resources Fund, Inc.",$53.09,735-57-2464
+475,Veal - Osso Bucco,Technology,"Welbilt, Inc.",$31.58,413-24-9112
+476,"Pasta - Lasagna, Dry",Basic Industries,Trinseo S.A.,$18.42,312-47-0190
+477,Veal - Kidney,Consumer Services,Restaurant Brands International Inc.,$89.79,531-47-1844
+478,Ice Cream Bar - Oreo Sandwich,Consumer Non-Durables,Sony Corp Ord,$43.84,306-15-8071
+479,Noodles - Steamed Chow Mein,Technology,Electronic Arts Inc.,$37.02,526-87-6784
+480,Pepsi - 600ml,Technology,"Paycom Software, Inc.",$56.92,400-22-3025
+481,Yeast Dry - Fleischman,Technology,MDC Partners Inc.,$51.93,450-54-3753
+482,Black Currants,n/a,"BlackLine, Inc.",$87.93,281-94-0364
+483,Garbage Bags - Black,n/a,Proshares UltraPro Nasdaq Biotechnology,$68.80,419-84-6703
+484,"Shrimp - Baby, Warm Water",Technology,"Aspen Technology, Inc.",$0.75,265-76-1416
+485,Appetizer - Lobster Phyllo Roll,n/a,"Apollo Global Management, LLC",$39.90,766-47-9424
+486,Rootbeer,Technology,CYREN Ltd.,$33.91,363-82-1710
+487,Garam Masala Powder,n/a,"Goldman Sachs Group, Inc. (The)",$37.97,425-81-3031
+488,Bread - Rye,Health Care,"Pulmatrix, Inc.",$85.04,576-16-2577
+489,Pastry - Raisin Muffin - Mini,Consumer Services,"Foundation Building Materials, Inc.",$65.44,665-49-3327
+490,Beef - Prime Rib Aaa,Public Utilities,The York Water Company,$96.56,263-98-4257
+491,Ice Cream - Chocolate,Finance,"Landcadia Holdings, Inc.",$4.17,669-95-3655
+492,Table Cloth 144x90 White,Health Care,"Kindred Healthcare, Inc.",$98.55,342-43-2683
+493,Tray - 16in Rnd Blk,Public Utilities,American Water Works,$39.70,668-46-9493
+494,Glass Clear 7 Oz Xl,n/a,John Hancock Tax-Advantaged Global Shareholder Yield Fund,$52.92,313-18-1198
+495,"Shrimp - Baby, Warm Water",n/a,KKR & Co. L.P.,$43.70,819-85-7015
+496,Cheese - Valancey,n/a,First Trust China AlphaDEX Fund,$65.91,289-64-5630
+497,Potatoes - Idaho 80 Count,Public Utilities,"Western Gas Equity Partners, LP",$82.80,725-26-1710
+498,Mousse - Passion Fruit,Health Care,"Fulgent Genetics, Inc.",$4.51,565-92-9494
+499,Wine - Blue Nun Qualitatswein,Energy,TechnipFMC plc,$54.31,233-64-2211
+500,"Soup - Campbells, Cream Of",Consumer Services,Container Store (The),$55.74,514-77-0847
+501,Currants,Consumer Services,MakeMyTrip Limited,$82.64,357-51-2781
+502,"Orange - Canned, Mandarin",Technology,"Park City Group, Inc.",$44.57,857-80-7359
+503,Onions - White,n/a,iStar Financial Inc.,$99.19,342-19-0220
+504,Milk Powder,Energy,"Holly Energy Partners, L.P.",$93.01,516-26-2150
+505,Beer - Camerons Auburn,Consumer Non-Durables,Colgate-Palmolive Company,$85.10,204-14-3377
+506,Thyme - Fresh,Finance,BBVA Banco Frances S.A.,$69.64,481-21-2792
+507,"Tendrils - Baby Pea, Organic",Technology,"Heidrick & Struggles International, Inc.",$71.28,768-21-2093
+508,Cornish Hen,Finance,JMP Group LLC,$15.79,570-29-9984
+509,Longos - Chicken Curried,Finance,"Equifax, Inc.",$71.03,220-48-5525
+510,Puree - Blackcurrant,Finance,MSB Financial Corp.,$81.14,504-57-5420
+511,Tea - Green,Finance,"Washington Federal, Inc.",$36.12,475-61-3657
+512,"Wine - White, Pelee Island",n/a,Interstate Power and Light Company,$52.01,455-47-5359
+513,Limes,Finance,Wintrust Financial Corporation,$39.57,221-30-0132
+514,"Pasta - Gnocchi, Potato",n/a,iShares MSCI EM ESG Optimized ETF,$56.59,557-89-0933
+515,Carbonated Water - Strawberry,n/a,Moog Inc.,$76.96,697-52-2222
+516,Almonds Ground Blanched,Capital Goods,Cubic Corporation,$84.24,727-39-6732
+517,Lady Fingers,Technology,Veeco Instruments Inc.,$40.05,298-51-2854
+518,"Pineapple - Canned, Rings",n/a,Nuveen Select Tax Free Income Portfolio III,$7.86,444-30-5522
+519,Pepper - Yellow Bell,Energy,Legacy Reserves LP,$35.22,749-09-4224
+520,Milk 2% 500 Ml,Finance,"Hallmark Financial Services, Inc.",$5.54,575-68-8674
+521,Bay Leaf Fresh,Basic Industries,TOR Minerals International Inc,$20.67,205-43-1157
+522,Bread - Hot Dog Buns,Health Care,"Sonoma Pharmaceuticals, Inc.",$7.63,641-79-4825
+523,Corn Meal,Finance,Aspen Insurance Holdings Limited,$17.11,887-94-4486
+524,Sun - Dried Tomatoes,Capital Goods,"Barnes Group, Inc.",$9.51,212-58-6549
+525,Bread - Olive,Consumer Services,Cencosud S.A.,$27.49,642-36-1214
+526,Cup - Paper 10oz 92959,n/a,ProShares UltraPro Short NASDAQ Biotechnology,$9.57,828-27-4025
+527,Rice Paper,n/a,Scudder Strategic Income Trust,$64.91,484-74-9585
+528,"Oil - Shortening,liqud, Fry",Capital Goods,James Hardie Industries plc.,$0.77,417-04-5446
+529,Vodka - Smirnoff,n/a,FIRST REPUBLIC BANK,$82.72,766-22-9131
+530,Wine - Lou Black Shiraz,Health Care,Luna Innovations Incorporated,$84.67,851-40-2304
+531,"C - Plus, Orange",Consumer Durables,Nutraceutical International Corporation,$10.18,450-75-6661
+532,Kiwi Gold Zespri,n/a,Diversified Real Asset Income Fund,$91.59,769-08-0710
+533,Ham - Procutinni,Technology,Concurrent Computer Corporation,$94.08,601-68-3898
+534,Ecolab Crystal Fusion,n/a,Wells Fargo & Company,$94.17,594-53-1028
+535,Lime Cordial - Roses,Health Care,Histogenics Corporation,$33.87,557-56-5060
+536,Pasta - Ravioli,Health Care,Perrigo Company,$75.86,238-38-2822
+537,Lettuce - Romaine,Energy,SandRidge Permian Trust,$57.31,168-59-2186
+538,"Coffee - Beans, Whole",Basic Industries,Mosaic Company (The),$52.14,810-11-9260
+539,Sobe - Liz Blizz,Consumer Services,"Ulta Beauty, Inc.",$2.32,154-56-6710
+540,Tea - Vanilla Chai,Capital Goods,Owens Corning Inc,$41.31,337-59-1087
+541,"Nut - Almond, Blanched, Ground",Capital Goods,Toro Company (The),$96.00,780-87-4061
+542,"Beef - Ox Tail, Frozen",n/a,iShares 20+ Year Treasury Bond ETF,$78.91,695-02-6979
+543,"Chicken - Wings, Tip Off",Finance,"Ambac Financial Group, Inc.",$78.32,462-26-5140
+544,Snapple - Iced Tea Peach,n/a,RenaissanceRe Holdings Ltd.,$57.90,160-96-5579
+545,Ham - Cooked,Technology,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION,$74.27,621-66-3797
+546,Slt - Individual Portions,n/a,VictoryShares US 500 Enhanced Volatility Wtd ETF,$70.55,548-13-2475
+547,"Fish - Scallops, Cold Smoked",n/a,Lincoln National Corporation,$14.80,668-82-6746
+548,Myers Planters Punch,Health Care,XBiotech Inc.,$95.48,527-56-7104
+549,Squid - U - 10 Thailand,Consumer Non-Durables,Fomento Economico Mexicano S.A.B. de C.V.,$50.41,345-69-0800
+550,"Pepper - White, Whole",Health Care,Verona Pharma plc,$96.77,790-89-6624
+551,Bread - Corn Muffaleta Onion,Consumer Services,Red Lion Hotels Corporation,$88.75,618-25-9517
+552,Prunes - Pitted,Energy,"Energy Transfer Partners, L.P.",$71.46,836-30-9534
+553,Beef Striploin Aaa,Health Care,"DexCom, Inc.",$59.76,558-79-6898
+554,Hold Up Tool Storage Rack,n/a,The AES Corporation,$95.46,307-42-7209
+555,"Rum - Cream, Amarula",Finance,"Penns Woods Bancorp, Inc.",$50.88,699-29-7275
+556,Sunflower Seed Raw,Consumer Durables,TravelCenters of America LLC,$49.77,640-36-9052
+557,"Juice - V8, Tomato",Consumer Services,"Century Casinos, Inc.",$56.25,379-59-5418
+558,"Soup - Knorr, French Onion",Public Utilities,AT&T Inc.,$31.43,413-09-3463
+559,Bread - Flat Bread,n/a,Eaton Vance Senior Income Trust,$56.74,697-90-5021
+560,Energy Drink - Franks Pineapple,n/a,ProShares UltraPro Short NASDAQ Biotechnology,$49.91,828-26-4753
+561,Kellogs Raisan Bran Bars,n/a,Bank of America Corporation,$87.61,219-37-0577
+562,"Syrup - Golden, Lyles",Consumer Durables,"Kimball International, Inc.",$5.62,564-20-3677
+563,Plaintain,Public Utilities,"Dominion Energy, Inc.",$51.07,623-47-4308
+564,"Wine - Cahors Ac 2000, Clos",Consumer Durables,"Natural Alternatives International, Inc.",$67.38,175-89-8200
+565,Oven Mitt - 13 Inch,Energy,Cenovus Energy Inc,$86.09,395-62-9657
+566,"Ham - Smoked, Bone - In",Finance,"ING Group, N.V.",$91.58,264-05-8740
+567,"Nut - Pistachio, Shelled",Health Care,Auris Medical Holding AG,$79.61,807-58-5054
+568,"Corn - Cream, Canned",Transportation,"Grupo Aeroportuario Del Pacifico, S.A. de C.V.",$97.12,554-77-4478
+569,Ezy Change Mophandle,Health Care,"AngioDynamics, Inc.",$64.48,525-61-2740
+570,"Lobster - Baby, Boiled",Capital Goods,"Agilent Technologies, Inc.",$83.49,730-54-3714
+571,"Wine - Cahors Ac 2000, Clos",Technology,"Hanwha Q CELLS Co., Ltd. ",$12.85,798-69-0303
+572,Yoplait Drink,n/a,PowerShares Water Resources Portfolio,$89.91,360-99-2980
+573,Sauce - Roasted Red Pepper,Consumer Services,"Village Super Market, Inc.",$81.31,674-45-8950
+574,Salmon - Canned,Basic Industries,American Vanguard Corporation,$90.65,196-33-6491
+575,Ecolab - Balanced Fusion,Finance,First BanCorp.,$42.28,470-36-2729
+576,Cheese - Le Cheve Noir,n/a,CM Finance Inc,$53.90,543-04-2259
+577,"Beef - Baby, Liver",n/a,Blackrock Florida Municipal 2020 Term Trust,$92.91,379-57-0517
+578,"Lemonade - Natural, 591 Ml",Technology,National Instruments Corporation,$84.80,753-61-0730
+579,Lettuce - Iceberg,Consumer Durables,Natural Health Trends Corp.,$36.65,495-23-0841
+580,Pasta - Agnolotti - Butternut,n/a,Nuveen New Jersey Quality Municipal Income Fund,$62.09,612-94-3412
+581,"Wine - White, Schroder And Schyl",Consumer Services,"MarineMax, Inc.",$79.11,503-46-2047
+582,Magnotta Bel Paese Red,n/a,Citigroup Inc.,$41.90,706-29-3009
+583,Chocolate - Unsweetened,Technology,Atomera Incorporated,$49.69,150-19-8046
+584,Pear - Packum,Miscellaneous,"Liquidity Services, Inc.",$31.55,103-27-7427
+585,"Pasta - Orzo, Dry",Capital Goods,Strattec Security Corporation,$64.25,773-03-5433
+586,"Lamb - Whole Head Off,nz",Consumer Services,Landmark Infrastructure Partners LP,$63.45,242-16-1162
+587,"Bread - Bagels, Plain",Capital Goods,ClearSign Combustion Corporation,$30.77,257-47-6781
+588,Nescafe - Frothy French Vanilla,Technology,"Workday, Inc.",$8.98,464-62-4910
+589,Cake - Lemon Chiffon,Public Utilities,Fabrinet,$40.20,573-11-9862
+590,Wine - Vidal Icewine Magnotta,Finance,Vantage Energy Acquisition Corp.,$76.13,229-16-4239
+591,Venison - Ground,Consumer Services,"Sunstone Hotel Investors, Inc.",$63.47,273-23-4396
+592,Wine - Barossa Valley Estate,Finance,"MarketAxess Holdings, Inc.",$98.12,786-60-7238
+593,Wine - Niagara Peninsula Vqa,n/a,F.N.B. Corporation,$46.69,400-56-8013
+594,Kiwano,Technology,Innodata Inc.,$46.67,670-69-6036
+595,Mustard - Individual Pkg,n/a,"Mid-America Apartment Communities, Inc.",$23.30,517-88-9822
+596,"Artichokes - Knobless, White",Finance,"Affiliated Managers Group, Inc.",$12.63,511-26-0447
+597,"Stock - Beef, Brown",Capital Goods,"Simpson Manufacturing Company, Inc.",$26.22,528-50-9207
+598,Muffin Mix - Carrot,Capital Goods,BlueLinx Holdings Inc.,$91.88,801-05-1665
+599,Wine - Beaujolais Villages,Finance,Gazit-Globe Ltd.,$33.53,367-38-3814
+600,"Split Peas - Yellow, Dry",Consumer Services,"Retail Properties of America, Inc.",$97.70,586-67-5825
+601,"Pasta - Penne, Lisce, Dry",Energy,"Alon USA Energy, Inc.",$51.68,801-35-6707
+602,Wine - Zonnebloem Pinotage,n/a,ALPS/Dorsey Wright Sector Momentum ETF,$92.74,515-22-6679
+603,Ice Cream Bar - Oreo Cone,Transportation,Euronav NV,$57.87,357-55-4151
+604,Wakami Seaweed,Health Care,Biohaven Pharmaceutical Holding Company Ltd.,$92.16,182-81-7975
+605,Muskox - French Rack,Consumer Services,Sutherland Asset Management Corporation,$84.58,848-34-3345
+606,Sauce - Roasted Red Pepper,Consumer Services,"American Assets Trust, Inc.",$29.98,246-15-2420
+607,Shallots,n/a,Wells Fargo & Company,$55.96,100-94-1687
+608,Beef - Bresaola,Finance,"Conifer Holdings, Inc.",$33.70,381-05-9462
+609,Neckerchief Blck,Consumer Services,"Highwoods Properties, Inc.",$57.26,679-96-1827
+610,Beef - Top Butt Aaa,Consumer Durables,"Interface, Inc.",$94.85,264-92-4996
+611,Apples - Spartan,Finance,Double Eagle Acquisition Corp.,$27.80,324-20-2986
+612,Chocolate - Feathers,n/a,Eastman Kodak Company,$91.75,570-34-3069
+613,Pate - Liver,Health Care,"ViewRay, Inc.",$71.45,892-28-6708
+614,Sardines,Consumer Non-Durables,"Alico, Inc.",$21.70,430-92-9153
+615,Baking Soda,Energy,Pioneer Energy Services Corp.,$55.83,113-02-8704
+616,Longos - Chicken Wings,n/a,Eastman Kodak Company,$46.73,717-68-5872
+617,Cream - 18%,Miscellaneous,Accenture plc,$70.99,714-51-7326
+618,Calypso - Pineapple Passion,Consumer Services,"The Meet Group, Inc.",$22.07,308-04-9775
+619,Dragon Fruit,Basic Industries,Aegion Corp,$15.88,612-51-4359
+620,Eggwhite Frozen,Health Care,"TRACON Pharmaceuticals, Inc.",$43.80,559-85-0217
+621,"Nut - Almond, Blanched, Sliced",Health Care,"Flex Pharma, Inc.",$18.98,631-11-5076
+622,Wine - Tribal Sauvignon,Technology,"Aspen Technology, Inc.",$46.55,376-38-8206
+623,Soup Campbells Turkey Veg.,Finance,Ocwen Financial Corporation,$92.25,230-75-6541
+624,Apricots - Halves,n/a,PIMCO Dynamic Credit and Mortgage Income Fund,$42.26,833-49-0331
+625,Juice - Happy Planet,n/a,The Gabelli Healthcare & Wellness Trust,$5.14,598-89-1850
+626,Carbonated Water - Blackberry,n/a,"M I Acquisitions, Inc.",$49.57,831-52-6909
+627,Fennel - Seeds,Consumer Services,"Zoe's Kitchen, Inc.",$9.40,195-16-6326
+628,Water - Tonic,Consumer Non-Durables,Diageo plc,$84.38,850-61-3412
+629,Bread - Hot Dog Buns,n/a,Managed Duration Investment Grade Municipal Fund,$95.42,384-26-0767
+630,"Tomatoes - Diced, Canned",n/a,"MFA Financial, Inc.",$2.21,544-40-1718
+631,Pop Shoppe Cream Soda,Technology,Twilio Inc.,$39.71,592-66-3125
+632,Quail Eggs - Canned,Capital Goods,"Huntington Ingalls Industries, Inc.",$57.66,608-33-4713
+633,Muffin Batt - Blueberry Passion,n/a,Annaly Capital Management Inc,$49.09,673-26-4293
+634,Pork - Shoulder,Public Utilities,"NRG Energy, Inc.",$28.47,456-05-7926
+635,Lettuce - Lolla Rosa,Energy,Newfield Exploration Company,$23.93,192-36-3518
+636,Appetizer - Tarragon Chicken,Capital Goods,Navistar International Corporation,$99.19,159-19-6078
+637,Cheese - St. Andre,Consumer Services,"Nord Anglia Education, Inc.",$71.03,396-29-3449
+638,Juice - Orangina,Consumer Services,AMC Networks Inc.,$75.39,555-66-1162
+639,Muffin Carrot - Individual,Energy,HollyFrontier Corporation,$90.71,854-43-6421
+640,Pepper - Cubanelle,Public Utilities,Telefonica Brasil S.A.,$3.23,646-24-5129
+641,Savory,Technology,Sabre Corporation,$2.47,833-57-8409
+642,"Halibut - Whole, Fresh",Transportation,Southwest Airlines Company,$5.64,685-63-7933
+643,Bread - Olive,Consumer Services,AGNC Investment Corp.,$34.44,139-32-8238
+644,Appetizer - Tarragon Chicken,n/a,NASDAQ TEST STOCK,$19.42,756-84-6276
+645,"Cod - Salted, Boneless",Transportation,"Heartland Express, Inc.",$6.59,502-36-0812
+646,"Bread - Pumpernickle, Rounds",n/a,The GDL Fund,$78.13,800-81-3862
+647,Sage - Fresh,Health Care,ESSA Pharma Inc.,$57.99,601-05-5764
+648,"Pork - Ham, Virginia",Basic Industries,"SunCoke Energy, Inc.",$43.48,574-31-2488
+649,Tomato - Peeled Italian Canned,Consumer Services,Jack In The Box Inc.,$51.37,102-40-1428
+650,Food Colouring - Orange,n/a,Regions Financial Corporation,$3.14,130-87-6360
+651,Filter - Coffee,Capital Goods,"Commercial Vehicle Group, Inc.",$0.89,473-28-6923
+652,Carbonated Water - Peach,n/a,Calamos Dynamic Convertible & Income Fund,$34.44,853-10-7811
+653,Coffee - Flavoured,Finance,Lehman ABS Corporation,$99.49,706-52-4790
+654,"Lid - High Heat, Super Clear",Technology,"On Assignment, Inc.",$17.60,202-85-3266
+655,Mussels - Frozen,Consumer Durables,Educational Development Corporation,$73.86,376-33-0079
+656,Red Currant Jelly,n/a,PowerShares DWA Developed Markets Momentum Portfolio,$35.98,489-57-6653
+657,Chicken Breast Halal,Consumer Durables,"Nexeo Solutions, Inc.",$59.69,884-04-7167
+658,Ice Cream Bar - Hagen Daz,Consumer Services,"Chico's FAS, Inc.",$16.79,144-86-9096
+659,Appetizer - Smoked Salmon / Dill,Capital Goods,Federal Signal Corporation,$22.74,709-53-4485
+660,Tumeric,Energy,Baytex Energy Corp,$41.64,378-91-1914
+661,Juice - Cranberry 284ml,n/a,Invesco Senior Income Trust,$85.27,576-70-2149
+662,Ice Cream Bar - Oreo Cone,n/a,iShares MSCI Europe Small-Cap ETF,$28.17,233-85-2182
+663,Broom - Angled,Technology,"Key Technology, Inc.",$19.31,398-46-8419
+664,"Bread - Crumbs, Bulk",Finance,Renasant Corporation,$35.57,629-19-7442
+665,Chips - Potato Jalapeno,Capital Goods,Honeywell International Inc.,$21.35,168-44-7298
+666,Chef Hat 20cm,Finance,Banco Santander Chile,$77.98,343-09-4177
+667,Garam Masala Powder,Finance,"OneBeacon Insurance Group, Ltd.",$79.99,509-63-8003
+668,"Sprite, Diet - 355ml",Capital Goods,Fluidigm Corporation,$36.61,645-34-3607
+669,Rice Paper,n/a,Eaton Vance Tax-Advantaged Global Dividend Income Fund,$28.41,867-90-5072
+670,Marjoram - Fresh,Energy,Cross Timbers Royalty Trust,$70.60,818-44-1036
+671,Apple - Fuji,n/a,Chimera Investment Corporation,$13.49,820-45-4405
+672,"Rum - Coconut, Malibu",Technology,"Leidos Holdings, Inc.",$24.97,127-68-2081
+673,"Yogurt - Blueberry, 175 Gr",n/a,VanEck Vectors Pharmaceutical ETF,$62.03,690-41-3236
+674,Compound - Mocha,n/a,Global X NASDAQ China Technology ETF,$46.09,333-14-4114
+675,Calypso - Pineapple Passion,Finance,iPath US Treasury 5-year Bull ETN,$80.06,138-66-4442
+676,Pork - Smoked Back Bacon,n/a,"Maiden Holdings, Ltd.",$67.58,397-52-9580
+677,"Lamb - Whole, Fresh",Health Care,Dr. Reddy's Laboratories Ltd,$98.88,655-06-7385
+678,Everfresh Products,Finance,SLM Corporation,$79.80,512-80-6299
+679,Pork Loin Cutlets,Technology,"MAM Software Group, Inc.",$5.39,172-29-8212
+680,Cookies - Englishbay Wht,Finance,Severn Bancorp Inc,$98.97,467-57-8390
+681,Sugar - Individual Portions,Technology,Comtech Telecommunications Corp.,$11.10,693-26-2717
+682,Rootbeer,Health Care,"Community Health Systems, Inc.",$2.67,441-33-0865
+683,Wine - Blue Nun Qualitatswein,Finance,STRATS Trust,$88.93,342-38-5448
+684,Shrimp - Black Tiger 16/20,Finance,"BlackRock, Inc.",$96.37,385-86-2848
+685,Potatoes - Idaho 100 Count,Health Care,Jazz Pharmaceuticals plc,$49.05,144-88-9613
+686,Beer - Blue,Finance,Green Dot Corporation,$24.04,741-76-0687
+687,Milk - Buttermilk,n/a,Gabelli NextShares Trust,$68.92,544-08-1237
+688,Banana Turning,Technology,"MoSys, Inc.",$88.01,130-96-9006
+689,Beef Flat Iron Steak,Finance,M&T Bank Corporation,$14.42,717-49-0139
+690,Wine - Baron De Rothschild,Capital Goods,"MOCON, Inc.",$66.47,519-08-9444
+691,Monkfish Fresh - Skin Off,Consumer Services,Uniti Group Inc.,$21.64,860-91-0888
+692,Mousse - Banana Chocolate,n/a,"Nuveen New York Municipal Value Fund, Inc.",$21.82,508-19-2729
+693,Pork - Bones,Health Care,Midatech Pharma PLC,$98.91,539-19-3789
+694,Chocolate - Dark,Energy,U.S. Energy Corp.,$62.46,215-88-8168
+695,Sugar - Fine,Health Care,"Apollo Endosurgery, Inc.",$50.58,578-54-1064
+696,Chocolate - Unsweetened,Consumer Durables,Graphic Packaging Holding Company,$58.03,346-71-7748
+697,Crawfish,Technology,Yahoo! Inc.,$60.99,249-02-5042
+698,"Juice - Apple, 1.36l",Finance,"United Community Banks, Inc.",$87.22,679-51-3678
+699,Wine - Sake,n/a,Guggenheim Taxable Municipal Managed Duration Trst,$53.18,564-92-7152
+700,Corn - On The Cob,Basic Industries,Unilever PLC,$98.38,200-62-5836
+701,Vinegar - Cider,Energy,NGL ENERGY PARTNERS LP,$34.59,556-44-8289
+702,Food Colouring - Orange,Consumer Services,Liberty Interactive Corporation,$98.16,730-24-1907
+703,"Rum - White, Gg White",Finance,"Reinsurance Group of America, Incorporated",$4.72,282-50-2837
+704,Ginger - Fresh,n/a,Eaton Vance Senior Floating-Rate Fund,$48.41,679-73-2835
+705,Versatainer Nc - 888,n/a,"Haverty Furniture Companies, Inc.",$54.30,449-48-7958
+706,Bouillion - Fish,Health Care,"Loxo Oncology, Inc.",$92.58,306-03-4240
+707,General Purpose Trigger,Consumer Services,"Evolent Health, Inc",$54.45,146-37-3025
+708,Honey - Lavender,Finance,China Rapid Finance Limited,$93.23,127-10-0859
+709,Lamb - Bones,n/a,Proshares UltraPro Nasdaq Biotechnology,$37.77,521-92-7229
+710,Chinese Foods - Plain Fried Rice,Energy,Baytex Energy Corp,$86.50,819-15-2417
+711,"Tarragon - Primerba, Paste",Consumer Services,"CorEnergy Infrastructure Trust, Inc.",$77.15,248-41-4478
+712,Scallops - Live In Shell,Finance,National Holdings Corporation,$73.68,522-40-3493
+713,Currants,Consumer Non-Durables,Omega Protein Corporation,$33.28,517-34-7377
+714,Longos - Lasagna Veg,n/a,VALE S.A.,$96.30,263-14-8852
+715,Lettuce - Baby Salad Greens,n/a,PowerShares DWA Tactical Sector Rotation Portfolio,$43.42,633-21-1508
+716,Wine - Sawmill Creek Autumn,Basic Industries,Sterling Construction Company Inc,$61.46,772-15-0555
+717,Hipnotiq Liquor,n/a,"Gabelli Equity Trust, Inc. (The)",$61.31,690-03-1866
+718,Flower - Dish Garden,Basic Industries,The AES Corporation,$14.43,567-18-2217
+719,Soup Campbells Split Pea And Ham,Technology,"j2 Global, Inc.",$4.64,237-44-9320
+720,Pastrami,Health Care,PAVmed Inc.,$38.52,623-81-5319
+721,Jolt Cola - Electric Blue,Consumer Services,CHS Inc,$85.94,716-97-5064
+722,Rambutan,Transportation,"Alaska Air Group, Inc.",$17.06,851-38-9310
+723,Lamb - Sausage Casings,Consumer Non-Durables,S&W Seed Company,$85.34,227-36-9542
+724,Juice - Orange,Finance,"ESSA Bancorp, Inc.",$47.61,523-96-5192
+725,Lettuce - California Mix,n/a,"NextEra Energy, Inc.",$13.49,522-64-6420
+726,Carbonated Water - Peach,Energy,"Blueknight Energy Partners L.P., L.L.C.",$24.45,479-21-3905
+727,Raisin - Golden,Finance,"Penns Woods Bancorp, Inc.",$96.91,788-77-7998
+728,Wine - Rioja Campo Viejo,Energy,Denbury Resources Inc.,$98.29,427-27-2417
+729,Cookies Oatmeal Raisin,Consumer Services,"Empire State Realty Trust, Inc.",$40.97,671-77-3851
+730,Ecolab - Lime - A - Way 4/4 L,Technology,Logitech International S.A.,$79.89,250-07-7231
+731,Wood Chips - Regular,Transportation,Euronav NV,$46.94,791-85-4873
+732,Sauce - Caesar Dressing,Finance,"Atlas Financial Holdings, Inc.",$76.90,678-91-1607
+733,Yokaline,n/a,VictoryShares International High Div Volatility Wtd ETF,$75.39,862-70-2815
+734,Coffee Guatemala Dark,Basic Industries,Endeavour Silver Corporation,$78.78,351-29-4676
+735,"Leeks - Baby, White",Finance,"Brown & Brown, Inc.",$21.13,423-65-6847
+736,Wine - Cotes Du Rhone Parallele,Public Utilities,"South Jersey Industries, Inc.",$28.91,789-83-9573
+737,Chick Peas - Dried,Finance,ProAssurance Corporation,$76.08,545-11-4225
+738,Milkettes - 2%,n/a,Nustar Energy L.P.,$38.51,583-59-6884
+739,Broccoli - Fresh,n/a,Gladstone Investment Corporation,$25.90,443-27-5999
+740,Lamb - Rack,Finance,Aflac Incorporated,$71.19,101-79-3865
+741,Longan,n/a,Eaton Vance Senior Income Trust,$90.96,164-75-6477
+742,Island Oasis - Magarita Mix,Technology,"New Relic, Inc.",$22.70,268-49-3797
+743,Wine - Barbera Alba Doc 2001,Technology,"Citrix Systems, Inc.",$71.46,127-39-7983
+744,Blackberries,Technology,"Ubiquiti Networks, Inc.",$7.71,657-04-7037
+745,Bag Clear 10 Lb,Finance,"Manning & Napier, Inc.",$41.06,701-86-1184
+746,Wine - Barolo Fontanafredda,Public Utilities,"Entergy Mississippi, Inc.",$58.97,528-72-6485
+747,The Pop Shoppe - Cream Soda,Energy,Sundance Energy Australia Limited,$9.81,538-97-1987
+748,"Pasta - Cappellini, Dry",Public Utilities,OGE Energy Corporation,$44.03,831-25-3997
+749,Grapes - Green,Consumer Services,"Tilly's, Inc.",$1.45,621-90-3177
+750,Beans - Kidney White,Basic Industries,NewMarket Corporation,$93.88,310-71-0532
+751,Bagelers - Cinn / Brown,n/a,American Tower Corporation (REIT),$4.02,891-01-6129
+752,Ecolab - Mikroklene 4/4 L,n/a,Arrow DWA Tactical ETF,$29.00,220-28-6679
+753,Muffin - Zero Transfat,Public Utilities,Comp En De Mn Cemig ADS,$21.65,795-86-1394
+754,Grapes - Black,Consumer Services,"Gartner, Inc.",$89.98,521-37-6175
+755,"Orange - Canned, Mandarin",Miscellaneous,BSQUARE Corporation,$41.75,155-18-1198
+756,"Cheese - Cheddar, Mild",Technology,Illinois Tool Works Inc.,$22.76,825-51-4356
+757,Soup - French Onion,Finance,First Defiance Financial Corp.,$44.60,614-87-1185
+758,Truffle - Whole Black Peeled,Consumer Services,"Zoe's Kitchen, Inc.",$90.87,501-11-4557
+759,Munchies Honey Sweet Trail Mix,Consumer Non-Durables,Bunge Limited,$40.62,156-41-7742
+760,Veal - Osso Bucco,Health Care,CRISPR Therapeutics AG,$60.14,794-51-7117
+761,Sugar - Icing,Energy,Natural Resource Partners LP,$50.48,195-73-2395
+762,"Pasta - Fusili, Dry",Finance,"Net 1 UEPS Technologies, Inc.",$24.00,849-37-3175
+763,"Soup - Campbells, Creamy",n/a,Prudential Public Limited Company,$81.79,352-26-5545
+764,Wasabi Powder,Basic Industries,Kronos Worldwide Inc,$81.17,811-90-3598
+765,Pork - Shoulder,Technology,"Veritone, Inc.",$34.36,319-57-7166
+766,Wine - Clavet Saint Emilion,Public Utilities,"Dominion Energy, Inc.",$74.65,226-17-9934
+767,Lid - 3oz Med Rec,Finance,1st Constitution Bancorp (NJ),$28.23,102-39-7600
+768,Amarula Cream,n/a,OFG Bancorp,$13.62,416-09-0719
+769,"Tortillas - Flour, 8",Health Care,"Myriad Genetics, Inc.",$61.91,487-01-1138
+770,Carbonated Water - Cherry,Consumer Services,"American Eagle Outfitters, Inc.",$95.88,239-70-6271
+771,Vegetable - Base,Technology,"CEVA, Inc.",$70.11,596-33-8674
+772,Pastry - Plain Baked Croissant,Energy,Marathon Petroleum Corporation,$91.03,883-96-4368
+773,"Tomatoes - Cherry, Yellow",n/a,Axis Capital Holdings Limited,$66.81,620-14-6613
+774,Ginger - Ground,Capital Goods,"PGT Innovations, Inc.",$36.09,866-03-6521
+775,Wine - Valpolicella Masi,Consumer Services,"Redwood Trust, Inc.",$81.74,286-98-7114
+776,Veal - Knuckle,n/a,FIRST REPUBLIC BANK,$96.17,644-89-1559
+777,Juice - Ocean Spray Cranberry,n/a,"Goldman Sachs Group, Inc. (The)",$65.68,828-93-7540
+778,Bag - Clear 7 Lb,Consumer Durables,"The Dixie Group, Inc.",$24.52,824-94-1938
+779,Cake - Cake Sheet Macaroon,Consumer Services,Hyatt Hotels Corporation,$37.31,890-20-0155
+780,Foil Cont Round,Health Care,McKesson Corporation,$13.95,450-40-3034
+781,Savory,n/a,First Trust Multi Cap Value AlphaDEX Fund,$13.22,118-66-4045
+782,Soup Campbells - Tomato Bisque,Finance,Synovus Financial Corp.,$61.34,156-93-0002
+783,Scallops - In Shell,Technology,"Ultra Clean Holdings, Inc.",$63.39,456-98-0772
+784,Cheese - Ermite Bleu,Technology,"NantHealth, Inc.",$49.28,272-92-1223
+785,Pie Shell - 5,Finance,Orix Corp Ads,$13.49,303-72-5930
+786,Beef - Ox Tongue,Technology,Teradata Corporation,$26.13,682-92-0036
+787,Muffin - Mix - Mango Sour Cherry,n/a,First Trust MLP and Energy Income Fund,$96.95,261-41-4977
+788,Ginger - Ground,Capital Goods,BlueLinx Holdings Inc.,$73.06,310-77-9867
+789,Paper Towel Touchless,Consumer Services,"Foot Locker, Inc.",$90.47,249-82-0243
+790,Table Cloth 54x54 Colour,Consumer Services,Aramark,$31.83,276-60-9528
+791,Lid Tray - 12in Dome,Consumer Services,Gladstone Commercial Corporation,$34.02,288-58-3620
+792,"Tart Shells - Sweet, 3",Public Utilities,"Archrock Partners, L.P.",$17.37,877-44-7071
+793,Kellogs All Bran Bars,Consumer Services,"New York & Company, Inc.",$33.71,684-69-5722
+794,Rice - Jasmine Sented,Health Care,"Heron Therapeutics, Inc.  ",$71.56,507-23-9012
+795,"Glass - Wine, Plastic, Clear 5 Oz",Technology,"SuperCom, Ltd.",$62.10,807-21-3162
+796,Beer - Blue,Basic Industries,"SunCoke Energy Partners, L.P.",$65.58,823-09-5667
+797,Praline Paste,Health Care,"Calithera Biosciences, Inc.",$62.71,345-12-9629
+798,"Bread - Roll, Soft White Round",n/a,"Hercules Capital, Inc.",$47.93,250-37-0232
+799,Truffle Cups - White Paper,Health Care,"Pluristem Therapeutics, Inc.",$39.52,289-93-9479
+800,Basil - Seedlings Cookstown,Technology,Perion Network Ltd,$4.43,377-20-2429
+801,Jolt Cola - Electric Blue,Consumer Services,Liberty Global plc,$16.52,866-22-0279
+802,Zucchini - Yellow,n/a,Resource Capital Corp.,$77.50,876-50-0215
+803,Beef - Short Ribs,Technology,Acxiom Corporation,$26.21,512-68-7788
+804,Tequila Rose Cream Liquor,Technology,"RealPage, Inc.",$67.59,503-81-7390
+805,Soap - Hand Soap,Health Care,"Vermillion, Inc.",$32.89,706-12-2413
+806,Radish,Miscellaneous,"GRAVITY Co., Ltd.",$46.38,669-52-4785
+807,"Beef - Tenderlion, Center Cut",Consumer Non-Durables,Cosan Limited,$52.92,686-42-1182
+808,Sugar - Palm,Consumer Services,"NV5 Global, Inc.",$31.22,543-54-6070
+809,Fruit Mix - Light,n/a,Stellus Capital Investment Corporation,$68.96,806-48-7557
+810,"Split Peas - Green, Dry",n/a,"GTY Technology Holdings, Inc.",$5.09,195-92-0407
+811,Beef - Top Butt Aaa,n/a,iShares S&P Global Timber & Forestry Index Fund,$54.76,563-92-2940
+812,"Cheese - Manchego, Spanish",n/a,CM Finance Inc,$81.77,616-84-9103
+813,Chicken - Leg / Back Attach,Consumer Non-Durables,Pope Resources,$21.70,745-16-7675
+814,"Napkin - Dinner, White",Public Utilities,Entergy Texas Inc,$99.84,410-48-3435
+815,Cheese Cloth,Finance,HDFC Bank Limited,$82.91,144-04-1192
+816,Bread - English Muffin,Health Care,Endo International plc,$84.15,359-67-5336
+817,Beer - Tetleys,n/a,PowerShares International Dividend Achievers Portfolio,$71.70,532-71-6336
+818,Wine - Sawmill Creek Autumn,Health Care,"Align Technology, Inc.",$43.84,545-21-5956
+819,Lettuce - Red Leaf,n/a,W.R. Berkley Corporation,$51.65,610-89-4076
+820,Beans - Butter Lrg Lima,Finance,"Provident Financial Services, Inc",$25.40,815-40-9136
+821,Magnotta - Bel Paese White,Consumer Services,Lamar Advertising Company,$2.26,183-92-2755
+822,Steamers White,Capital Goods,"China Automotive Systems, Inc.",$72.38,362-29-7567
+823,"Wine - Red, Metus Rose",Consumer Services,"Ryder System, Inc.",$87.50,686-29-2780
+824,Bay Leaf Fresh,Energy,YPF Sociedad Anonima,$16.26,806-36-6125
+825,"Veal - Inside Round / Top, Lean",Finance,State Bank Financial Corporation.,$90.57,803-85-4505
+826,Cheese - Brick With Pepper,Energy,Martin Midstream Partners L.P.,$60.12,442-30-3352
+827,Jam - Apricot,Technology,"Fiserv, Inc.",$94.48,446-63-5596
+828,Pepper - Jalapeno,Capital Goods,"Aethlon Medical, Inc.",$34.84,710-30-6554
+829,Sauce - Sesame Thai Dressing,Health Care,"ChemoCentryx, Inc.",$0.74,263-57-5575
+830,"Beef - Rib Roast, Cap On",Miscellaneous,"HRG Group, Inc.",$72.05,525-81-5555
+831,Oil - Coconut,Public Utilities,UNITIL Corporation,$10.38,601-30-1512
+832,Eggplant Italian,Miscellaneous,"Fidelity National Information Services, Inc.",$83.23,670-31-1597
+833,Mikes Hard Lemonade,Technology,Immersion Corporation,$83.63,351-96-7717
+834,Temperature Recording Station,Consumer Services,"Charter Communications, Inc.",$65.85,352-79-0727
+835,"Turkey - Breast, Bone - In",n/a,"Nuveen California Municipal Value Fund, Inc.",$39.00,614-13-0786
+836,True - Vue Containers,Energy,China Yuchai International Limited,$41.40,448-84-8307
+837,Olives - Morracan Dired,n/a,"Columbia Seligman Premium Technology Growth Fund, Inc",$73.68,219-94-3046
+838,Tomato - Tricolor Cherry,Health Care,"NeoGenomics, Inc.",$73.50,621-34-1301
+839,Samosa - Veg,n/a,First Trust Senior Floating Rate Income Fund II,$92.70,142-74-2557
+840,"Lid - Translucent, 3.5 And 6 Oz",Consumer Durables,UTStarcom Holdings Corp,$81.79,315-58-3465
+841,Oven Mitts 17 Inch,Technology,"ParkerVision, Inc.",$13.43,534-74-8547
+842,Calvados - Boulard,Finance,IBERIABANK Corporation,$96.91,548-60-6286
+843,Beer - Camerons Cream Ale,n/a,"Sunstone Hotel Investors, Inc.",$20.32,349-30-0033
+844,Wine - Sauvignon Blanc Oyster,Finance,Lehman ABS Corporation,$42.18,297-82-4633
+845,Oil - Olive,Basic Industries,McEwen Mining Inc.,$61.76,311-45-0113
+846,Mussels - Frozen,Health Care,InVivo Therapeutics Holdings Corp.,$74.15,217-22-9373
+847,Beef - Tenderloin - Aa,Capital Goods,Heico Corporation,$85.08,378-87-6741
+848,"Syrup - Monin, Amaretta",Health Care,"Diplomat Pharmacy, Inc.",$73.68,352-39-3422
+849,"Beef - Roasted, Cooked",Finance,TD Ameritrade Holding Corporation,$16.47,217-27-4223
+850,Soup - Campbells Pasta Fagioli,Technology,Asure Software Inc,$75.87,615-56-5709
+851,V8 - Berry Blend,n/a,"PIMCO Commercial Mortgage Securities Trust, Inc.",$95.39,418-38-5479
+852,Longos - Greek Salad,Miscellaneous,"QuinStreet, Inc.",$20.59,507-14-0942
+853,Flour - Semolina,Consumer Non-Durables,Seneca Foods Corp.,$81.96,314-58-7697
+854,"Wine - Red, Mouton Cadet",Finance,Ita? CorpBanca,$61.40,639-17-9085
+855,Wine - Crozes Hermitage E.,n/a,First Trust Strategic High Income Fund II,$40.54,363-01-3569
+856,Wine - Clavet Saint Emilion,n/a,iShares Asia 50 ETF,$53.96,475-37-2532
+857,"Mushroom - Chantrelle, Fresh",Finance,Origo Acquisition Corporation,$99.25,874-41-0021
+858,Bananas,Health Care,"ImmunoGen, Inc.",$97.09,540-29-3290
+859,"Pasta - Penne, Rigate, Dry",Energy,"Diamondback Energy, Inc.",$72.10,649-41-7302
+860,Cheese Cloth No 100,Technology,CSRA Inc.,$51.59,128-87-8153
+861,Spaghetti Squash,n/a,DDR Corp.,$12.15,691-97-4999
+862,Soup - Campbells Tomato Ravioli,n/a,Blackrock New York Municipal 2018 Term Trust,$47.60,573-63-5406
+863,Wine - Jafflin Bourgongone,Technology,Seagate Technology PLC,$99.17,324-10-7750
+864,Oil - Macadamia,Health Care,"Orexigen Therapeutics, Inc.",$81.59,341-78-6569
+865,Juice - Cranberry 284ml,Technology,"2U, Inc.",$34.77,202-30-4090
+866,Towels - Paper / Kraft,n/a,"Customers Bancorp, Inc",$11.84,128-36-2330
+867,"Appetizer - Spring Roll, Veg",n/a,"NextEra Energy, Inc.",$17.75,793-84-4248
+868,Plasticforkblack,Health Care,"Fortress Biotech, Inc.",$9.93,350-24-0454
+869,Artichokes - Jerusalem,Public Utilities,"One Horizon Group, Inc.",$75.34,470-52-0184
+870,Milk - 2%,Basic Industries,Silver Standard Resources Inc.,$37.22,284-60-3323
+871,Tea - Black Currant,Transportation,Brink's Company (The),$84.95,555-83-1967
+872,Muffin Hinge 117n,Consumer Durables,ChromaDex Corporation,$85.68,119-88-4941
+873,Foil Cont Round,Miscellaneous,Dolby Laboratories,$29.74,755-08-2119
+874,Pastry - Chocolate Chip Muffin,Finance,Fidelity Southern Corporation,$43.28,790-26-7374
+875,Wine - Acient Coast Caberne,Basic Industries,Koppers Holdings Inc.,$76.26,255-64-9665
+876,Grapes - Green,Technology,"Airgain, Inc.",$57.35,592-46-1320
+877,Compound - Mocha,Finance,180 Degree Capital Corp.,$54.65,767-13-0881
+878,Tomatoes - Roma,Technology,Mobileye N.V.,$37.06,614-39-8658
+879,"Coconut - Shredded, Sweet",Technology,Magic Software Enterprises Ltd.,$98.03,322-89-6071
+880,Versatainer Nc - 9388,n/a,"The Herzfeld Caribbean Basin Fund, Inc.",$31.30,629-26-2884
+881,Ice Cream - Life Savers,Technology,Xactly Corporation,$36.16,556-79-1526
+882,Muffin Mix - Lemon Cranberry,Capital Goods,Lyon William Homes,$77.63,424-72-2566
+883,Ginsing - Fresh,Health Care,Novogen Limited,$64.28,241-41-5431
+884,"Quail - Eggs, Fresh",Public Utilities,Lumos Networks Corp.,$28.71,464-10-5256
+885,"Mushroom - Shitake, Fresh",Consumer Services,Public Storage,$41.27,545-47-3965
+886,Lobster - Canned Premium,n/a,"M I Acquisitions, Inc.",$88.41,879-17-8976
+887,Pate - Liver,Consumer Services,"Manhattan Bridge Capital, Inc",$2.41,258-45-0155
+888,Dried Peach,Public Utilities,Qwest Corporation,$42.12,178-85-0755
+889,Garbag Bags - Black,n/a,Invesco Municipal Income Opportunities Trust,$87.69,245-39-0992
+890,Arctic Char - Fillets,Capital Goods,"FARO Technologies, Inc.",$41.63,765-19-2567
+891,Yeast Dry - Fermipan,Basic Industries,Commercial Metals Company,$36.86,477-49-1601
+892,Clams - Canned,n/a,Wells Fargo & Company,$0.89,843-06-2036
+893,Sansho Powder,Technology,Open Text Corporation,$14.53,130-62-8981
+894,Pasta - Cheese / Spinach Bauletti,n/a,Oi S.A.,$75.72,575-77-9877
+895,"Potatoes - Purple, Organic",n/a,"Dupont Fabros Technology, Inc.",$8.60,842-38-0233
+896,Pate - Liver,Finance,"County Bancorp, Inc.",$25.44,578-35-0592
+897,Apple - Fuji,n/a,Macquarie/First Trust Global,$57.63,626-06-5669
+898,Plaintain,Finance,"Maiden Holdings, Ltd.",$3.85,814-95-3815
+899,Potatoes - Idaho 100 Count,Capital Goods,Genuine Parts Company,$92.69,281-92-2383
+900,Cheese - Blue,Consumer Non-Durables,"ConAgra Brands, Inc.",$55.15,562-21-2086
+901,Quail - Jumbo,Consumer Services,Advance Auto Parts Inc,$79.13,863-82-3521
+902,Blueberries - Frozen,Capital Goods,"National Presto Industries, Inc.",$23.69,782-91-7258
+903,Wine - White Cab Sauv.on,Public Utilities,Harmony Merger Corp.,$47.09,250-33-0698
+904,Flower - Daisies,n/a,Eaton vance Floating-Rate Income Plus Fund,$7.51,811-49-0923
+905,Appetizer - Smoked Salmon / Dill,Technology,Kyocera Corporation,$47.40,869-35-9675
+906,Crab Meat Claw Pasteurise,Capital Goods,Ferroglobe PLC,$73.84,202-71-7851
+907,Pepper - Green Thai,n/a,Federal Agricultural Mortgage Corporation,$63.75,474-91-1612
+908,Cheese - La Sauvagine,Consumer Services,Chesapeake Lodging Trust,$18.66,310-61-1993
+909,"Wine - Magnotta, White",n/a,"Synthetic Fixed-Income Securities, Inc.",$85.68,325-20-7153
+910,Cookie Dough - Chocolate Chip,Technology,"First Solar, Inc.",$78.56,553-96-1584
+911,"Nut - Pecan, Pieces",Finance,FinTech Acquisition Corp. II,$1.98,492-25-4414
+912,Jolt Cola,Health Care,"Epizyme, Inc.",$59.44,148-47-1513
+913,"Lamb - Leg, Diced",Technology,Pointer Telocation Ltd.,$82.81,660-11-8897
+914,Dish Towel,n/a,Berkshire Hathaway Inc.,$81.97,689-18-0735
+915,Beer - Fruli,Finance,"Prudential Bancorp, Inc.",$54.56,442-43-0993
+916,Latex Rubber Gloves Size 9,Health Care,"Aquinox Pharmaceuticals, Inc.",$76.13,143-66-1325
+917,Glass Clear 7 Oz Xl,Public Utilities,MER Telemanagement Solutions Ltd.,$8.61,467-06-1626
+918,"Croissant, Raw - Mini",Technology,Xperi Corporation,$15.30,429-85-7758
+919,Potatoes - Parissienne,Finance,"Value Line, Inc.",$79.97,392-48-3044
+920,Vinegar - Red Wine,Public Utilities,Atento S.A.,$38.00,678-43-1785
+921,"Potatoes - Purple, Organic",n/a,Western Asset High Yield Defined Opportunity Fund Inc.,$69.08,622-69-1313
+922,Water - Evian 355 Ml,Health Care,Vanda Pharmaceuticals Inc.,$14.89,479-31-9098
+923,Monkfish - Fresh,Consumer Services,Sonic Corp.,$91.91,670-06-5205
+924,Plastic Arrow Stir Stick,Consumer Services,Teekay Offshore Partners L.P.,$19.90,195-96-3764
+925,Coffee - Flavoured,Health Care,"Nu Skin Enterprises, Inc.",$9.99,691-97-7827
+926,Broom And Broom Rack White,Finance,SVB Financial Group,$26.05,307-27-8394
+927,Coffee - Egg Nog Capuccino,Energy,"RPC, Inc.",$89.80,387-85-7990
+928,Pate - Liver,Consumer Services,News Corporation,$62.77,768-27-6751
+929,"Cup - 6oz, Foam",Finance,"United Financial Bancorp, Inc. ",$32.81,170-20-7058
+930,Yogurt - Assorted Pack,Health Care,"Aldeyra Therapeutics, Inc.",$66.10,608-87-4034
+931,Pork - Hock And Feet Attached,Consumer Durables,Foamix Pharmaceuticals Ltd.,$25.38,808-04-6776
+932,English Muffin,Technology,"Ellie Mae, Inc.",$26.50,377-80-0707
+933,Water - Evian 355 Ml,Capital Goods,Fiat Chrysler Automobiles N.V.,$73.34,895-46-9964
+934,Chocolate - Feathers,Health Care,"SCYNEXIS, Inc.",$37.83,796-33-1006
+935,"Cheese - Havarti, Roasted Garlic",Finance,TFS Financial Corporation,$64.96,854-09-2452
+936,Beef - Top Sirloin - Aaa,Capital Goods,"Motorcar Parts of America, Inc.",$82.92,640-04-3856
+937,Vinegar - White,n/a,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",$71.45,483-13-0808
+938,Onions - Red Pearl,Finance,"ING Group, N.V.",$71.36,175-79-9770
+939,Scallops - U - 10,Capital Goods,Bel Fuse Inc.,$68.73,800-47-2144
+940,Oil - Sesame,Health Care,Amarin Corporation plc,$96.97,129-16-7786
+941,"Wine - White, Ej Gallo",n/a,Nuveen S&P 500 Buy-Write Income Fund,$10.36,227-82-4322
+942,Cactus Pads,Basic Industries,"CF Industries Holdings, Inc.",$30.33,758-71-5083
+943,Wine - Prosecco Valdobiaddene,Consumer Services,La Quinta Holdings Inc.,$67.72,149-31-7546
+944,Cardamon Ground,Technology,"Kelly Services, Inc.",$29.26,259-29-3100
+945,"Hickory Smoke, Liquid",Consumer Durables,Silgan Holdings Inc.,$23.81,472-42-7875
+946,Bread - Bistro White,Consumer Services,"U.S. Auto Parts Network, Inc.",$58.14,785-77-8752
+947,Island Oasis - Raspberry,Energy,NOW Inc.,$90.77,852-42-0818
+948,Sunflower Seed Raw,n/a,Molson Coors Brewing  Company,$43.89,165-93-3282
+949,Wine - Magnotta - Pinot Gris Sr,Finance,M&T Bank Corporation,$26.82,876-65-0170
+950,Mudslide,Health Care,"Onconova Therapeutics, Inc.",$23.92,287-42-6132
+951,Snapple Raspberry Tea,Consumer Durables,"Nexeo Solutions, Inc.",$91.66,707-33-1159
+952,Grapes - Red,n/a,"Western Asset Municipal Partners Fund, Inc.",$7.81,237-32-0150
+953,Cherries - Frozen,Finance,"Nelnet, Inc.",$10.45,678-85-1271
+954,Apples - Spartan,n/a,Oxford Lane Capital Corp.,$27.65,482-49-6645
+955,Towel Dispenser,Health Care,"AnaptysBio, Inc.",$54.36,451-38-3971
+956,Bagel - Everything,Capital Goods,Cesca Therapeutics Inc.,$89.82,286-21-9309
+957,Bread - Granary Small Pull,Energy,PrimeEnergy Corporation,$62.24,412-02-0972
+958,Tomatoes Tear Drop Yellow,Technology,Veeco Instruments Inc.,$45.64,405-01-8238
+959,"Pepper - Paprika, Hungarian",Finance,"Safety Insurance Group, Inc.",$84.09,412-47-4948
+960,"Beans - Long, Chinese",n/a,CM Finance Inc,$79.51,160-88-0163
+961,Cinnamon Rolls,n/a,Summit State Bank,$43.54,390-36-3963
+962,Duck - Whole,Basic Industries,Potash Corporation of Saskatchewan Inc.,$21.84,609-75-4520
+963,Gatorade - Lemon Lime,Technology,"CommerceHub, Inc.",$87.14,676-83-3230
+964,"Wine - White, Lindemans Bin 95",Health Care,"Five Prime Therapeutics, Inc.",$45.14,448-05-1283
+965,V8 - Tropical Blend,Consumer Services,Huron Consulting Group Inc.,$77.10,229-69-3929
+966,"Asparagus - White, Fresh",Consumer Services,"Colony NorthStar, Inc.",$90.57,815-28-5776
+967,Iced Tea Concentrate,Energy,"Diamond Offshore Drilling, Inc.",$79.97,130-20-8879
+968,Syrup - Pancake,Technology,CDI Corporation,$4.81,639-69-0109
+969,"Pepper - White, Whole",Finance,X-Links Gold Shares Covered Call ETN,$26.78,110-39-3920
+970,Bread - Pain Au Liat X12,n/a,"Aberdeen Singapore Fund, Inc.",$68.94,245-38-3937
+971,Cabbage - Red,Health Care,CRISPR Therapeutics AG,$49.46,892-17-6417
+972,Truffle Cups - Red,Public Utilities,8x8 Inc,$28.76,244-85-6713
+973,Breadfruit,Health Care,"Alliance HealthCare Services, Inc.",$29.30,899-13-4496
+974,"Chicken - Wings, Tip Off",Public Utilities,Verizon Communications Inc.,$66.57,439-23-8047
+975,"Bread - Roll, Canadian Dinner",Technology,Cabot Microelectronics Corporation,$10.88,300-29-8028
+976,"Marjoram - Dried, Rubbed",Capital Goods,James Hardie Industries plc.,$40.39,153-54-7393
+977,Soup Campbells Split Pea And Ham,Finance,Federated National Holding Company,$33.27,139-45-6741
+978,Pastry - Apple Large,Consumer Non-Durables,"Winnebago Industries, Inc.",$67.49,442-07-0959
+979,Sage - Rubbed,n/a,Alpine Total Dynamic Dividend Fund,$56.50,503-84-4073
+980,Bread - Rye,Finance,Marriot Vacations Worldwide Corporation,$23.60,103-57-5428
+981,Juice Peach Nectar,Health Care,Vical Incorporated,$49.19,643-58-8332
+982,Beans - Wax,n/a,Alcentra Capital Corp.,$84.83,250-38-4837
+983,Island Oasis - Mango Daiquiri,n/a,Alcentra Capital Corp.,$17.84,112-61-4659
+984,Egg - Salad Premix,Public Utilities,Korea Electric Power Corporation,$74.23,787-06-3759
+985,Bread Crumbs - Panko,Finance,Independent Bank Corp.,$53.47,682-51-4524
+986,Pork Casing,Transportation,"Echo Global Logistics, Inc.",$6.62,442-01-3335
+987,Appetizer - Assorted Box,Finance,Capital City Bank Group,$36.20,306-61-8175
+988,Pastry - Plain Baked Croissant,n/a,"NextEra Energy, Inc.",$31.63,451-18-0463
+989,Olives - Kalamata,Technology,Quantum Corporation,$9.98,754-48-2665
+990,Coffee - French Vanilla Frothy,n/a,Western Asset Bond Fund,$33.11,274-41-5252
+991,Flour - Chickpea,Health Care,"Medpace Holdings, Inc.",$65.12,226-42-9769
+992,"Pork - Sausage, Medium",n/a,"MVC Capital, Inc.",$30.42,585-28-5973
+993,Cabbage Roll,Transportation,Seanergy Maritime Holdings Corp,$38.13,313-61-1375
+994,Wine - Touraine Azay - Le - Rideau,Health Care,"Assembly Biosciences, Inc.",$19.28,277-03-6623
+995,Wine - Semi Dry Riesling Vineland,Finance,"AmTrust Financial Services, Inc.",$2.52,592-25-2922
+996,Potatoes - Yukon Gold 5 Oz,Consumer Services,Signet Jewelers Limited,$98.67,161-29-9155
+997,Peppercorns - Green,Capital Goods,KB Home,$93.61,869-57-9453
+998,Napkin White,Health Care,Ligand Pharmaceuticals Incorporated,$16.42,128-42-7741
+999,"Soup - Campbells, Lentil",Technology,EchoStar Corporation,$56.55,190-09-2874
+1000,Wine - Riesling Dr. Pauly,Health Care,Gemphire Therapeutics Inc.,$71.96,508-53-6679
+1001,Turkey - Ground. Lean,Consumer Services,"Daseke, Inc.",$8.30,823-84-5340
+1002,Coffee - Irish Cream,Health Care,"GenVec, Inc.",$19.02,770-56-0548
+1003,Container - Clear 32 Oz,n/a,Janus Henderson Small/Mid Cap Growth Alpha ETF,$59.99,182-68-3971
+1004,Flour - Masa De Harina Mexican,n/a,PowerShares DWA Utilities Momentum Portfolio,$51.64,191-48-0966
+1005,Silicone Parch. 16.3x24.3,Consumer Durables,CarMax Inc,$21.20,481-99-6451
+1006,Oats Large Flake,n/a,First Trust/Aberdeen Emerging Opportunity Fund,$78.10,813-41-0931
+1007,Coffee Cup 16oz Foam,Miscellaneous,HMS Holdings Corp,$42.24,856-62-7784
+1008,Sauce - Demi Glace,Consumer Services,"MFA Financial, Inc.",$78.87,243-81-9820
+1009,Pepper - Red Bell,Finance,Independent Bank Corporation,$7.91,340-37-4145
+1010,Wine - Segura Viudas Aria Brut,Technology,"Smith Micro Software, Inc.",$41.42,783-38-5047
+1011,Soup V8 Roasted Red Pepper,n/a,"Blackrock MuniYield Michigan Quality Fund, Inc.",$75.78,493-50-2808
+1012,Longos - Chicken Caeser Salad,Health Care,"Cara Therapeutics, Inc.",$71.81,768-22-6426
+1013,Olives - Stuffed,Transportation,Genco Shipping & Trading Limited Warrants Expiring 12/31/2021 ,$79.06,831-80-6141
+1014,"Split Peas - Yellow, Dry",n/a,First Trust Multi Cap Value AlphaDEX Fund,$55.54,214-76-2098
+1015,Island Oasis - Ice Cream Mix,Public Utilities,"GTT Communications, Inc.",$2.49,213-32-2492
+1016,"Chicken - Thigh, Bone In",Technology,"Tremor Video, Inc.",$90.14,420-99-4459
+1017,Pate Pans Yellow,Health Care,ICON plc,$83.25,307-04-0475
+1018,Cheese Cloth,n/a,"AquaBounty Technologies, Inc.",$71.24,519-13-9985
+1019,Foam Cup 6 Oz,Consumer Non-Durables,Sony Corp Ord,$91.05,638-81-0269
+1020,Veal - Bones,Finance,Kennedy-Wilson Holdings Inc.,$97.32,542-11-2601
+1021,Spic And Span All Purpose,n/a,CBX (Listing Market NYSE Networks AE,$81.60,478-94-3824
+1022,"Ranchero - Primerba, Paste",n/a,PowerShares S&P SmallCap Industrials Portfolio,$92.47,615-84-8445
+1023,Kiwi Gold Zespri,Consumer Durables,Silgan Holdings Inc.,$55.32,224-41-3441
+1024,"Doilies - 10, Paper",Finance,"AmTrust Financial Services, Inc.",$21.60,373-10-1004
+1025,Curry Paste - Green Masala,Finance,Essent Group Ltd.,$59.50,542-40-7488
+1026,"Mushroom - Oyster, Fresh",Finance,Piper Jaffray Companies,$71.73,493-89-3754
+1027,Wine - Mondavi Coastal Private,Health Care,"Rennova Health, Inc.",$41.82,254-67-0752
+1028,"Nut - Hazelnut, Ground, Natural",n/a,Calamos Global Total Return Fund,$39.42,640-78-4924
+1029,Oil - Sunflower,Consumer Services,"CYS Investments, Inc.",$84.18,619-81-8124
+1030,Transfer Sheets,n/a,Nuveen Dow 30SM Dynamic Overwrite Fund,$34.24,390-96-7989
+1031,Beef Dry Aged Tenderloin Aaa,Consumer Services,Macy's Inc,$62.02,749-20-0611
+1032,Beef - Top Sirloin - Aaa,n/a,Hersha Hospitality Trust,$81.63,431-04-5446
+1033,Veal - Osso Bucco,n/a,Nuveen Maryland Quality Municipal Income Fund,$39.43,739-38-0225
+1034,"Onions - Dried, Chopped",n/a,Pimco New York Municipal Income Fund II,$70.83,874-96-3975
+1035,"Nut - Peanut, Roasted",Health Care,Addus HomeCare Corporation,$57.03,558-27-5090
+1036,Tarragon - Fresh,n/a,"Sprott Focus Trust, Inc.",$22.35,111-07-9356
+1037,Puree - Mocha,Transportation,Scorpio Tankers Inc.,$99.58,727-02-6295
+1038,Grapefruit - Pink,Finance,Simmons First National Corporation,$37.94,368-84-2682
+1039,Shrimp - Black Tiger 6 - 8,Consumer Non-Durables,Domino's Pizza Inc,$31.59,520-69-2412
+1040,Pastry - Chocolate Chip Muffin,Consumer Services,Amec Plc Ord,$58.83,707-84-0900
+1041,Cookies Almond Hazelnut,Consumer Services,"Xenia Hotels & Resorts, Inc.",$54.82,454-02-2496
+1042,"Beef - Cooked, Corned",Basic Industries,Preformed Line Products Company,$99.97,114-04-5140
+1043,"Olives - Black, Pitted",Health Care,"Surgery Partners, Inc.",$72.77,318-88-5393
+1044,Glass Clear 8 Oz,n/a,First Trust Small Cap Value AlphaDEX Fund,$25.25,622-63-8267
+1045,Grouper - Fresh,Consumer Services,Big 5 Sporting Goods Corporation,$10.60,176-24-9306
+1046,Bread - Raisin,n/a,Bank of America Corporation,$41.56,776-37-3856
+1047,Pate - Peppercorn,Health Care,"Concert Pharmaceuticals, Inc.",$54.34,839-96-4054
+1048,Nectarines,Basic Industries,"Aemetis, Inc",$45.68,550-83-8408
+1049,Lambcasing,n/a,"MFA Financial, Inc.",$58.83,352-36-3413
+1050,Octopus,Technology,Superconductor Technologies Inc.,$90.75,267-38-0709
+1051,Table Cloth 81x81 Colour,Transportation,Swift Transportation Company,$6.45,536-15-5169
+1052,Chocolate - Dark Callets,Energy,"Diamond Offshore Drilling, Inc.",$4.49,111-14-4876
+1053,Wine - Prem Select Charddonany,n/a,Pennsylvania Real Estate Investment Trust,$21.59,569-62-4068
+1054,Wine - Ruffino Chianti Classico,Consumer Durables,Generac Holdlings Inc.,$96.77,114-18-8060
+1055,Cookies Cereal Nut,Energy,"American Electric Technologies, Inc.",$82.23,627-62-0441
+1056,"Wine - Sherry Dry Sack, William",Finance,Lehman ABS Corporation,$20.48,684-95-4116
+1057,Rye Special Old,Consumer Durables,Carvana Co.,$68.81,457-23-4900
+1058,"Cheese - Havarti, Roasted Garlic",Capital Goods,Textron Inc.,$15.11,537-90-9013
+1059,"Bread - Roll, Calabrese",n/a,"Asia Pacific Fund, Inc. (The)",$43.20,799-75-9922
+1060,Cabbage - Red,Technology,"MINDBODY, Inc.",$81.36,310-78-7152
+1061,"Wine - Harrow Estates, Vidal",Consumer Durables,Ball Corporation,$40.15,626-97-1390
+1062,Yoplait - Strawbrasp Peac,Technology,"Cleantech Solutions International, Inc.",$7.83,362-60-9267
+1063,General Purpose Trigger,Health Care,"BioDelivery Sciences International, Inc.",$46.26,743-41-2736
+1064,Dragon Fruit,Finance,UBS AG,$93.99,101-05-8910
+1065,Wine - Sake,Consumer Services,Thomson Reuters Corp,$52.39,561-74-9242
+1066,"Soup - Campbells, Minestrone",n/a,Nuveen Select Tax Free Income Portfolio II,$90.40,601-89-1189
+1067,Lamb - Whole Head Off,Consumer Durables,Sonoco Products Company,$15.36,673-38-8182
+1068,Creme De Cacao White,Public Utilities,Vistra Energy Corp.,$70.59,702-78-0415
+1069,Browning Caramel Glace,Consumer Services,"Urban One, Inc. ",$61.47,245-24-9668
+1070,Lamb Leg - Bone - In Nz,Finance,"Community Trust Bancorp, Inc.",$18.85,480-80-5341
+1071,Chicken - White Meat With Tender,Finance,"LM Funding America, Inc.",$43.00,739-95-2697
+1072,Olives - Stuffed,Technology,Semiconductor  Manufacturing International Corporation,$39.88,678-14-9060
+1073,Boogies,Finance,CU Bancorp (CA),$4.84,565-04-6310
+1074,Cheese - Stilton,n/a,Stellus Capital Investment Corporation,$58.24,749-36-2973
+1075,Tomatoes Tear Drop Yellow,Basic Industries,"Yield10 Bioscience, Inc.",$91.39,475-23-8018
+1076,"Mushroom - Porcini, Dry",Capital Goods,Strattec Security Corporation,$45.41,629-30-8785
+1077,"Pail - 15l White, With Handle",Capital Goods,TriMas Corporation,$34.42,234-92-9368
+1078,"Beans - Kidney, Red Dry",Public Utilities,Sempra Energy,$13.85,470-60-5886
+1079,"Cheese - Woolwich Goat, Log",Energy,Matador Resources Company,$26.31,375-28-1620
+1080,Bread - Corn Muffaleta Onion,Finance,Electrum Special Acquisition Corporation,$74.47,280-67-2721
+1081,Dried Apple,Finance,KeyCorp,$14.29,726-65-9812
+1082,"Clams - Littleneck, Whole",n/a,Ares Capital Corporation,$27.01,421-25-6379
+1083,Beer - Pilsner Urquell,n/a,Invesco Trust for Investment Grade Municipals,$35.89,687-73-3723
+1084,Guinea Fowl,n/a,Bank of America Corporation,$59.98,782-24-9616
+1085,Cheese - Marble,Consumer Services,"Exponent, Inc.",$9.81,220-03-8140
+1086,Ecolab Digiclean Mild Fm,Finance,"Commerce Bancshares, Inc.",$97.83,733-78-5943
+1087,"Juice - Grapefruit, 341 Ml",n/a,"Royce Global Value Trust, Inc.",$31.16,497-09-5995
+1088,Pants Custom Dry Clean,Consumer Services,"Ascena Retail Group, Inc.",$12.65,477-41-8591
+1089,Eggroll,Consumer Durables,"Innophos Holdings, Inc.",$22.01,337-47-7452
+1090,Broom Handle,n/a,Calamos Dynamic Convertible & Income Fund,$73.86,351-90-8735
+1091,Pastry - French Mini Assorted,Miscellaneous,"NetEase, Inc.",$45.79,228-19-6353
+1092,Tart - Butter Plain Squares,Finance,Leju Holdings Limited,$92.02,209-82-1127
+1093,Alize Gold Passion,Public Utilities,BlackBerry Limited,$26.10,178-38-4357
+1094,Bread - Flat Bread,n/a,PowerShares DWA Industrials Momentum Portfolio,$51.11,708-12-5294
+1095,Tea - Vanilla Chai,Health Care,"TG Therapeutics, Inc.",$37.09,732-07-6818
+1096,Tomatoes - Grape,Consumer Services,Wingstop Inc.,$92.55,145-35-8181
+1097,Gherkin - Sour,n/a,Duff & Phelps Global Utility Income Fund Inc.,$37.98,502-90-5901
+1098,Bar Bran Honey Nut,Health Care,"Eleven Biotherapeutics, Inc.",$70.97,207-98-8644
+1099,Lobster - Live,Finance,National General Holdings Corp,$54.45,316-75-4933
+1100,Wine - Fume Blanc Fetzer,n/a,Pioneer Municipal High Income Advantage Trust,$87.35,717-23-9812
+1101,Vector Energy Bar,Health Care,"CryoLife, Inc.",$47.71,144-36-1876
+1102,Gatorade - Xfactor Berry,Consumer Non-Durables,InfoSonics Corp,$91.30,295-12-3624
+1103,Milk - Chocolate 500ml,Technology,Sina Corporation,$91.12,514-91-5585
+1104,Oil - Macadamia,Consumer Durables,"Camping World Holdings, Inc.",$67.65,667-58-9686
+1105,Spice - Chili Powder Mexican,Capital Goods,"Mueller Industries, Inc.",$39.15,400-59-5676
+1106,"Tomatoes - Vine Ripe, Yellow",Finance,Avista Healthcare Public Acquisition Corp.,$76.91,881-10-9960
+1107,Garlic - Elephant,n/a,"Blackrock MuniYield California Fund, Inc.",$27.37,834-21-1195
+1108,"Sprite, Diet - 355ml",Energy,Penn West Petroleum Ltd,$73.09,786-25-6898
+1109,Carbonated Water - White Grape,Health Care,CONMED Corporation,$87.66,803-68-8637
+1110,Shrimp - 150 - 250,Capital Goods,Cognex Corporation,$59.31,312-55-2604
+1111,Island Oasis - Wildberry,Technology,MicroStrategy Incorporated,$23.59,886-60-7459
+1112,Wine - Ej Gallo Sierra Valley,Health Care,Oramed Pharmaceuticals Inc.,$23.90,871-61-2965
+1113,Spring Roll Veg Mini,n/a,Baltimore Gas & Electric Company,$23.29,688-63-7668
+1114,"Lamb - Whole, Fresh",n/a,"SunTrust Banks, Inc.",$67.35,312-08-4182
+1115,Mince Meat - Filling,n/a,First Trust Nasdaq Pharmaceuticals ETF,$97.08,720-94-9837
+1116,Pastry - Raisin Muffin - Mini,Health Care,"Soleno Therapeutics, Inc.",$59.05,115-45-4781
+1117,Soup - Campbells Chili,Finance,UMB Financial Corporation,$74.56,296-18-4757
+1118,Cinnamon Rolls,n/a,Wells Fargo & Company,$78.94,855-28-7931
+1119,Coriander - Ground,Technology,"Endurance International Group Holdings, Inc.",$94.16,579-08-4603
+1120,Chips - Doritos,Health Care,"Collegium Pharmaceutical, Inc.",$98.64,155-23-8682
+1121,Cake - French Pear Tart,Consumer Services,"CareTrust REIT, Inc.",$7.13,389-31-4716
+1122,Carbonated Water - Peach,Capital Goods,"Roka Bioscience, Inc.",$85.05,447-96-1077
+1123,"Placemat - Scallop, White",Public Utilities,Algonquin Power & Utilities Corp.,$75.00,741-14-1599
+1124,Juice - Lemon,Consumer Services,China Auto Logistics Inc.,$46.79,439-52-7368
+1125,The Pop Shoppe - Cream Soda,n/a,Special Opportunities Fund Inc.,$30.37,318-48-8799
+1126,Pear - Packum,Finance,Altisource Residential Corporation,$70.79,300-05-1468
+1127,Wine - Zinfandel California 2002,n/a,Nuveen Preferred Income Opportunites Fund,$87.96,630-24-7446
+1128,"Lemonade - Kiwi, 591 Ml",Health Care,Nexvet Biopharma plc,$87.88,544-71-3418
+1129,Bandage - Fexible 1x3,Health Care,"BeiGene, Ltd.",$7.57,133-18-1273
+1130,Flavouring Vanilla Artificial,Capital Goods,"MOCON, Inc.",$65.93,700-06-8701
+1131,Mushroom - White Button,Consumer Services,Quotient Technology Inc.,$28.10,128-91-3272
+1132,"Plate - Foam, Bread And Butter",Technology,Microsoft Corporation,$78.88,365-10-4486
+1133,Yogurt - Plain,n/a,"Boston Properties, Inc.",$75.63,659-73-3808
+1134,Pork - Belly Fresh,Technology,Cray Inc,$59.24,829-33-0218
+1135,Yoplait - Strawbrasp Peac,Consumer Durables,Compass Diversified Holdings,$26.44,457-75-3723
+1136,"Crab - Dungeness, Whole, live",Basic Industries,Endeavour Silver Corporation,$37.02,777-69-8817
+1137,Napkin White - Starched,n/a,RAIT Financial Trust,$8.68,140-31-1161
+1138,Garlic - Elephant,Consumer Services,"Ross Stores, Inc.",$20.00,169-09-5507
+1139,Yukon Jack,n/a,Fly Leasing Limited,$8.98,515-96-6693
+1140,Veal - Ground,Health Care,Vascular Biogenics Ltd.,$30.22,394-48-1559
+1141,Veal - Inside,Finance,"M I Acquisitions, Inc.",$49.04,136-74-6160
+1142,"Bread - Roll, Soft White Round",n/a,Great Elm Capital Corp.,$60.02,545-37-0342
+1143,Cookie Dough - Oatmeal Rasin,Finance,"Donegal Group, Inc.",$95.20,164-98-9794
+1144,Dr. Pepper - 355ml,Transportation,Tsakos Energy Navigation Ltd,$44.26,209-38-9355
+1145,Iced Tea Concentrate,Consumer Durables,Deluxe Corporation,$92.72,545-37-4129
+1146,Potatoes - Idaho 100 Count,Finance,BankFinancial Corporation,$36.87,827-57-3452
+1147,Pancetta,n/a,"China Fund, Inc. (The)",$44.64,286-83-9790
+1148,Cake - Cake Sheet Macaroon,Finance,"MarketAxess Holdings, Inc.",$5.62,610-79-0815
+1149,"Pasta - Linguini, Dry",n/a,Blackstone GSO Long Short Credit Income Fund,$82.76,470-50-1603
+1150,Chocolate - Compound Coating,Energy,"Plug Power, Inc.",$0.09,715-88-5949
+1151,Quail Eggs - Canned,Finance,"AMERIPRISE FINANCIAL SERVICES, INC.",$69.82,310-54-2555
+1152,Bread Foccacia Whole,Consumer Services,"Expedia, Inc.",$84.50,680-88-8459
+1153,Vaccum Bag - 14x20,n/a,DHX Media Ltd.,$65.08,382-05-1568
+1154,Shrimp - 31/40,Technology,Mimecast Limited,$3.31,779-63-1457
+1155,Orange - Tangerine,Technology,"Photronics, Inc.",$20.98,374-13-6923
+1156,Basil - Seedlings Cookstown,Capital Goods,Neonode Inc.,$40.17,719-32-6001
+1157,Nantucket Apple Juice,Miscellaneous,Diebold Nixdorf Incorporated,$66.93,274-69-8164
+1158,Flour Pastry Super Fine,Health Care,United Therapeutics Corporation,$66.48,445-18-3778
+1159,Muffin - Mix - Creme Brule 15l,Capital Goods,Esterline Technologies Corporation,$12.51,310-07-3719
+1160,Soap - Hand Soap,Miscellaneous,eBay Inc.,$88.60,324-94-5630
+1161,Onions - Vidalia,Finance,"The Hanover Insurance Group, Inc.",$75.73,861-36-1393
+1162,Cardamon Seed / Pod,Consumer Services,Bed Bath & Beyond Inc.,$90.22,798-70-9592
+1163,Bread - Triangle White,Consumer Non-Durables,Differential Brands Group Inc.,$53.09,676-70-0822
+1164,Container - Foam Dixie 12 Oz,Public Utilities,Turkcell Iletisim Hizmetleri AS,$83.72,898-48-7465
+1165,Cookies Cereal Nut,Health Care,"Ironwood Pharmaceuticals, Inc.",$5.30,805-89-1446
+1166,Sugar - Fine,Public Utilities,SJW Group,$95.34,871-18-8504
+1167,Sausage - Breakfast,n/a,Nuveen High Income 2020 Target Term Fund,$52.79,490-70-8121
+1168,Wine - Casillero Del Diablo,Technology,Milacron Holdings Corp.,$31.81,191-78-1438
+1169,Ocean Spray - Ruby Red,Health Care,"Spring Bank Pharmaceuticals, Inc.",$25.18,165-69-3758
+1170,Bouillion - Fish,n/a,PowerShares International BuyBack Achievers Portfolio,$65.13,433-79-3054
+1171,Isomalt,Finance,"American Financial Group, Inc.",$31.42,573-57-5807
+1172,Lid - 3oz Med Rec,Public Utilities,Cone Midstream Partners LP,$61.76,440-65-4435
+1173,Wanton Wrap,n/a,Cohen & Steers Reit and Preferred Income Fund Inc,$28.11,207-07-6178
+1174,Pear - Halves,Consumer Durables,"Revolution Lighting Technologies, Inc.",$76.73,597-53-2316
+1175,"Wine - Red, Antinori Santa",n/a,Washington Prime Group Inc.,$31.60,340-71-0402
+1176,Sobe - Green Tea,Capital Goods,AGCO Corporation,$84.63,552-48-7910
+1177,Ginger - Crystalized,Consumer Services,American Homes 4 Rent,$62.80,207-71-8908
+1178,Beef - Ox Tongue,Basic Industries,E.I. du Pont de Nemours and Company,$91.50,259-28-5329
+1179,Mix - Cappucino Cocktail,n/a,Vanguard Russell 1000 Value ETF,$47.81,808-14-1876
+1180,Cookies - Fortune,n/a,TriplePoint Venture Growth BDC Corp.,$78.14,816-77-6074
+1181,Appetizer - Seafood Assortment,n/a,WisdomTree Japan Hedged SmallCap Equity Fund,$53.47,388-45-5211
+1182,Bonito Flakes - Toku Katsuo,Finance,Invesco Plc,$85.71,151-48-7753
+1183,Tuna - Salad Premix,Miscellaneous,"LSC Communications, Inc.",$31.19,866-88-7778
+1184,"Appetizer - Mini Egg Roll, Shrimp",Consumer Services,"Planet Fitness, Inc.",$51.51,394-96-9675
+1185,Broom - Push,Finance,Government Properties Income Trust,$69.75,733-76-0879
+1186,Beer - Mcauslan Apricot,Finance,"Carolina Trust BancShares, Inc.",$83.94,519-11-0201
+1187,Steampan Lid,Basic Industries,Lennar Corporation,$93.02,858-29-8499
+1188,"Veal - Round, Eye Of",Capital Goods,Astrotech Corporation,$46.47,117-30-1142
+1189,"Iced Tea - Lemon, 460 Ml",Technology,Black Box Corporation,$70.71,195-55-6010
+1190,Wine - Magnotta - Cab Franc,Basic Industries,"KMG Chemicals, Inc.",$64.46,800-18-6599
+1191,Beer - Maudite,Finance,"CNO Financial Group, Inc.",$38.31,142-55-1780
+1192,"Wine - Magnotta, Merlot Sr Vqa",Consumer Non-Durables,"Post Holdings, Inc.",$70.18,156-19-8889
+1193,"Cheese - Brie, Triple Creme",n/a,Nuveen AMT-Free Quality Municipal Income Fund,$22.42,384-93-4972
+1194,Pepper - Red Chili,Technology,Brightcove Inc.,$63.79,783-50-7494
+1195,Soup - Campbells Asian Noodle,Finance,Kayne Anderson Acquisition Corp.,$66.40,747-44-5264
+1196,Juice - Cranberry 284ml,n/a,Opus Bank,$58.97,493-48-8637
+1197,Sage - Ground,Energy,"Recon Technology, Ltd.",$79.27,647-19-9867
+1198,Pie Filling - Pumpkin,n/a,"TPG Specialty Lending, Inc.",$86.38,736-44-7454
+1199,Chervil - Fresh,n/a,PowerShares Multi-Strategy Alternative Portfolio,$92.71,303-75-1827
+1200,Water Chestnut - Canned,n/a,iShares Morningstar Mid-Cap ETF,$14.82,589-95-9783
+1201,Canada Dry,Basic Industries,"Xerium Technologies, Inc.",$62.40,303-71-7932
+1202,Squash - Acorn,Health Care,"Argos Therapeutics, Inc.",$32.40,739-87-6659
+1203,Cake - Night And Day Choclate,Health Care,"Agile Therapeutics, Inc.",$29.68,391-84-4407
+1204,Pork - Smoked Kassler,n/a,"Blackrock MuniYield Quality Fund II, Inc.",$62.34,360-13-9344
+1205,Compound - Strawberry,Consumer Services,"Home Depot, Inc. (The)",$61.72,745-08-5040
+1206,Lettuce - Belgian Endive,n/a,Nuveen Global High Income Fund,$29.76,875-62-7810
+1207,Tea - Decaf 1 Cup,Consumer Services,"Daseke, Inc.",$19.56,493-99-4115
+1208,"Ice - Clear, 300 Lb For Carving",n/a,"TCG BDC, Inc.",$14.00,239-85-7211
+1209,"Beets - Candy Cane, Organic",Public Utilities,"General Communication, Inc.",$73.59,398-17-6046
+1210,Papadam,n/a,Gabelli Multi-Media Trust Inc. (The),$35.41,283-65-7174
+1211,Turnip - Wax,n/a,Virtus Total Return Fund Inc.,$54.66,206-67-0690
+1212,Waffle Stix,Health Care,"TrovaGene, Inc.",$56.04,260-98-8510
+1213,Squash - Butternut,Basic Industries,Balchem Corporation,$19.22,769-68-3062
+1214,Wine La Vielle Ferme Cote Du,Public Utilities,"pdvWireless, Inc.",$15.19,683-16-2367
+1215,"Chicken - Thigh, Bone In",Consumer Services,"Kirkland's, Inc.",$12.90,189-61-1012
+1216,"Chocolate - Pistoles, Lactee, Milk",Finance,"Maiden Holdings, Ltd.",$39.25,815-40-9790
+1217,Longos - Grilled Chicken With,n/a,Voya Emerging Markets High Income Dividend Equity Fund,$7.77,850-76-4949
+1218,Sugar - Brown,Consumer Services,Equity Commonwealth,$87.01,354-12-6294
+1219,Lamb - Rack,Capital Goods,"TRI Pointe Group, Inc.",$24.87,483-33-1448
+1220,Cake - Bande Of Fruit,Finance,Matlin & Partners Acquisition Corporation,$32.49,240-34-3353
+1221,"Beef - Ox Tongue, Pickled",Basic Industries,"Arcadia Biosciences, Inc.",$34.10,564-72-0914
+1222,Bread - Raisin Walnut Pull,Public Utilities,United States Cellular Corporation,$53.82,627-70-2167
+1223,Cake - Cheese Cake 9 Inch,Finance,"Home BancShares, Inc.",$19.31,608-01-0851
+1224,Jicama,Consumer Services,Brookfield Canada Office Properties,$23.13,386-36-7624
+1225,Ice Cream Bar - Hagen Daz,Capital Goods,"TRI Pointe Group, Inc.",$22.14,863-61-6781
+1226,Beer - Rickards Red,Technology,Wipro Limited,$43.40,316-80-2083
+1227,"Soup - Campbells, Minestrone",Capital Goods,Ampco-Pittsburgh Corporation,$32.61,551-12-6609
+1228,"Yogurt - Strawberry, 175 Gr",Finance,"Synthetic Fixed-Income Securities, Inc.",$35.94,856-76-7250
+1229,Vinegar - White,Health Care,Stryker Corporation,$55.91,752-42-6723
+1230,Mousse - Mango,Public Utilities,"NiSource, Inc",$6.27,820-87-9383
+1231,Flour - Semolina,n/a,Southern California Edison Company,$68.88,844-14-4629
+1232,Rabbit - Whole,Health Care,"Align Technology, Inc.",$23.86,717-14-5255
+1233,Milk - Chocolate 250 Ml,Consumer Durables,"Schnitzer Steel Industries, Inc.",$36.08,189-82-1039
+1234,Bar Energy Chocchip,Technology,3D Systems Corporation,$94.33,840-11-3670
+1235,Lychee - Canned,n/a,Calamos Strategic Total Return Fund,$97.83,116-81-9633
+1236,Amarula Cream,Consumer Services,"Reven Housing REIT, Inc.",$2.72,816-48-8911
+1237,Mushrooms - Honey,Capital Goods,"Orbital ATK, Inc.",$79.00,779-24-2626
+1238,Coffee - Espresso,n/a,Morgan Stanley,$79.76,800-11-4585
+1239,"Beans - Fava, Canned",Health Care,TiGenix,$7.81,423-93-3273
+1240,Ecolab Crystal Fusion,Consumer Services,Liberty Interactive Corporation,$26.72,353-25-2691
+1241,Muffin Hinge - 211n,n/a,Navios Maritime Midstream Partners LP,$94.77,522-02-5422
+1242,Kellogs All Bran Bars,Consumer Services,"Churchill Downs, Incorporated",$43.98,825-21-1995
+1243,Beef - Rib Eye Aaa,n/a,"NextEra Energy, Inc.",$30.15,482-39-7483
+1244,Onions - Cippolini,Technology,"Edgewater Technology, Inc.",$35.86,884-11-6202
+1245,English Muffin,Consumer Services,"Nord Anglia Education, Inc.",$10.20,478-05-3013
+1246,Wine - Taylors Reserve,Energy,Kosmos Energy Ltd.,$79.78,463-65-8103
+1247,Bread Country Roll,Miscellaneous,"SITO Mobile, Ltd.",$16.64,865-77-3166
+1248,"Sauce - White, Mix",n/a,VictoryShares US Small Cap High Div Volatility Wtd ETF,$85.51,442-81-3927
+1249,Venison - Striploin,Capital Goods,"Harvard Bioscience, Inc.",$0.18,168-34-9815
+1250,"Split Peas - Yellow, Dry",n/a,Calamos Global Total Return Fund,$95.26,632-34-0698
+1251,"Wine - Red, Gallo, Merlot",Transportation,"Knight Transportation, Inc.",$62.35,551-12-6605
+1252,Chivas Regal - 12 Year Old,n/a,"BLACKROCK INTERNATIONAL, LTD.",$24.57,326-32-5227
+1253,Flour Dark Rye,n/a,PowerShares KBW Premium Yield Equity REIT Portfolio,$93.58,578-55-1802
+1254,Bagels Poppyseed,n/a,TriplePoint Venture Growth BDC Corp.,$37.93,207-52-8906
+1255,Breakfast Quesadillas,n/a,BlackRock Multi-Sector Income Trust,$45.79,707-30-2110
+1256,Sauce Bbq Smokey,n/a,The Gabelli Healthcare & Wellness Trust,$28.58,602-23-6085
+1257,Wine - German Riesling,n/a,ENDRA Life Sciences Inc.,$15.40,335-19-0191
+1258,Muffin Hinge 117n,Health Care,"Merck & Company, Inc.",$25.18,190-21-3800
+1259,Beer - Tetleys,Public Utilities,"Hawaiian Electric Industries, Inc.",$43.07,785-22-6121
+1260,"Tortillas - Flour, 8",Health Care,"IDEXX Laboratories, Inc.",$15.12,113-11-4562
+1261,Vodka - Moskovskaya,n/a,"Prudential Short Duration High Yield Fund, Inc.",$61.39,159-16-7262
+1262,Tea - Decaf Lipton,Consumer Non-Durables,"Mondelez International, Inc.",$27.91,251-14-5265
+1263,Bread - Focaccia Quarter,Technology,"MACOM Technology Solutions Holdings, Inc.",$83.72,307-58-0941
+1264,Mix Pina Colada,Technology,"Q2 Holdings, Inc.",$49.67,458-47-9139
+1265,"Wine - Red, Cooking",n/a,KKR & Co. L.P.,$91.22,847-46-6429
+1266,Beef - Bresaola,Finance,"The Hanover Insurance Group, Inc.",$42.36,619-25-7746
+1267,Flour - Pastry,Health Care,Accuray Incorporated,$94.84,250-13-7743
+1268,Sobe - Berry Energy,n/a,J P Morgan Chase & Co,$9.24,435-25-2956
+1269,Figs,n/a,Invesco Pennsylvania Value Municipal Income Trust,$16.74,500-84-5736
+1270,"Pepper - White, Ground",Consumer Services,"Care.com, Inc.",$76.64,588-70-5559
+1271,Apricots - Dried,Consumer Services,"NexPoint Residential Trust, Inc.",$84.28,106-02-9178
+1272,"Pork - Loin, Bone - In",Basic Industries,Primero Mining Corp,$98.42,691-67-8954
+1273,Green Tea Refresher,n/a,Investors Real Estate Trust,$76.24,767-66-7875
+1274,Clam Nectar,Transportation,"Covenant Transportation Group, Inc.",$5.87,279-97-9375
+1275,Cherries - Frozen,Public Utilities,DTE Energy Company,$49.94,356-66-1145
+1276,Oil - Olive,Health Care,"Retrophin, Inc.",$76.78,388-49-8632
+1277,Asparagus - Frozen,Health Care,"Nu Skin Enterprises, Inc.",$18.07,482-54-8623
+1278,Piping Jelly - All Colours,n/a,American Homes 4 Rent,$86.42,249-18-2766
+1279,"Veal - Shank, Pieces",Technology,Wix.com Ltd.,$27.69,311-47-5666
+1280,Bonito Flakes - Toku Katsuo,Basic Industries,Sociedad Quimica y Minera S.A.,$62.14,360-50-5179
+1281,Beef - Ground Medium,Consumer Services,"Golden Entertainment, Inc.",$48.11,594-44-5245
+1282,Chocolate Bar - Reese Pieces,Basic Industries,Procter & Gamble Company (The),$1.78,165-22-3852
+1283,"Wine - Red, Pelee Island Merlot",Technology,Standex International Corporation,$91.80,840-75-7798
+1284,Food Colouring - Pink,Consumer Services,Sotherly Hotels Inc.,$1.46,671-75-0571
+1285,"Lemonade - Mandarin, 591 Ml",Consumer Services,"Shake Shack, Inc.",$56.78,491-59-1891
+1286,Lumpfish Black,n/a,PowerShares DWA Basic Materials Momentum Portfolio,$4.36,382-46-1019
+1287,Bread - Pumpernickel,Finance,"Civista Bancshares, Inc. ",$57.63,434-53-1622
+1288,"Lemonade - Natural, 591 Ml",Consumer Services,Liberty Global plc,$49.01,427-10-5860
+1289,Squid - U - 10 Thailand,Consumer Services,Ashford Hospitality Trust Inc,$57.47,305-34-7708
+1290,Pork - Backfat,Health Care,"Delcath Systems, Inc.",$45.27,243-85-4197
+1291,"Tuna - Canned, Flaked, Light",n/a,OFG Bancorp,$26.26,639-60-8635
+1292,"Pork - Loin, Bone - In",Public Utilities,"Chunghwa Telecom Co., Ltd.",$29.57,791-86-0858
+1293,Rice - Sushi,Technology,Autobytel Inc.,$64.90,524-80-6047
+1294,Milk - 1%,Health Care,Dextera Surgical Inc.,$23.79,194-64-4812
+1295,Soup - Tomato Mush. Florentine,Technology,Logitech International S.A.,$0.26,396-29-3076
+1296,The Pop Shoppe - Cream Soda,Capital Goods,"Aerojet Rocketdyne Holdings, Inc. ",$89.94,848-74-6582
+1297,Peppercorns - Pink,Technology,Cheetah Mobile Inc.,$28.20,590-51-4096
+1298,Appetizer - Crab And Brie,Consumer Services,Intercontinental Hotels Group,$69.96,838-79-8348
+1299,Sugar - Individual Portions,Health Care,Ligand Pharmaceuticals Incorporated,$90.56,886-04-1681
+1300,Beef - Diced,n/a,Constellation Brands Inc,$74.18,405-15-9433
+1301,Chicken Breast Wing On,Basic Industries,Mountain Province Diamonds Inc.,$91.17,635-66-2751
+1302,Syrup - Monin - Passion Fruit,Capital Goods,"Vishay Intertechnology, Inc.",$5.62,187-22-1207
+1303,Tilapia - Fillets,Consumer Non-Durables,The Kraft Heinz Company,$34.14,362-08-5079
+1304,"Glass - Wine, Plastic, Clear 5 Oz",n/a,Blackrock Municipal 2018 Term Trust,$9.13,406-46-3903
+1305,"Wine - White, Colubia Cresh",Technology,Microsoft Corporation,$70.61,539-82-7329
+1306,Bread Base - Italian,Health Care,"Protagonist Therapeutics, Inc.",$14.30,669-50-4202
+1307,Wasabi Paste,n/a,John Hancock Preferred Income Fund,$60.79,280-85-3958
+1308,Cookie - Oreo 100x2,Consumer Services,Gogo Inc.,$84.96,813-05-4628
+1309,Buffalo - Short Rib Fresh,Energy,Whiting Petroleum Corporation,$3.53,242-35-1492
+1310,Chocolate - Compound Coating,Finance,Riverview Bancorp Inc,$27.51,756-88-2708
+1311,"Mushroom - Shitake, Fresh",Health Care,Medovex Corp.,$29.67,555-10-0682
+1312,Clams - Canned,Finance,Independent Bank Corporation,$88.24,167-63-8847
+1313,Butter - Unsalted,Capital Goods,"Perceptron, Inc.",$37.61,719-11-9015
+1314,Tea - Camomele,Technology,Microchip Technology Incorporated,$68.23,893-94-3161
+1315,Wine - Valpolicella Masi,Public Utilities,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp,$98.43,170-41-0265
+1316,"Pasta - Spaghetti, Dry",Health Care,"Mirati Therapeutics, Inc.",$16.50,789-81-6593
+1317,Sea Bass - Whole,Finance,UNIVERSAL INSURANCE HOLDINGS INC,$21.52,680-23-9742
+1318,Shrimp - 150 - 250,n/a,First Trust TCW Opportunistic Fixed Income ETF,$7.23,715-99-8427
+1319,Lamb - Loin Chops,Health Care,Herbalife LTD.,$80.09,640-71-6560
+1320,Wine - Gewurztraminer Pierre,n/a,Brasilagro Cia Brasileira De Propriedades Agricolas,$76.61,298-28-2001
+1321,"Lemonade - Island Tea, 591 Ml",Finance,"Waterstone Financial, Inc.",$1.13,153-10-1738
+1322,"Vermacelli - Sprinkles, Assorted",Finance,Double Eagle Acquisition Corp.,$30.19,857-52-1251
+1323,"Soda Water - Club Soda, 355 Ml",n/a,iShares FTSE EPRA/NAREIT Europe Index Fund,$88.54,683-70-8201
+1324,Cookie Dough - Peanut Butter,Transportation,"Hawaiian Holdings, Inc.",$10.31,729-73-2905
+1325,Duck - Legs,Consumer Services,"Urban One, Inc. ",$81.58,868-53-5115
+1326,Plastic Arrow Stir Stick,Capital Goods,Adient plc,$88.71,256-65-0674
+1327,Sugar - Invert,Health Care,"Fulgent Genetics, Inc.",$71.51,587-43-1246
+1328,Capers - Pickled,n/a,ProShares Ultra Nasdaq Biotechnology,$11.63,879-20-7056
+1329,"Brandy - Orange, Mc Guiness",Health Care,Immuron Limited,$14.52,749-78-6018
+1330,Table Cloth 54x72 White,Technology,"SigmaTron International, Inc.",$22.23,775-83-2803
+1331,Wine - Sogrape Mateus Rose,n/a,Nuveen Build America Bond Opportunity Fund,$59.10,676-48-1284
+1332,Milk - Chocolate 500ml,n/a,iShares S&P Emerging Markets Infrastructure Index Fund,$73.11,566-59-7606
+1333,"Pasta - Penne, Rigate, Dry",Finance,"AmTrust Financial Services, Inc.",$45.80,373-70-0234
+1334,"Beef - Bones, Marrow",Finance,First Internet Bancorp,$63.88,538-61-4453
+1335,Beets - Pickled,Technology,Mobileye N.V.,$16.37,183-22-8149
+1336,Chips Potato Salt Vinegar 43g,Health Care,"Chembio Diagnostics, Inc.",$67.81,377-22-1121
+1337,"Nut - Walnut, Pieces",Health Care,Sanofi,$19.97,212-11-9046
+1338,Potatoes - Pei 10 Oz,Technology,"First Solar, Inc.",$21.91,845-54-6921
+1339,Juice - Ocean Spray Kiwi,Consumer Durables,"AMTEK, Inc.",$56.26,625-46-1119
+1340,Scallop - St. Jaques,Finance,Astoria Financial Corporation,$53.51,593-54-5555
+1341,The Pop Shoppe - Black Cherry,Technology,"Autodesk, Inc.",$65.03,772-08-7469
+1342,Wasabi Paste,Consumer Durables,Regal Beloit Corporation,$6.02,765-33-8056
+1343,Cake - French Pear Tart,n/a,iShares MSCI China ETF,$23.23,135-60-2211
+1344,"Wine - White, Ej",Basic Industries,Yamana Gold Inc.,$10.24,619-73-3523
+1345,Pork - Hock And Feet Attached,n/a,"American Financial Group, Inc.",$56.67,728-91-5935
+1346,Shrimp - Black Tiger 8 - 12,Consumer Services,Johnson Controls International plc,$79.40,586-20-4650
+1347,"Carrots - Purple, Organic",Consumer Services,Teekay Tankers Ltd.,$77.52,373-06-2984
+1348,Tomato - Plum With Basil,Finance,M&T Bank Corporation,$69.59,701-92-6534
+1349,Wine - Chenin Blanc K.w.v.,n/a,"LogMein, Inc.",$43.42,266-55-4717
+1350,Coffee - Ristretto Coffee Capsule,Miscellaneous,"SPAR Group, Inc.",$98.64,693-38-5242
+1351,"Spoon - Soup, Plastic",Finance,Cathay General Bancorp,$65.97,390-22-4331
+1352,Tomatoes,n/a,First Trust RiverFront Dynamic Europe ETF,$47.85,872-09-5311
+1353,"Cake Circle, Foil, Scallop",Technology,"Cirrus Logic, Inc.",$79.33,278-32-3563
+1354,Ham Black Forest,Technology,NeoPhotonics Corporation,$80.79,687-75-4521
+1355,"Bread - Sticks, Thin, Plain",Consumer Non-Durables,InfoSonics Corp,$48.33,140-27-0513
+1356,Scallops - In Shell,Basic Industries,Calgon Carbon Corporation,$32.37,371-77-8578
+1357,Puree - Mocha,n/a,Macquarie Global Infrastructure Total Return Fund Inc.,$54.77,485-93-3030
+1358,"Shrimp - Baby, Warm Water",Health Care,Benitec Biopharma Limited,$90.58,583-91-9371
+1359,Cream - 18%,Finance,"National Bankshares, Inc.",$89.95,601-84-8793
+1360,Bread - Assorted Rolls,Public Utilities,"Summit Midstream Partners, LP",$78.21,661-24-6230
+1361,Watercress,Technology,"Box, Inc.",$33.32,274-35-2519
+1362,Samosa - Veg,Public Utilities,"EnLink Midstream, LLC",$56.60,174-95-6005
+1363,Shrimp - 150 - 250,Consumer Services,"Empire Resorts, Inc.",$73.59,306-82-0185
+1364,Rolled Oats,Capital Goods,"Commercial Vehicle Group, Inc.",$65.29,129-12-6096
+1365,Piping - Bags Quizna,Consumer Services,Regis Corporation,$42.67,641-25-4417
+1366,Potatoes - Fingerling 4 Oz,Public Utilities,"Southwest Gas Holdings, Inc.",$88.73,177-89-8713
+1367,"Wine - White, Lindemans Bin 95",Finance,"ILG, Inc",$83.58,532-83-8994
+1368,Spaghetti Squash,Technology,"Endurance International Group Holdings, Inc.",$37.40,814-93-9373
+1369,Wine La Vielle Ferme Cote Du,n/a,PowerShares S&P SmallCap Utilities Portfolio,$8.04,324-57-3191
+1370,Wine - Merlot Vina Carmen,Health Care,"ARCA biopharma, Inc.",$25.57,766-15-6260
+1371,Oyster - In Shell,Health Care,Edwards Lifesciences Corporation,$86.99,825-46-1178
+1372,Soup - Campbells Chili Veg,Finance,Signature Bank,$26.16,646-24-3652
+1373,"Tea - Darjeeling, Azzura",Miscellaneous,Sotheby's,$99.78,861-43-2833
+1374,"Soup - Knorr, Chicken Gumbo",n/a,"NCS Multistage Holdings, Inc.",$55.02,865-45-4556
+1375,"Juice - Apple, 500 Ml",Public Utilities,"America Movil, S.A.B. de C.V.",$78.01,703-21-0892
+1376,Wine - Kwv Chenin Blanc South,Consumer Non-Durables,"Core-Mark Holding Company, Inc.",$5.41,899-71-0854
+1377,Cheese - Asiago,Health Care,"PDL BioPharma, Inc.",$26.84,216-42-1760
+1378,Creme De Menthe Green,Public Utilities,Otelco Inc.,$99.00,152-60-6208
+1379,Pasta - Cheese / Spinach Bauletti,Energy,"Superior Energy Services, Inc.",$73.67,696-24-5419
+1380,"Beef - Tongue, Cooked",Finance,"RE/MAX Holdings, Inc.",$84.59,337-87-1103
+1381,Lemon Tarts,Consumer Services,"Salem Media Group, Inc.",$43.11,166-32-1632
+1382,Duck - Whole,n/a,Arlington Asset Investment Corp,$85.63,395-53-8929
+1383,Pomegranates,Consumer Non-Durables,"Hostess Brands, Inc.",$48.50,342-10-8468
+1384,Muffin Mix - Banana Nut,Health Care,"Bioanalytical Systems, Inc.",$38.63,322-01-6261
+1385,Soup - Chicken And Wild Rice,n/a,Chesapeake Lodging Trust,$59.17,857-79-6536
+1386,Avocado,Transportation,"USA Truck, Inc.",$34.76,298-23-1799
+1387,Chips Potato Salt Vinegar 43g,Finance,Federal Agricultural Mortgage Corporation,$77.65,492-85-4871
+1388,Macaroons - Two Bite Choc,Finance,"BGC Partners, Inc.",$45.82,888-16-6332
+1389,Dill Weed - Dry,Health Care,"Coherus BioSciences, Inc.",$61.28,253-26-6966
+1390,"Mushroom - Enoki, Dry",Health Care,Baxter International Inc.,$57.98,394-80-0631
+1391,Nori Sea Weed - Gold Label,Health Care,"Viking Therapeutics, Inc.",$87.54,696-55-2445
+1392,Muffin - Mix - Bran And Maple 15l,n/a,"Goldman Sachs Group, Inc. (The)",$48.17,769-42-2094
+1393,Goat - Whole Cut,Technology,InterXion Holding N.V.,$6.37,380-64-7249
+1394,Coffee - French Vanilla Frothy,Finance,iPath US Treasury Long Bond Bull ETN,$39.29,321-52-6241
+1395,"Cookies - Oreo, 4 Pack",Capital Goods,"Proto Labs, Inc.",$16.38,410-19-3663
+1396,"Salt - Rock, Course",Basic Industries,Calgon Carbon Corporation,$3.46,267-82-4761
+1397,Red Currants,Finance,Tejon Ranch Co,$18.98,758-83-6095
+1398,Beans - Soya Bean,Basic Industries,Preformed Line Products Company,$28.57,567-43-4758
+1399,Chinese Foods - Chicken,Energy,Valero Energy Corporation,$39.31,853-75-7987
+1400,Rye Special Old,n/a,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index ,$58.39,878-54-1755
+1401,Muffin - Zero Transfat,Capital Goods,"Landauer, Inc.",$55.89,578-01-1276
+1402,Smoked Tongue,Capital Goods,Fortive Corporation,$12.07,108-01-0850
+1403,Fond - Chocolate,Energy,"Plains Group Holdings, L.P.",$83.26,340-48-7455
+1404,Oil - Safflower,Health Care,Heska Corporation,$47.57,586-87-9786
+1405,Coffee - French Vanilla Frothy,Consumer Services,Great Ajax Corp.,$6.01,373-06-0050
+1406,Wine - Charddonnay Errazuriz,Technology,"SPI Energy Co., Ltd.",$82.98,868-95-1610
+1407,Dried Peach,n/a,Monroe Capital Corporation,$90.56,200-24-8442
+1408,Soap - Pine Sol Floor Cleaner,Finance,Nomura Holdings Inc ADR,$49.48,154-88-3462
+1409,Ginger - Fresh,Finance,SLM Corporation,$54.60,155-69-5965
+1410,Sobe - Berry Energy,n/a,Lincoln National Corporation,$79.86,246-74-7959
+1411,Wine - Ej Gallo Sonoma,Health Care,"Obalon Therapeutics, Inc.",$91.34,867-19-8422
+1412,Russian Prince,Consumer Services,DISH Network Corporation,$29.31,499-21-0905
+1413,Pectin,Consumer Services,"Ryder System, Inc.",$13.24,865-05-4286
+1414,Sauce - Caesar Dressing,Public Utilities,Georgia Power Company,$47.93,351-31-7751
+1415,Wine - Zinfandel Rosenblum,Consumer Services,"Ruby Tuesday, Inc.",$29.81,334-66-5874
+1416,Sunflower Seed Raw,Transportation,"Covenant Transportation Group, Inc.",$62.88,787-09-2283
+1417,Bagel - Ched Chs Presliced,Capital Goods,"Perma-Pipe International Holdings, Inc.",$94.27,251-27-5535
+1418,Table Cloth 53x53 White,Basic Industries,Monsanto Company,$23.01,553-06-9161
+1419,Sardines,Finance,Stellar Acquisition III Inc.,$39.98,718-59-0363
+1420,Vinegar - Raspberry,n/a,Washington Prime Group Inc.,$26.56,341-96-1157
+1421,Nantucket - Orange Mango Cktl,Basic Industries,"Perma-Fix Environmental Services, Inc.",$97.69,686-87-4451
+1422,"Bread - Pita, Mini",Finance,MB Financial Inc.,$59.89,181-04-9041
+1423,Lettuce - Iceberg,Finance,National Holdings Corporation,$8.99,229-01-9680
+1424,Ice Cream - Super Sandwich,Consumer Services,MSG Networks Inc.,$80.01,609-52-5389
+1425,Tea - Decaf Lipton,Finance,American National Insurance Company,$61.20,549-06-7149
+1426,"Chocolate - Milk, Callets",Energy,Foresight Energy LP,$16.36,310-30-3146
+1427,Chocolate - Unsweetened,Health Care,Immune Pharmaceuticals Inc.,$35.79,359-11-7825
+1428,Steam Pan - Half Size Deep,Public Utilities,"EQT GP Holdings, LP",$52.49,618-98-7900
+1429,Dill Weed - Fresh,Technology,"Leidos Holdings, Inc.",$23.95,711-59-8893
+1430,Momiji Oroshi Chili Sauce,Finance,Bank of the Ozarks,$42.73,793-13-1694
+1431,Compound - Strawberry,Public Utilities,"Dominion Energy, Inc.",$34.88,238-61-9313
+1432,Wine - Chenin Blanc K.w.v.,Finance,Cincinnati Financial Corporation,$35.58,141-58-0061
+1433,Soupfoamcont12oz 112con,Finance,Capital One Financial Corporation,$99.36,520-07-6550
+1434,Beans - Fine,n/a,BlackRock Credit Allocation Income Trust,$94.58,636-61-7700
+1435,Mace,n/a,Welltower Inc.,$18.10,619-02-8243
+1436,Oven Mitts - 15 Inch,Basic Industries,"Yield10 Bioscience, Inc.",$45.58,214-18-5470
+1437,Wine - Spumante Bambino White,Consumer Services,Comcast Corporation,$45.79,292-80-4998
+1438,"Peas - Pigeon, Dry",Consumer Services,Regal Entertainment Group,$91.85,755-64-4260
+1439,"Rum - White, Gg White",Energy,Westport Fuel Systems Inc,$59.71,862-59-0154
+1440,Turkey Leg With Drum And Thigh,n/a,EPR Properties,$80.88,430-62-8821
+1441,Cheese - Brie Roitelet,Energy,Hess Midstream Partners LP,$25.37,241-03-2328
+1442,Pastry - Cherry Danish - Mini,Technology,Microchip Technology Incorporated,$72.15,691-85-7537
+1443,Pastry - Lemon Danish - Mini,Finance,ABM Industries Incorporated,$46.22,812-08-4650
+1444,Soup - Chicken And Wild Rice,Finance,CPI Card Group Inc.,$17.77,657-75-3160
+1445,"Pepper - Chillies, Crushed",n/a,Blackrock Capital and Income Strategies Fund Inc,$71.57,591-37-2325
+1446,Fuji Apples,Consumer Services,Wyndham Worldwide Corp,$37.46,591-55-9975
+1447,Bread - Focaccia Quarter,n/a,"Tortoise MLP Fund, Inc.",$16.40,741-03-0353
+1448,Cake - French Pear Tart,n/a,Federal Agricultural Mortgage Corporation,$29.64,476-44-1430
+1449,Appetiser - Bought,Finance,"Popular, Inc.",$5.75,720-29-9679
+1450,Cheese - Perron Cheddar,Basic Industries,"Internationa Flavors & Fragrances, Inc.",$7.19,249-01-2548
+1451,Broom - Angled,Capital Goods,Fluidigm Corporation,$21.10,227-28-1679
+1452,Wine - Clavet Saint Emilion,n/a,Gabelli Multi-Media Trust Inc. (The),$44.91,410-34-8859
+1453,Cookies - Englishbay Oatmeal,Health Care,"Rockwell Medical, Inc.",$54.21,887-14-0926
+1454,Soup - Campbells Tomato Ravioli,Consumer Services,Healthcare Realty Trust Incorporated,$82.78,222-54-4993
+1455,Jam - Raspberry,n/a,GSV Capital Corp,$9.40,142-85-1992
+1456,"Bread - Bagels, Plain",Technology,"American Software, Inc.",$53.73,831-40-9802
+1457,"Fish - Artic Char, Cold Smoked",Finance,Triple-S Management Corporation,$19.04,245-76-1618
+1458,Sauce - Caesar Dressing,Health Care,Skyline Medical Inc.,$60.32,631-08-6684
+1459,"Wine - Red, Harrow Estates, Cab",Energy,Rowan Companies plc,$26.42,117-20-5689
+1460,Caviar - Salmon,Transportation,"United Continental Holdings, Inc.",$38.76,587-57-0669
+1461,Grand Marnier,Public Utilities,Clean Energy Fuels Corp.,$80.41,883-24-2242
+1462,Wine - Stoneliegh Sauvignon,n/a,Blackrock Municipal 2018 Term Trust,$2.24,775-80-8506
+1463,"Iced Tea - Lemon, 460 Ml",Consumer Services,Wyndham Worldwide Corp,$12.58,576-60-2146
+1464,Pork - Inside,Finance,"PrivateBancorp, Inc.",$48.93,418-01-9600
+1465,Corn Shoots,Public Utilities,Pampa Energia S.A.,$24.56,762-54-3602
+1466,Cardamon Ground,Capital Goods,Crane Company,$49.17,279-36-1863
+1467,Sugar - Crumb,Finance,Lazard Ltd.,$98.29,245-41-1874
+1468,Cranberry Foccacia,Consumer Services,"Speedway Motorsports, Inc.",$30.27,670-09-6567
+1469,"Wine - White, French Cross",Consumer Services,"Scripps Networks Interactive, Inc",$32.44,286-61-5751
+1470,Potato - Sweet,Technology,"MoSys, Inc.",$97.22,340-88-2545
+1471,Salt - Sea,Public Utilities,Harmony Merger Corp.,$26.69,334-96-5604
+1472,Wine - Wyndham Estate Bin 777,Finance,"IF Bancorp, Inc.",$91.34,514-45-6517
+1473,Chicken - Wieners,Consumer Services,"Monogram Residential Trust, Inc.",$61.38,658-78-3266
+1474,Veal - Loin,Basic Industries,"Flotek Industries, Inc.",$58.72,513-22-4097
+1475,Marzipan 50/50,Technology,"CAI International, Inc.",$54.94,562-19-3647
+1476,Lychee - Canned,Finance,American River Bankshares,$49.13,551-68-3519
+1477,Sprouts - Corn,Technology,"Cleantech Solutions International, Inc.",$27.38,168-94-4726
+1478,Raisin - Golden,Energy,Vaalco Energy Inc,$10.06,443-07-5227
+1479,Pork - European Side Bacon,Technology,"Professional Diversity Network, Inc.",$82.28,670-35-0454
+1480,Beef - Ground Lean Fresh,Consumer Services,B Communications Ltd.,$95.88,330-77-8325
+1481,Truffle Cups - White Paper,Consumer Non-Durables,"ConAgra Brands, Inc.",$1.40,489-50-6047
+1482,Table Cloth 91x91 Colour,n/a,Nuveen Floating Rate Income Opportuntiy Fund,$96.49,507-60-6771
+1483,Higashimaru Usukuchi Soy,Consumer Services,Brandywine Realty Trust,$94.93,893-93-5417
+1484,Nantucket Orange Juice,n/a,Brookfield Real Assets Income Fund Inc.,$11.34,794-76-8336
+1485,"Doilies - 5, Paper",Capital Goods,Boeing Company (The),$33.43,656-04-8091
+1486,"Coke - Classic, 355 Ml",Health Care,"Minerva Neurosciences, Inc",$40.28,876-06-5728
+1487,"Pasta - Rotini, Colour, Dry",Consumer Durables,Iridium Communications Inc,$72.06,599-84-2178
+1488,Wine - Hardys Bankside Shiraz,Finance,"SmartFinancial, Inc.",$19.87,501-82-3852
+1489,Goat - Leg,Health Care,"Oncobiologics, Inc.",$8.65,340-27-6494
+1490,"Mushroom - Shitake, Dry",Finance,Urban Edge Properties,$97.86,181-94-5258
+1491,Muffin Mix - Corn Harvest,Technology,"Commvault Systems, Inc.",$95.62,833-91-2754
+1492,Cake - Pancake,Public Utilities,"SK Telecom Co., Ltd.",$8.42,860-79-2587
+1493,Hinge W Undercut,n/a,Global X Yieldco Index ETF,$17.33,888-76-1504
+1494,Nori Sea Weed - Gold Label,n/a,Kayne Anderson Energy Development Company,$47.34,187-86-6601
+1495,Shrimp - Black Tiger 26/30,Finance,Essent Group Ltd.,$37.19,893-91-2798
+1496,Sauce - Soy Low Sodium - 3.87l,n/a,Apollo Senior Floating Rate Fund Inc.,$44.08,264-46-8501
+1497,Apricots - Dried,Finance,China Finance Online Co. Limited,$53.26,367-54-5504
+1498,Pepsi - 600ml,Consumer Services,"Sally Beauty Holdings, Inc.",$26.35,629-90-9502
+1499,Table Cloth 144x90 White,Public Utilities,"NiSource, Inc",$30.29,723-88-2775
+1500,Salmon - Sockeye Raw,Energy,ProPetro Holding Corp.,$64.55,396-07-7225
+1501,Flour - Rye,Consumer Services,Trans World Entertainment Corp.,$89.01,306-49-3926
+1502,Pasta - Ravioli,Capital Goods,Materion Corporation,$54.08,448-43-2402
+1503,Lid - 16 Oz And 32 Oz,Consumer Non-Durables,"Berry Global Group, Inc.",$29.63,417-99-0971
+1504,"Oregano - Dry, Rubbed",Health Care,"Cempra, Inc.",$11.47,396-71-3664
+1505,Juice - Prune,n/a,TCF Financial Corporation,$47.22,386-09-3596
+1506,Blueberries - Frozen,n/a,"Taubman Centers, Inc.",$29.52,835-83-2147
+1507,Flower - Leather Leaf Fern,Technology,"ARI Network Services, Inc.",$30.41,703-30-8873
+1508,Instant Coffee,Energy,Jagged Peak Energy Inc.,$52.75,809-62-4591
+1509,Orange Roughy 4/6 Oz,Public Utilities,8point3 Energy Partners LP,$13.07,456-50-3620
+1510,Sprouts - Brussel,Technology,IPG Photonics Corporation,$70.87,133-11-4856
+1511,Calaloo,Finance,Medley Management Inc.,$71.38,813-04-5976
+1512,Foam Dinner Plate,Technology,3D Systems Corporation,$41.11,414-65-3288
+1513,Pheasants - Whole,n/a,F.N.B. Corporation,$16.83,644-51-2210
+1514,Shiro Miso,Health Care,Envision Healthcare Corporation,$61.63,196-19-5568
+1515,Chocolate - Milk,Basic Industries,KapStone Paper and Packaging Corporation,$27.41,762-29-9870
+1516,Pate - Liver,Public Utilities,"Waste Management, Inc.",$92.06,498-59-6023
+1517,Olives - Stuffed,Public Utilities,"ONEOK Partners, L.P.",$13.12,190-92-7339
+1518,Lettuce Romaine Chopped,Consumer Services,"Barnes & Noble, Inc.",$32.43,175-96-2818
+1519,Orange - Tangerine,Consumer Services,Target Corporation,$73.71,293-81-2147
+1520,Cookies - Fortune,n/a,iSectors Post-MPT Growth ETF,$68.19,406-07-4955
+1521,Dill Weed - Dry,Consumer Services,Hailiang Education Group Inc.,$94.26,522-83-6425
+1522,Lamb - Loin Chops,n/a,"Central Europe, Russia and Turkey Fund, Inc. (The)",$80.22,756-60-6514
+1523,"Coconut - Creamed, Pure",Technology,"CACI International, Inc.",$91.11,294-95-1285
+1524,"Nut - Walnut, Pieces",Capital Goods,"Rockwell Automation, Inc.",$1.63,488-78-1915
+1525,Olives - Stuffed,Technology,QAD Inc.,$26.25,405-30-3092
+1526,Gatorade - Fruit Punch,Transportation,Eagle Bulk Shipping Inc.,$91.53,317-86-5070
+1527,"Pasta - Canelloni, Single Serve",Technology,"Siliconware Precision Industries Company, Ltd.",$32.58,761-68-1563
+1528,Beef - Top Butt,Miscellaneous,HMS Holdings Corp,$64.90,780-67-3095
+1529,"Beans - Black Bean, Dry",n/a,Tsakos Energy Navigation Ltd,$82.12,298-75-1266
+1530,"Veal - Brisket, Provimi,bnls",Technology,Intuit Inc.,$60.24,388-43-7231
+1531,Beer - Heinekin,Energy,Rosehill Resources Inc.,$73.82,306-03-2689
+1532,Sea Urchin,Capital Goods,"Meritor, Inc.",$17.54,655-22-5413
+1533,Peppercorns - Green,Consumer Services,MTGE Investment Corp.,$42.31,402-87-4356
+1534,Higashimaru Usukuchi Soy,n/a,Western Asset Global High Income Fund Inc,$9.03,108-84-1459
+1535,Lentils - Green Le Puy,Health Care,"Biostage, Inc.",$32.89,596-97-4798
+1536,Wine - Zinfandel California 2002,n/a,First Trust RBA American Industrial Renaissance ETF,$91.63,882-85-3590
+1537,Snapple Raspberry Tea,Consumer Services,Farmland Partners Inc.,$88.51,683-05-6637
+1538,Energy - Boo - Koo,n/a,FIRST REPUBLIC BANK,$54.70,480-33-3807
+1539,Bag Stand,Energy,ENSCO plc,$69.03,169-04-2110
+1540,Coffee Decaf Colombian,Basic Industries,"Schweitzer-Mauduit International, Inc.",$18.72,273-48-1100
+1541,Wine - Red Oakridge Merlot,Technology,"Insperity, Inc.",$63.26,864-96-5724
+1542,Wine - Marlbourough Sauv Blanc,n/a,Blackrock California Municipal 2018 Term Trust,$6.37,769-99-5806
+1543,"Veal - Insides, Grains",Finance,CABCO Series 2004-101 Trust,$10.35,586-46-8469
+1544,Bread - Bistro White,n/a,"Blackrock MuniYield Quality Fund III, Inc.",$98.41,397-52-1373
+1545,Gooseberry,Consumer Services,Gladstone Commercial Corporation,$92.13,237-93-6185
+1546,Beef - Striploin Aa,Consumer Services,"Dillard's, Inc.",$78.94,178-77-6836
+1547,Pepper - Cayenne,Miscellaneous,"Fidelity National Information Services, Inc.",$88.17,207-63-6457
+1548,Rice - Sushi,Consumer Services,"Perfumania Holdings, Inc",$87.39,216-57-0733
+1549,Water - Aquafina Vitamin,Finance,"Hartford Financial Services Group, Inc. (The)",$8.50,407-76-7812
+1550,Scallops - 20/30,n/a,First Trust SSI Strategic Convertible Securities ETF,$42.01,306-33-4860
+1551,Duck - Fat,Finance,Genworth Financial Inc,$46.87,109-89-5738
+1552,Soup - Chicken And Wild Rice,Finance,Wintrust Financial Corporation,$85.28,443-92-4297
+1553,Pepper - Red Bell,Consumer Services,Brookfield Infrastructure Partners LP,$14.71,625-87-3580
+1554,Cream Of Tartar,n/a,LCI Industries ,$63.47,640-93-4692
+1555,Tuna - Bluefin,Basic Industries,"Aemetis, Inc",$83.42,148-63-9674
+1556,Eggplant - Regular,Health Care,ContraVir Pharmaceuticals Inc,$53.03,263-30-8954
+1557,Banana - Leaves,Basic Industries,"A-Mark Precious Metals, Inc.",$85.82,847-09-7894
+1558,"Soup - Campbells, Classic Chix",n/a,EPR Properties,$54.46,610-90-1502
+1559,Parsnip,n/a,PartnerRe Ltd.,$51.02,879-89-8646
+1560,Potatoes - Yukon Gold 5 Oz,Capital Goods,"ASV Holdings, Inc.",$88.68,847-96-4069
+1561,"Beef - Kindney, Whole",n/a,Nuveen Insured California Select Tax-Free Income Portfolio,$7.35,836-32-8443
+1562,"Sparkling Wine - Rose, Freixenet",n/a,TCP Capital Corp.,$36.00,130-75-4732
+1563,"Tart Shells - Sweet, 2",n/a,Five Oaks Investment Corp.,$32.45,202-64-1740
+1564,Ginger - Pickled,Capital Goods,"FARO Technologies, Inc.",$95.17,610-45-2668
+1565,"Soup - Knorr, French Onion",n/a,"American International Group, Inc.",$37.37,467-06-8943
+1566,Cheese - Bakers Cream Cheese,n/a,KKR & Co. L.P.,$64.10,847-99-5898
+1567,Lambcasing,n/a,Gabelli Multi-Media Trust Inc. (The),$23.04,746-54-4998
+1568,V8 Splash Strawberry Kiwi,n/a,"Mexico Equity and Income Fund, Inc. (The)",$61.95,554-60-6173
+1569,Cheese - Cheddarsliced,Health Care,"Pacira Pharmaceuticals, Inc.",$23.75,312-25-9137
+1570,Wine - Vidal Icewine Magnotta,Technology,InterXion Holding N.V.,$72.46,212-44-4233
+1571,Beef Flat Iron Steak,Energy,Chevron Corporation,$10.74,317-31-2160
+1572,Soup - Campbells Bean Medley,Basic Industries,Vulcan Materials Company,$35.31,791-76-9857
+1573,Tomatoes Tear Drop,Health Care,ReWalk Robotics Ltd,$74.59,242-98-7912
+1574,Breadfruit,Energy,Halliburton Company,$46.27,823-02-8253
+1575,Nantucket - Carrot Orange,Health Care,Immune Design Corp.,$36.65,485-78-0086
+1576,Muffin Carrot - Individual,Finance,"Prudential Financial, Inc.",$63.89,363-10-8018
+1577,The Pop Shoppe - Root Beer,Consumer Services,Kroger Company (The),$6.32,506-12-8060
+1578,Leeks - Large,Finance,Access National Corporation,$85.63,567-97-6937
+1579,Tea - Herbal Sweet Dreams,Public Utilities,"Dominion Energy, Inc.",$41.37,208-64-5784
+1580,Beer - Original Organic Lager,Energy,"Newpark Resources, Inc.",$92.79,435-24-4085
+1581,Trueblue - Blueberry Cranberry,Finance,Citizens Holding Company,$70.07,761-93-3409
+1582,"Wine - White, Riesling, Semi - Dry",Capital Goods,"Hurco Companies, Inc.",$84.25,289-02-9547
+1583,Cookies - Englishbay Wht,Energy,Zion Oil & Gas Inc,$48.69,102-52-2615
+1584,Tray - 12in Rnd Blk,Finance,Federal Agricultural Mortgage Corporation,$38.03,262-91-7736
+1585,Celery,Public Utilities,Vectren Corporation,$63.19,628-87-5542
+1586,Nori Sea Weed - Gold Label,Basic Industries,"Marrone Bio Innovations, Inc.",$67.94,420-03-8479
+1587,"Quail - Whole, Bone - In",n/a,Nuveen Missouri Quality Municipal Income Fund,$88.50,409-88-5833
+1588,"Marsala - Sperone, Fine, D.o.c.",n/a,WisdomTree China ex-State-Owned Enterprises Fund,$72.07,220-18-9678
+1589,Nori Sea Weed,Finance,"BankUnited, Inc.",$12.38,132-97-1955
+1590,Sausage - Chorizo,Capital Goods,Embraer-Empresa Brasileira de Aeronautica,$50.87,411-73-2394
+1591,Cheese - St. Andre,Energy,Enerplus Corporation,$58.89,259-02-2149
+1592,Lamb Leg - Bone - In Nz,Health Care,Check-Cap Ltd.,$4.18,684-12-8239
+1593,Potatoes - Yukon Gold 5 Oz,Basic Industries,"Compass Minerals International, Inc.",$26.36,688-63-6881
+1594,Pants Custom Dry Clean,n/a,First Trust Low Duration Opportunities ETF,$61.46,224-85-8718
+1595,Chickensplit Half,n/a,Hersha Hospitality Trust,$35.29,707-29-1447
+1596,Gatorade - Fruit Punch,Miscellaneous,"athenahealth, Inc.",$68.40,286-70-1368
+1597,Bag - Regular Kraft 20 Lb,Technology,Live Ventures Incorporated,$41.61,370-99-2708
+1598,Dried Cherries,Technology,Canadian Solar Inc.,$18.13,728-33-6637
+1599,"Crab - Blue, Frozen",Finance,iPath US Treasury Long Bond Bull ETN,$36.29,614-02-0409
+1600,Wine - Chateau Bonnet,Consumer Services,"Evolent Health, Inc",$71.51,415-74-4039
+1601,Bread - White Mini Epi,Miscellaneous,CAE Inc,$31.74,412-76-2723
+1602,Beets,n/a,Guggenheim Enhanced Equity Income Fund,$93.21,891-29-5627
+1603,Sauce - Hoisin,n/a,"Cohen & Steers Global Income Builder, Inc.",$43.04,716-80-4564
+1604,Oil - Hazelnut,Energy,Ion Geophysical Corporation,$80.34,879-71-5010
+1605,Flour - Chickpea,n/a,Dynegy Inc.,$61.55,811-54-1628
+1606,Wiberg Super Cure,Consumer Services,Farmland Partners Inc.,$22.52,737-41-2313
+1607,Cafe Royale,Consumer Durables,Hillenbrand Inc,$88.49,822-21-1814
+1608,Chips - Potato Jalapeno,Finance,Bank of Nova Scotia (The),$59.50,436-60-4588
+1609,French Kiss Vanilla,Finance,Westwood Holdings Group Inc,$8.75,265-21-6169
+1610,Soup - Campbells Tomato Ravioli,Finance,Banco Santander Chile,$7.41,498-96-7736
+1611,Chips Potato Salt Vinegar 43g,n/a,"Duff & Phelps Utilities Tax-Free Income, Inc.",$58.46,625-63-3661
+1612,Cake - Pancake,n/a,Barclays PLC,$41.12,524-27-5442
+1613,Walkers Special Old Whiskey,Public Utilities,"Casella Waste Systems, Inc.",$0.33,553-43-9568
+1614,Chef Hat 25cm,n/a,"Firsthand Technology Value Fund, Inc.",$12.18,615-58-3516
+1615,Cookies - Assorted,Technology,"Aaron's,  Inc.",$26.96,788-69-7958
+1616,Ecolab - Balanced Fusion,Technology,"Luxoft Holding, Inc.",$21.14,552-20-7281
+1617,"Lamb - Leg, Bone In",Basic Industries,"United States Lime & Minerals, Inc.",$69.72,523-21-0527
+1618,Sage - Fresh,Health Care,"Sensus Healthcare, Inc.",$34.81,690-53-6415
+1619,Peach - Halves,Consumer Non-Durables,Ingredion Incorporated,$34.60,624-21-0063
+1620,Baking Powder,Health Care,"Retrophin, Inc.",$97.01,155-34-2309
+1621,Oil - Olive,Consumer Non-Durables,Molson Coors Brewing  Company,$60.08,848-72-9476
+1622,Cheese Cloth No 60,Health Care,"GTx, Inc.",$18.70,730-73-0826
+1623,"Beans - Fava, Canned",Capital Goods,Lindsay Corporation,$61.43,677-82-8430
+1624,Buttons,n/a,Constellation Brands Inc,$59.93,536-63-5317
+1625,"Pasta - Fettuccine, Dry",Miscellaneous,RMG Networks Holding Corporation,$66.15,751-73-9046
+1626,Towels - Paper / Kraft,Technology,DXC Technology Company,$38.58,807-50-7804
+1627,Sole - Fillet,Public Utilities,Pinnacle West Capital Corporation,$2.74,757-84-0842
+1628,Table Cloth 72x144 White,Consumer Services,Canterbury Park Holding Corporation,$98.46,690-19-9267
+1629,Chocolate Bar - Oh Henry,Finance,Pacific Mercantile Bancorp,$6.03,122-52-9192
+1630,Chinese Foods - Chicken Wing,Public Utilities,Consolidated Water Co. Ltd.,$88.60,182-01-8182
+1631,Quiche Assorted,Transportation,ArcBest Corporation,$73.83,319-14-7647
+1632,Pork - Backs - Boneless,n/a,WeatherStorm Forensic Accounting Long Short ETF,$97.94,692-45-2459
+1633,Coffee - Espresso,Consumer Durables,Inseego Corp.,$46.92,181-76-0114
+1634,Sour Puss - Tangerine,Consumer Services,"Cogent Communications Holdings, Inc.",$41.62,805-36-4527
+1635,Sultanas,Consumer Services,Duluth Holdings Inc.,$52.95,260-16-0030
+1636,Silicone Paper 16.5x24,Transportation,China Eastern Airlines Corporation Ltd.,$88.39,649-98-4959
+1637,Blouse / Shirt / Sweater,Technology,"Loral Space and Communications, Inc.",$64.53,740-17-7471
+1638,Pie Filling - Cherry,Consumer Services,"Paramount Group, Inc.",$3.87,698-98-4727
+1639,Kahlua,Technology,Energous Corporation,$98.03,433-48-5745
+1640,Cheese - Provolone,Health Care,"Inovio Pharmaceuticals, Inc.",$27.03,880-48-3670
+1641,"Salt - Rock, Course",Finance,Toronto Dominion Bank (The),$88.48,426-58-4535
+1642,Soup - Campbells Tomato Ravioli,n/a,Nuveen Municipal 2021 Target Term Fund,$36.46,179-57-5107
+1643,Food Colouring - Orange,Health Care,"Alliance HealthCare Services, Inc.",$81.50,773-42-9690
+1644,Monkfish - Fresh,Consumer Durables,"Mohawk Industries, Inc.",$84.85,346-95-9006
+1645,Wine - Valpolicella Masi,n/a,Capitala Finance Corp.,$63.22,823-91-0873
+1646,"Cake Circle, Foil, Scallop",Technology,General Finance Corporation,$70.32,186-14-5808
+1647,"Lemonade - Kiwi, 591 Ml",n/a,Arbor Realty Trust,$52.22,664-42-4749
+1648,Drambuie,Capital Goods,Cemtrex Inc.,$40.39,773-98-5053
+1649,Lettuce Romaine Chopped,Finance,First Bancorp,$75.05,579-63-8142
+1650,Bandage - Fexible 1x3,Finance,Cathay General Bancorp,$52.34,257-51-5394
+1651,Rootbeer,n/a,Nuveen All Cap Energy MLP Opportunities Fund,$64.53,413-97-7299
+1652,Arizona - Green Tea,Health Care,"Esperion Therapeutics, Inc.",$5.71,884-70-3845
+1653,Sauce - Thousand Island,Finance,CNA Financial Corporation,$98.23,561-34-3142
+1654,Foie Gras,Finance,"Old Line Bancshares, Inc.",$8.35,897-43-7700
+1655,Bread Bowl Plain,Technology,"Ubiquiti Networks, Inc.",$12.77,459-41-9412
+1656,Edible Flower - Mixed,Public Utilities,Mobile TeleSystems OJSC,$92.13,244-52-1824
+1657,Grapefruit - Pink,Capital Goods,"Aerojet Rocketdyne Holdings, Inc. ",$15.78,302-80-4953
+1658,Fish - Bones,Technology,"Extreme Networks, Inc.",$12.25,120-46-6902
+1659,Parsley - Dried,Technology,"PDF Solutions, Inc.",$40.56,304-76-7600
+1660,"Pepper - Green, Chili",Consumer Services,Sears Holdings Corporation,$34.96,287-58-5131
+1661,"Wine - Red, Pinot Noir, Chateau",n/a,Gabelli Utility Trust (The),$91.89,619-96-4843
+1662,Pastry - Chocolate Marble Tea,Finance,Nomura Holdings Inc ADR,$54.18,677-97-5166
+1663,Cinnamon - Ground,Finance,"Net 1 UEPS Technologies, Inc.",$0.02,123-04-6634
+1664,"Chilli Paste, Sambal Oelek",Health Care,"Bio-Path Holdings, Inc.",$1.20,294-45-0140
+1665,Wine - Marlbourough Sauv Blanc,Energy,EP Energy Corporation,$31.37,632-89-1172
+1666,Beef - Top Butt Aaa,Public Utilities,BlackBerry Limited,$10.71,266-37-7159
+1667,"Lobster - Tail, 3 - 4 Oz",Health Care,La Jolla Pharmaceutical Company,$9.91,599-89-3144
+1668,Apron,Finance,"LegacyTexas Financial Group, Inc.",$11.19,334-32-0356
+1669,Tia Maria,n/a,"John Wiley & Sons, Inc.",$85.85,586-24-0593
+1670,Ecolab - Lime - A - Way 4/4 L,Finance,"Southern Missouri Bancorp, Inc.",$3.19,232-04-5604
+1671,"Cherries - Bing, Canned",n/a,Tri Continental Corporation,$23.29,298-54-6340
+1672,"Bread - Roll, Italian",Health Care,"Medpace Holdings, Inc.",$31.38,527-94-4048
+1673,Bagel - Sesame Seed Presliced,Basic Industries,Procter & Gamble Company (The),$46.46,713-31-2658
+1674,Foil Wrap,n/a,Lexington Realty Trust,$99.39,189-24-4928
+1675,Otomegusa Dashi Konbu,Health Care,argenx SE,$4.17,485-49-5554
+1676,Scallops - U - 10,Consumer Services,"Paychex, Inc.",$76.79,596-63-8620
+1677,Venison - Denver Leg Boneless,n/a,"THL Credit, Inc.",$33.00,363-44-7502
+1678,Lid Tray - 16in Dome,Public Utilities,"NextEra Energy, Inc.",$34.06,736-31-2507
+1679,"Brandy - Orange, Mc Guiness",Health Care,"Neurotrope, Inc.",$62.25,660-23-1048
+1680,"Clams - Littleneck, Whole",Transportation,"Era Group, Inc.",$51.50,785-80-7438
+1681,Wine - Hardys Bankside Shiraz,Health Care,"OpGen, Inc.",$65.67,849-37-3177
+1682,"Sauce - Soya, Light",Basic Industries,"Compass Minerals International, Inc.",$95.91,105-56-2714
+1683,Pie Shell - 9,Technology,"Cadence Design Systems, Inc.",$89.54,477-87-1279
+1684,Glaze - Clear,Capital Goods,Marine Products Corporation,$16.46,606-57-7664
+1685,Broom And Brush Rack Black,Capital Goods,"Axon Enterprise, Inc.",$99.64,282-20-9870
+1686,Wine - Sake,n/a,First Trust Hong Kong AlphaDEX Fund,$16.19,369-29-4340
+1687,Butter Balls Salted,Public Utilities,"General Communication, Inc.",$18.07,451-46-8409
+1688,Pate - Liver,Health Care,Abeona Therapeutics Inc.,$55.44,625-10-7776
+1689,Thermometer Digital,n/a,Aspen Insurance Holdings Limited,$13.95,103-24-9335
+1690,Ecolab - Mikroklene 4/4 L,Technology,Graham Corporation,$51.50,521-14-3763
+1691,Ice Cream Bar - Hagen Daz,Health Care,"CareDx, Inc.",$24.71,597-42-5450
+1692,Amarula Cream,Technology,"Synchronoss Technologies, Inc.",$12.89,757-71-1539
+1693,Cheese - Cheddarsliced,Basic Industries,Carpenter Technology Corporation,$30.14,663-49-2120
+1694,Wine - Cotes Du Rhone Parallele,Technology,Plexus Corp.,$49.99,378-94-2255
+1695,"Cheese - Boursin, Garlic / Herbs",Health Care,"NuVasive, Inc.",$43.40,404-77-0245
+1696,"Oil - Olive, Extra Virgin",Capital Goods,Amphenol Corporation,$53.49,807-04-9659
+1697,Salad Dressing,Consumer Services,"Apple Hospitality REIT, Inc.",$53.01,213-09-3457
+1698,Sun - Dried Tomatoes,Finance,M&T Bank Corporation,$17.03,291-03-2547
+1699,Worcestershire Sauce,Consumer Durables,The Goodyear Tire & Rubber Company,$8.01,170-63-8358
+1700,Wine - Magnotta - Bel Paese White,Capital Goods,Gentex Corporation,$30.77,488-64-7591
+1701,Crab - Meat,Consumer Durables,VWR Corporation,$38.57,277-42-5074
+1702,Capon - Whole,Public Utilities,Pure Cycle Corporation,$43.95,303-89-8070
+1703,Mcguinness - Blue Curacao,Consumer Services,Lamar Advertising Company,$95.28,807-12-3102
+1704,Pate - Liver,Finance,Double Eagle Acquisition Corp.,$53.28,225-98-9604
+1705,Kiwano,Technology,Actua Corporation,$83.96,336-70-2172
+1706,Trueblue - Blueberry 12x473ml,Capital Goods,Thermo Fisher Scientific Inc,$49.12,882-79-0152
+1707,Celery,n/a,Global X Yieldco Index ETF,$93.62,168-98-8875
+1708,Beef Wellington,Consumer Services,"Twenty-First Century Fox, Inc.",$9.37,776-38-8959
+1709,Soup - French Onion,Consumer Durables,"NACCO Industries, Inc.",$57.25,692-24-9119
+1710,Muffin - Mix - Mango Sour Cherry,n/a,BlackRock Utility and Infrastructure Trust,$76.09,807-37-6279
+1711,"Lamb - Shoulder, Boneless",n/a,American Homes 4 Rent,$50.29,854-50-0335
+1712,Arctic Char - Fillets,Finance,Government Properties Income Trust,$64.69,840-18-3865
+1713,Flower - Daisies,Health Care,Select Medical Holdings Corporation,$14.45,309-49-0598
+1714,"Wine - Red, Gamay Noir",n/a,Aspen Insurance Holdings Limited,$33.81,594-60-2215
+1715,Beer - Upper Canada Light,n/a,PartnerRe Ltd.,$20.70,161-57-7514
+1716,Alize Red Passion,Finance,Alleghany Corporation,$51.41,113-45-6265
+1717,Food Colouring - Orange,Finance,Aegon NV,$64.12,398-39-5556
+1718,Sword Pick Asst,Finance,F.N.B. Corporation,$96.82,800-69-6911
+1719,Pails With Lids,n/a,"Blackrock MuniHoldings Fund, Inc.",$70.03,723-54-3224
+1720,Chivas Regal - 12 Year Old,Transportation,Forward Air Corporation,$57.61,624-48-5313
+1721,Capon - Whole,Consumer Services,"Apple Hospitality REIT, Inc.",$92.06,153-99-5966
+1722,"Wine - White, Schroder And Schyl",Energy,YPF Sociedad Anonima,$3.44,585-19-7425
+1723,Nantucket - Carrot Orange,Basic Industries,RPM International Inc.,$61.59,847-04-7350
+1724,Wine - Crozes Hermitage E.,Technology,"A10 Networks, Inc.",$12.36,273-30-9578
+1725,"Sparkling Wine - Rose, Freixenet",Capital Goods,"ASV Holdings, Inc.",$6.74,389-31-7709
+1726,Port - 74 Brights,Consumer Services,iStar Financial Inc.,$12.79,718-35-8931
+1727,Beets - Pickled,Finance,"Capitol Federal Financial, Inc.",$68.85,842-63-1186
+1728,Muffins - Assorted,Consumer Services,"New York REIT, Inc.",$5.78,642-35-7982
+1729,Mousse - Mango,Consumer Services,"AMC Entertainment Holdings, Inc.",$94.32,161-89-5703
+1730,Island Oasis - Lemonade,Finance,"Provident Financial Services, Inc",$91.26,855-73-0552
+1731,Petit Baguette,Consumer Services,"Del Frisco's Restaurant Group, Inc.",$86.20,782-26-6972
+1732,"Pasta - Elbows, Macaroni, Dry",Finance,Medley LLC,$62.87,184-61-6068
+1733,Pork - Kidney,n/a,Royal Bank Of Canada,$44.52,626-58-2066
+1734,Tea - Orange Pekoe,n/a,"Goldman Sachs Group, Inc. (The)",$66.41,108-81-0247
+1735,Beef - Sushi Flat Iron Steak,n/a,Principal Real Estate Income Fund,$8.63,130-84-6836
+1736,Broom Handle,Consumer Durables,"Lithia Motors, Inc.",$70.38,220-09-6421
+1737,Cheese - Brick With Onion,n/a,Telecom Italia S.P.A.,$18.80,873-04-2134
+1738,Cookies Cereal Nut,Technology,"Pixelworks, Inc.",$29.42,831-51-8747
+1739,Longos - Lasagna Beef,Health Care,"ICU Medical, Inc.",$73.13,283-70-3189
+1740,"Pork - Bacon, Double Smoked",n/a,John Hancock Financial Opportunities Fund,$43.13,288-19-7240
+1741,"Juice - Tomato, 10 Oz",Finance,Chemung Financial Corp,$6.71,128-49-4224
+1742,Soup - Cream Of Potato / Leek,Consumer Services,"Laureate Education, Inc.",$23.99,562-81-0946
+1743,Wine - Baron De Rothschild,Consumer Non-Durables,"Escalade, Incorporated",$56.11,691-46-7190
+1744,Water - Spring 1.5lit,Health Care,"Diplomat Pharmacy, Inc.",$4.64,606-35-0123
+1745,Fork - Plastic,Capital Goods,Matthews International Corporation,$27.76,523-56-1135
+1746,Maple Syrup,Finance,"Berkshire Hills Bancorp, Inc.",$1.22,668-80-5532
+1747,Browning Caramel Glace,n/a,Wells Fargo & Company,$62.91,721-18-3823
+1748,Sprouts - Corn,Health Care,Anavex Life Sciences Corp.,$55.83,742-61-8413
+1749,Longos - Lasagna Beef,Energy,China Yuchai International Limited,$90.55,806-96-7479
+1750,"Turkey - Whole, Fresh",Health Care,Incyte Corporation,$7.78,434-19-6604
+1751,Sauce - Sesame Thai Dressing,Energy,Cabot Oil & Gas Corporation,$37.84,179-68-0454
+1752,"Juice - Orange, 341 Ml",Consumer Services,"Vail Resorts, Inc.",$28.37,858-63-2133
+1753,"Beans - Black Bean, Dry",Health Care,"Albireo Pharma, Inc.",$10.28,203-03-3276
+1754,Sage Derby,n/a,"Duff & Phelps Utilities Tax-Free Income, Inc.",$65.66,686-33-7590
+1755,Gatorade - Xfactor Berry,Health Care,Check-Cap Ltd.,$54.84,842-35-4489
+1756,"Wine - White, Mosel Gold",Basic Industries,Procter & Gamble Company (The),$74.39,178-19-9780
+1757,Sugar - Cubes,Miscellaneous,eBay Inc.,$79.65,746-12-5079
+1758,"Cherries - Maraschino,jar",Consumer Durables,"Innophos Holdings, Inc.",$14.31,517-99-4432
+1759,Tomato - Tricolor Cherry,Consumer Services,EVINE Live Inc.,$56.41,151-12-6710
+1760,Pork - Shoulder,n/a,"PIMCO Commercial Mortgage Securities Trust, Inc.",$56.87,636-69-4929
+1761,Chocolate Bar - Coffee Crisp,n/a,DoubleLine Income Solutions Fund,$38.02,769-29-0518
+1762,"Wine - White, Riesling, Semi - Dry",Consumer Services,Equity Commonwealth,$91.64,575-21-6234
+1763,"Shrimp - 16 - 20 Cooked, Peeled",n/a,First Trust High Yield Long/Short ETF,$82.72,328-27-6756
+1764,Ice Cream Bar - Drumstick,Technology,Amdocs Limited,$0.71,597-97-5070
+1765,Shortbread - Cookie Crumbs,n/a,First Trust NASDAQ ABA Community Bank Index Fund,$14.53,102-95-7020
+1766,Mushroom - Morel Frozen,n/a,First Trust Specialty Finance and Financial Opportunities Fund,$24.76,423-63-1848
+1767,Beans - Yellow,Finance,United Community Financial Corp.,$55.12,184-43-6802
+1768,Pork Salted Bellies,n/a,"Royce Micro-Cap Trust, Inc.",$95.19,631-49-9903
+1769,Wine - Ej Gallo Sierra Valley,Health Care,"Cleveland BioLabs, Inc.",$56.29,764-88-2875
+1770,Sugar - Splenda Sweetener,n/a,BlackRock Income Investment Quality Trust,$84.27,816-40-6020
+1771,Table Cloth 53x69 White,Technology,"Net Element, Inc.",$28.44,316-51-6764
+1772,Beef - Tenderloin - Aa,Finance,Stifel Financial Corporation,$93.90,746-17-0546
+1773,"Nut - Pecan, Halves",Capital Goods,Babcock,$84.52,110-81-2649
+1774,Wine - Vineland Estate Semi - Dry,n/a,Aspen Insurance Holdings Limited,$82.03,441-67-7662
+1775,"Pork - Tenderloin, Fresh",Health Care,Akers Biosciences Inc,$9.29,873-22-7761
+1776,Cleaner - Bleach,Energy,ENSCO plc,$28.66,258-43-8263
+1777,Wine - Two Oceans Sauvignon,Technology,"Veritone, Inc.",$78.03,188-53-5036
+1778,Fondant - Icing,Finance,Nationstar Mortgage Holdings Inc.,$98.38,223-35-0980
+1779,Sobe - Berry Energy,Health Care,"Smith & Nephew SNATS, Inc.",$51.57,355-13-6955
+1780,Lobak,n/a,"Safe Bulkers, Inc",$25.61,709-28-3705
+1781,Veal - Leg,Technology,"Inspired Entertainment, Inc.",$8.16,111-36-0980
+1782,Tuna - Fresh,Health Care,"Imprimis Pharmaceuticals, Inc.",$70.97,255-18-3719
+1783,Crackers - Melba Toast,Basic Industries,"TerraVia Holdings, Inc.",$24.77,101-35-1693
+1784,Bread Roll Foccacia,n/a,Morgan Stanley,$69.64,848-62-7533
+1785,Curry Powder,Health Care,GW Pharmaceuticals Plc,$46.32,646-05-2142
+1786,Sauce - Cranberry,Health Care,Five Star Senior Living Inc.,$53.49,165-09-2163
+1787,Sour Cream,Consumer Services,"Redwood Trust, Inc.",$97.23,302-02-6668
+1788,Eggplant Oriental,Technology,NVE Corporation,$84.51,214-76-9397
+1789,Beef - Shank,Capital Goods,"Accelerate Diagnostics, Inc.",$81.98,317-94-3396
+1790,Spinach - Packaged,Finance,CABCO Series 2004-101 Trust,$6.32,724-44-6735
+1791,"Pasta - Lasagna Noodle, Frozen",Energy,General Electric Capital Corporation,$42.94,774-49-3980
+1792,Grapefruit - Pink,Finance,MS Structured Asset Corp Saturns GE Cap Corp Series 2002-14,$50.83,427-87-6246
+1793,Cod - Black Whole Fillet,Basic Industries,Koppers Holdings Inc.,$92.52,740-58-5344
+1794,Chips Potato All Dressed - 43g,Consumer Services,Duluth Holdings Inc.,$57.79,751-09-8415
+1795,Bread Fig And Almond,Finance,"Bankwell Financial Group, Inc.",$63.04,435-41-2048
+1796,"Cheese - Brie, Cups 125g",Public Utilities,Telefonica Brasil S.A.,$7.05,441-10-7886
+1797,Oysters - Smoked,Finance,"Stock Yards Bancorp, Inc.",$3.66,665-15-9896
+1798,Campari,Miscellaneous,"Moneygram International, Inc.",$77.21,610-92-4816
+1799,Jicama,Health Care,"Minerva Neurosciences, Inc",$92.97,220-29-0093
+1800,Tequila - Sauza Silver,Basic Industries,Agnico Eagle Mines Limited,$13.59,534-24-8904
+1801,Tahini Paste,Consumer Services,"Ashford Hospitality Prime, Inc.",$34.49,271-08-1886
+1802,Bread Base - Gold Formel,Finance,Jacksonville Bancorp Inc.,$77.88,573-62-0540
+1803,"Coke - Classic, 355 Ml",n/a,Wells Fargo & Company,$71.84,279-21-3755
+1804,Water - Tonic,Health Care,"Aviragen Therapeutics, Inc.",$93.22,765-37-6881
+1805,Longos - Lasagna Beef,n/a,Heico Corporation,$72.28,627-83-9281
+1806,Pie Filling - Pumpkin,Technology,"Twin Disc, Incorporated",$59.51,519-60-4447
+1807,Cranberries - Dry,Health Care,"Altimmune, Inc.",$91.36,844-03-8322
+1808,Nantucket Apple Juice,Public Utilities,IDT Corporation,$80.20,845-66-2279
+1809,Chicken - Tenderloin,Consumer Services,GMS Inc.,$82.05,746-14-8895
+1810,Pickerel - Fillets,Public Utilities,Companhia Paranaense de Energia (COPEL),$46.72,480-11-5377
+1811,Ice Cream Bar - Oreo Cone,Capital Goods,"Continental Building Products, Inc.",$57.43,282-73-0008
+1812,Cheese - Victor Et Berthold,Health Care,Tenet Healthcare Corporation,$42.87,782-33-2937
+1813,Pork - Liver,n/a,Nuveenn Intermediate Duration Quality Municipal Term Fund,$86.42,552-59-7645
+1814,Sugar - Invert,Health Care,"Infinity Pharmaceuticals, Inc.",$75.86,140-49-8832
+1815,"Roe - Lump Fish, Black",Consumer Services,Vince Holding Corp.,$28.10,685-32-2731
+1816,Melon - Cantaloupe,Finance,Electrum Special Acquisition Corporation,$21.89,739-03-7065
+1817,"Cheese - Manchego, Spanish",Finance,Banco Santander Brasil SA,$63.17,373-01-1134
+1818,"Chilli Paste, Ginger Garlic",Capital Goods,Arconic Inc.,$92.03,184-79-3039
+1819,Appetizer - Veg Assortment,Energy,Buckeye Partners L.P.,$99.22,437-39-7283
+1820,"Pepper - Black, Crushed",Health Care,"Insmed, Inc.",$49.88,885-79-8338
+1821,Puree - Guava,Capital Goods,"Triumph Group, Inc.",$79.03,834-79-2939
+1822,"Chicken - Base, Ultimate",Basic Industries,Unilever PLC,$75.75,344-89-0728
+1823,Salmon Steak - Cohoe 8 Oz,Capital Goods,"Forterra, Inc.",$47.82,810-45-5535
+1824,Wine - Semi Dry Riesling Vineland,n/a,First Trust RBA American Industrial Renaissance ETF,$40.43,578-04-8629
+1825,Duck - Fat,Finance,"County Bancorp, Inc.",$9.56,183-09-4686
+1826,Duck - Fat,Consumer Services,GasLog LP.,$91.41,301-97-4695
+1827,Oil - Canola,n/a,BlackRock New Jersey Municipal Income Trust,$12.79,196-40-9146
+1828,Wine - Sauvignon Blanc Oyster,n/a,Regions Financial Corporation,$81.75,371-34-1880
+1829,"Tortillas - Flour, 10",n/a,Rand Capital Corporation,$7.62,159-76-4369
+1830,Wiberg Super Cure,Basic Industries,Osisko Gold Royalties Ltd,$43.28,811-49-5151
+1831,Dc - Sakura Fu,n/a,Allstate Corporation (The),$69.52,703-23-0500
+1832,Rice - Sushi,Finance,Horace Mann Educators Corporation,$57.43,789-43-5738
+1833,Salt - Seasoned,Consumer Durables,GP Investments Acquisition Corp.,$2.59,670-29-0174
+1834,Wine - Trimbach Pinot Blanc,Finance,China Life Insurance Company Limited,$76.39,122-35-8331
+1835,Sauce - Hp,Finance,SVB Financial Group,$76.28,455-07-6765
+1836,Kolrabi,Capital Goods,"Mobile Mini, Inc.",$73.81,115-35-6483
+1837,"Juice - Orange, Concentrate",Health Care,CymaBay Therapeutics Inc.,$36.10,407-58-3530
+1838,Scrubbie - Scotchbrite Hand Pad,Technology,"Inspired Entertainment, Inc.",$85.12,660-30-1134
+1839,Lumpfish Black,n/a,PowerShares LadderRite 0-5 Year Corporate Bond Portfolio,$23.57,571-07-7151
+1840,Chocolate - Mi - Amere Semi,Capital Goods,"China Automotive Systems, Inc.",$82.77,519-42-1495
+1841,Olives - Nicoise,n/a,BlackRock Science and Technology Trust,$6.28,628-16-6401
+1842,Mustard Prepared,Finance,Modern Media Acquisition Corp.,$57.62,543-67-7518
+1843,Turkey Leg With Drum And Thigh,Consumer Services,"Shoe Carnival, Inc.",$53.06,189-66-1748
+1844,Pork Loin Bine - In Frenched,Technology,"Quantenna Communications, Inc.",$33.93,755-07-9987
+1845,"Mushrooms - Black, Dried",Energy,Pioneer Energy Services Corp.,$14.16,284-76-6901
+1846,Tomatoes,Consumer Services,"Colony NorthStar, Inc.",$59.52,306-71-7620
+1847,Pate - Peppercorn,Health Care,Zosano Pharma Corporation,$1.93,159-06-3186
+1848,"Beef - Chuck, Boneless",Health Care,ADMA Biologics Inc,$93.23,400-95-9604
+1849,"Oil - Food, Lacquer Spray",n/a,"NextEra Energy, Inc.",$2.87,806-07-2142
+1850,Pastry - Raisin Muffin - Mini,n/a,First Trust Indxx Global Natural Resources Income ETF,$8.37,345-28-9913
+1851,Bols Melon Liqueur,Health Care,"Allied Healthcare Products, Inc.",$45.13,326-58-0493
+1852,Bread - Granary Small Pull,n/a,Dynegy Inc.,$31.35,572-23-7100
+1853,Pail With Metal Handle 16l White,n/a,Ashford Hospitality Trust Inc,$51.80,255-30-8275
+1854,"Trout - Rainbow, Frozen",n/a,Managed Duration Investment Grade Municipal Fund,$73.98,493-30-3731
+1855,Orange Roughy 6/8 Oz,Technology,"Kforce, Inc.",$98.35,143-88-2661
+1856,Wine - Masi Valpolocell,n/a,Ashford Hospitality Trust Inc,$16.73,444-26-2696
+1857,Clams - Bay,Consumer Non-Durables,"Berry Global Group, Inc.",$84.27,516-34-9242
+1858,Lid - 16 Oz And 32 Oz,Public Utilities,"ONE Gas, Inc.",$90.58,109-46-8491
+1859,Hog / Sausage Casing - Pork,Consumer Services,"Navigant Consulting, Inc.",$27.52,690-29-2306
+1860,"Mop Head - Cotton, 24 Oz",Finance,Bryn Mawr Bank Corporation,$95.87,811-90-3512
+1861,Tart - Raisin And Pecan,n/a,Horizons DAX Germany ETF,$58.93,732-23-1786
+1862,"Pasta - Orzo, Dry",Technology,"Aware, Inc.",$12.72,817-81-4984
+1863,"Rum - Light, Captain Morgan",n/a,Nuveen Intermediate Duration Municipal Term Fund,$84.72,441-74-6167
+1864,Ocean Spray - Ruby Red,Consumer Services,At Home Group Inc.,$40.50,209-40-4746
+1865,Cake - Sheet Strawberry,Miscellaneous,NCR Corporation,$80.44,128-32-9048
+1866,Steampan Lid,Finance,Ohio Valley Banc Corp.,$4.80,205-73-5955
+1867,Cheese - Cambozola,Finance,"Republic Bancorp, Inc.",$27.03,123-06-0634
+1868,Garam Marsala,Basic Industries,Female Health Company (The),$11.70,683-62-3766
+1869,Thyme - Dried,Public Utilities,"South Jersey Industries, Inc.",$48.17,336-48-4372
+1870,Pants Custom Dry Clean,Energy,"Warrior Met Coal, Inc.",$22.28,747-19-9136
+1871,"Coconut - Shredded, Sweet",Finance,"PrivateBancorp, Inc.",$45.09,471-69-7454
+1872,Pepper - Roasted Red,Health Care,Trinity Biotech plc,$83.82,258-55-7133
+1873,"Water - Spring Water, 355 Ml",Technology,"GlassBridge Enterprises, Inc.",$20.81,408-21-5868
+1874,"Cheese - Romano, Grated",Consumer Services,Jack In The Box Inc.,$80.40,215-16-6900
+1875,"Cheese - Romano, Grated",Miscellaneous,ITUS Corporation,$44.34,713-24-2096
+1876,Meldea Green Tea Liquor,n/a,Babson Global Short Duration High Yield Fund,$21.36,556-77-3455
+1877,Wine - Fontanafredda Barolo,n/a,First Trust Large Cap Core AlphaDEX Fund,$57.87,407-11-6692
+1878,Coffee Decaf Colombian,Consumer Durables,"Industrial Services of America, Inc.",$97.71,351-61-8212
+1879,Tea - English Breakfast,Public Utilities,"TC PipeLines, LP",$10.13,398-55-8255
+1880,Hipnotiq Liquor,Technology,"On Assignment, Inc.",$26.82,836-62-1399
+1881,Wasabi Powder,Consumer Services,Macy's Inc,$58.78,253-08-5206
+1882,Radish - Pickled,Consumer Services,Applied DNA Sciences Inc,$17.93,892-04-3069
+1883,Glass Clear 7 Oz Xl,Health Care,"Proteon Therapeutics, Inc.",$34.66,273-83-6461
+1884,Cheese Cheddar Processed,n/a,W.R. Berkley Corporation,$97.28,849-03-3467
+1885,Cocktail Napkin Blue,Public Utilities,Nortel Inversora SA,$4.91,357-07-1773
+1886,Chef Hat 20cm,Technology,QAD Inc.,$45.93,399-85-7628
+1887,"Chestnuts - Whole,canned",Consumer Services,At Home Group Inc.,$57.02,643-31-2721
+1888,Orange - Tangerine,Health Care,Invitae Corporation,$47.50,615-27-3055
+1889,Cheese - Cheddar With Claret,n/a,Eaton Vance Tax-Managed Buy-Write Income Fund,$28.27,372-43-3576
+1890,"Pasta - Spaghetti, Dry",n/a,Axis Capital Holdings Limited,$5.25,685-28-5613
+1891,Sauce - Ranch Dressing,Consumer Non-Durables,"Harley-Davidson, Inc.",$97.80,676-81-2687
+1892,Beef - Short Loin,n/a,"Equus Total Return, Inc.",$52.76,428-35-2280
+1893,"Coke - Classic, 355 Ml",Capital Goods,"MOCON, Inc.",$7.94,219-82-4239
+1894,Pork Salted Bellies,n/a,"Central Europe, Russia and Turkey Fund, Inc. (The)",$82.51,676-01-0992
+1895,"Chilli Paste, Sambal Oelek",n/a,Brookfield Global Listed Infrastructure Income Fund,$98.23,265-57-8196
+1896,Chocolate - Liqueur Cups With Foil,n/a,Scudder Municiple Income Trust,$53.86,147-19-0760
+1897,Boogies,Technology,"Social Reality, Inc.",$44.97,391-50-1134
+1898,Cheese - Ermite Bleu,Health Care,"LeMaitre Vascular, Inc.",$9.48,362-79-1382
+1899,Wine - Vineland Estate Semi - Dry,Public Utilities,Atmos Energy Corporation,$11.60,179-22-0225
+1900,"Coke - Classic, 355 Ml",Consumer Non-Durables,Hershey Company (The),$34.10,437-26-0119
+1901,"Oranges - Navel, 72",Consumer Services,500.com Limited,$55.46,453-38-0804
+1902,Wine - Penfolds Koonuga Hill,n/a,PowerShares S&P SmallCap Financials Portfolio,$83.10,708-67-3617
+1903,"Wine - Sherry Dry Sack, William",n/a,Eaton Vance Municipal Income Trust,$80.52,378-10-6469
+1904,Papayas,Technology,Globant S.A.,$20.98,681-95-8417
+1905,Pate - Cognac,Energy,"Centennial Resource Development, Inc.",$1.57,516-04-1902
+1906,Soup - Campbells Mushroom,n/a,"AmTrust Financial Services, Inc.",$30.22,567-61-1227
+1907,Gatorade - Fruit Punch,Capital Goods,CPS Technologies Corp.,$20.64,276-09-2985
+1908,Wine - Cabernet Sauvignon,Consumer Services,GasLog LP.,$66.01,294-19-6641
+1909,Pie Filling - Apple,Energy,Parker Drilling Company,$86.20,329-52-7099
+1910,Wine - Touraine Azay - Le - Rideau,Finance,BanColombia S.A.,$44.05,677-89-5573
+1911,"Cheese - Woolwich Goat, Log",Finance,"Home BancShares, Inc.",$28.53,247-55-8314
+1912,V8 Splash Strawberry Kiwi,Capital Goods,"Forterra, Inc.",$23.15,774-20-1577
+1913,"Wine - Red, Gallo, Merlot",n/a,"Blackrock MuniYield Fund, Inc.",$44.89,537-52-1048
+1914,Nantuket Peach Orange,n/a,Drive Shack Inc.,$78.18,615-06-4962
+1915,Lettuce - Escarole,n/a,Nuveen Municipal Credit Income Fund,$85.82,744-58-9285
+1916,Beef - Striploin Aa,Finance,"Prudential Financial, Inc.",$71.45,562-94-2645
+1917,Swiss Chard - Red,Basic Industries,Masco Corporation,$2.19,291-61-2950
+1918,Shallots,Energy,Sprague Resources LP,$69.89,355-01-1165
+1919,Raspberries - Frozen,Basic Industries,VALE S.A.,$41.75,230-75-7660
+1920,Wine - Balbach Riverside,Capital Goods,"Green Brick Partners, Inc.",$76.43,318-55-4565
+1921,"Pepsi - Diet, 355 Ml",Health Care,Tonix Pharmaceuticals Holding Corp.,$56.31,696-27-8330
+1922,Tea - Vanilla Chai,Consumer Services,Francesca's Holdings Corporation,$77.18,568-05-2216
+1923,"Wine - Red, Colio Cabernet",Energy,"Alliance Resource Partners, L.P.",$8.42,691-74-0726
+1924,Wine - Maipo Valle Cabernet,Consumer Services,"Insight Enterprises, Inc.",$44.96,485-29-0486
+1925,Long Island Ice Tea,Capital Goods,"Schmitt Industries, Inc.",$86.36,813-21-2330
+1926,"Bread - Pumpernickle, Rounds",n/a,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.,$72.03,292-95-5026
+1927,Cookies - Amaretto,Technology,STMicroelectronics N.V.,$9.74,411-17-8230
+1928,Appetizer - Southwestern,n/a,PowerShares Optimum Yield Diversified Commodity Strategy No K-,$12.50,871-83-0441
+1929,Beer - Upper Canada Lager,Health Care,icad inc.,$97.33,358-62-7523
+1930,Caviar - Salmon,n/a,Federal Agricultural Mortgage Corporation,$16.46,370-87-0211
+1931,Icecream Cone - Areo Chocolate,Public Utilities,Black Hills Corporation,$86.41,634-28-7211
+1932,Appetizer - Tarragon Chicken,Health Care,"Rennova Health, Inc.",$47.28,865-61-8079
+1933,Clementine,Health Care,"Walgreens Boots Alliance, Inc.",$62.25,127-96-2003
+1934,Okra,Consumer Services,"Foot Locker, Inc.",$88.97,245-49-6974
+1935,Curry Powder,Consumer Services,Mistras Group Inc,$57.26,891-70-2343
+1936,Bay Leaf Ground,Energy,"TPI Composites, Inc.",$64.01,127-37-5069
+1937,Rambutan,n/a,W.R. Berkley Corporation,$56.44,338-28-4069
+1938,Plate Pie Foil,n/a,Gabelli Dividend,$63.22,865-12-7257
+1939,"Tomatoes - Cherry, Yellow",Health Care,CONMED Corporation,$64.46,486-74-4233
+1940,Ice Cream - Strawberry,Finance,"Merrill Lynch Depositor, Inc.",$99.98,471-90-3039
+1941,"Water - Spring Water, 355 Ml",n/a,GSV Capital Corp,$16.99,155-43-1503
+1942,Coriander - Ground,Finance,"Texas Capital Bancshares, Inc.",$3.48,627-21-5533
+1943,Fireball Whisky,Health Care,"Agile Therapeutics, Inc.",$19.26,430-88-2983
+1944,Tomato - Tricolor Cherry,Finance,"Northfield Bancorp, Inc.",$22.67,855-50-0334
+1945,"Bread - Rolls, Corn",Finance,"Great Southern Bancorp, Inc.",$75.14,439-88-2850
+1946,Wine - Jaboulet Cotes Du Rhone,Capital Goods,Cemtrex Inc.,$59.56,624-76-7489
+1947,Bread Crumbs - Panko,n/a,Costamare Inc.,$61.86,510-10-3337
+1948,Sole - Iqf,Capital Goods,"Insteel Industries, Inc.",$24.11,296-08-3602
+1949,"Pepper - Black, Ground",n/a,First Trust Indxx Global Natural Resources Income ETF,$31.87,360-02-4726
+1950,Chef Hat 20cm,Health Care,Global Partner Acquisition Corp.,$66.22,896-75-7576
+1951,Chocolate - Semi Sweet,Capital Goods,"Taylor Devices, Inc.",$57.73,299-26-3909
+1952,Pineapple - Regular,n/a,First Trust Canada AlphaDEX Fund,$37.13,432-64-2627
+1953,Piping Jelly - All Colours,Finance,"Boston Private Financial Holdings, Inc.",$73.79,643-59-4424
+1954,Icecream - Dibs,Health Care,"Champions Oncology, Inc.",$69.34,116-01-7261
+1955,Wine - Chenin Blanc K.w.v.,n/a,Eaton Vance Corporation,$44.82,606-71-8763
+1956,Muffin Mix - Carrot,Technology,"Everspin Technologies, Inc.",$78.65,171-86-5204
+1957,Milk - Homo,Finance,M III Acquisition Corp.,$8.47,156-49-7412
+1958,Beef Tenderloin Aaa,n/a,Tekla World Healthcare Fund,$80.59,495-94-5155
+1959,Petite Baguette,Consumer Non-Durables,US Foods Holding Corp.,$48.38,555-05-2271
+1960,Wine - Zinfandel California 2002,Consumer Services,"SunOpta, Inc.",$48.61,270-91-8058
+1961,Syrup - Monin - Passion Fruit,Finance,Aegon NV,$30.03,289-47-8455
+1962,Juice - Apple Cider,Public Utilities,Northwest Natural Gas Company,$55.95,402-42-5324
+1963,Piping Jelly - All Colours,Basic Industries,"Synthesis Energy Systems, Inc.",$33.68,883-45-5067
+1964,Cookie - Oatmeal,Miscellaneous,"CDK Global, Inc.",$47.63,596-93-4100
+1965,Bacardi Breezer - Tropical,Public Utilities,Qwest Corporation,$75.41,812-65-6510
+1966,Wine - Chateau Bonnet,n/a,FIRST REPUBLIC BANK,$21.32,341-42-4204
+1967,Turnip - Mini,Technology,"MINDBODY, Inc.",$9.49,284-96-3481
+1968,Cup Translucent 9 Oz,Technology,Atomera Incorporated,$18.73,363-57-7992
+1969,Wine - German Riesling,n/a,M&T Bank Corporation,$4.99,834-53-1720
+1970,Lettuce - Curly Endive,Consumer Services,NXT-ID Inc.,$17.46,128-12-8275
+1971,Potatoes - Peeled,n/a,ProShares UltraPro Short QQQ,$14.01,613-44-2289
+1972,"Champagne - Brights, Dry",Consumer Services,Liberty Broadband Corporation,$81.73,775-55-5878
+1973,Muffin Mix - Corn Harvest,Finance,Siebert Financial Corp.,$27.40,697-38-2715
+1974,Lychee - Canned,Capital Goods,"Allied Motion Technologies, Inc.",$40.67,114-50-3577
+1975,Hot Choc Vending,Finance,"FCB Financial Holdings, Inc.",$98.63,269-14-4409
+1976,"Halibut - Whole, Fresh",Finance,"Nicholas Financial, Inc.",$45.91,527-36-8098
+1977,Wine - Chianti Classica Docg,Finance,"Armada Hoffler Properties, Inc.",$10.95,540-02-3050
+1978,Beef Flat Iron Steak,Basic Industries,Newmont Mining Corporation,$55.39,462-33-0157
+1979,Rabbit - Whole,Health Care,"Fortress Biotech, Inc.",$88.43,765-58-4759
+1980,Blueberries,Basic Industries,Olin Corporation,$62.95,739-32-9425
+1981,"Cheese - Boursin, Garlic / Herbs",Energy,Penn Virginia Corporation,$72.92,237-34-4222
+1982,Trueblue - Blueberry Cranberry,Capital Goods,"Taylor Devices, Inc.",$82.19,261-21-1977
+1983,Pepper - Jalapeno,Consumer Services,"Yatra Online, Inc.",$75.28,697-80-9215
+1984,Beets - Golden,Health Care,"Cyclacel Pharmaceuticals, Inc.",$87.97,477-47-6925
+1985,Orange Roughy 4/6 Oz,Finance,State Auto Financial Corporation,$86.95,615-05-8313
+1986,Dill Weed - Fresh,Finance,U.S. Bancorp,$1.85,779-38-7948
+1987,Bouq All Italian - Primerba,Consumer Services,Hornbeck Offshore Services,$86.43,899-42-1154
+1988,"Juice - Clam, 46 Oz",Basic Industries,Hexcel Corporation,$91.63,780-71-0224
+1989,Foil Wrap,Consumer Services,"Hemisphere Media Group, Inc.",$42.67,104-61-6278
+1990,"Pork - Loin, Center Cut",n/a,Vanguard Russell 1000 ETF,$46.01,780-31-9737
+1991,Snapple - Iced Tea Peach,Miscellaneous,"TechTarget, Inc.",$61.24,450-05-1370
+1992,Cheese Cloth No 60,Consumer Services,VEREIT Inc.,$10.37,276-96-8040
+1993,Beef Dry Aged Tenderloin Aaa,Health Care,"Alimera Sciences, Inc.",$43.62,142-17-6942
+1994,Durian Fruit,Capital Goods,"Comfort Systems USA, Inc.",$99.65,846-52-8850
+1995,Straws - Cocktale,Technology,"Everspin Technologies, Inc.",$52.01,499-46-3950
+1996,"Cheese - Cheddar, Old White",Capital Goods,Delphi Automotive plc,$67.21,680-06-6971
+1997,Cleaner - Bleach,Finance,Fanhua Inc.,$14.58,790-42-7528
+1998,"Pasta - Rotini, Dry",Health Care,Compugen Ltd.,$83.43,498-16-9996
+1999,Salad Dressing,Energy,Chevron Corporation,$71.50,500-01-6287
+2000,Appetizer - Seafood Assortment,n/a,iShares MSCI ACWI ex US Index Fund,$65.42,836-54-9462
