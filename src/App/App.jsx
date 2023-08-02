@@ -38,6 +38,27 @@ const columns = [
 ];
 
 const MiTabla = () => {
+	const objeto = {
+		propiedad1: 'valor 1',
+		propiedad2: 'valor 2',
+		propiedad3: 'valor 3',
+		propiedad4: 'valor 4',
+	};
+
+	const obtenerInformacion = () => {
+		return new Promise((resolve, reject) => {
+			setTimeout(() => {
+				resolve(objeto);
+			}, 3000);
+		});
+	};
+
+	console.log('habia una vez un barco chiquito');
+	obtenerInformacion().then(resultado => {
+		console.log('ahora aparece la promesa');
+		console.log(resultado);
+	});
+	console.log('ya paso la promesa..');
 	return (
 		<>
 			<CssBaseline />
